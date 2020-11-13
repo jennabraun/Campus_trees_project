@@ -1,0 +1,29 @@
+---
+title: ""
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+```
+
+<br>
+![](./trees.jpg)  
+
+## Campus tree dynamics
+An exploration of tree health, consumer pressure, and disturbance. A long-term tree census [dataset](https://search.dataone.org/view/doi%3A10.5063%2FF13F4MZC) is reused here to examine change through time and explore potential key drivers.  
+
+### Data
+```{r}
+library(tidyverse)
+#long-term
+data <- read_csv("data/YorkUTreeMap.csv")
+
+pilot <- read_csv("data/pilot.csv")
+
+```
+
+
+### Viz
+
+
