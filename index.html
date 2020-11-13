@@ -381,10 +381,24 @@ summary {
 <div id="data" class="section level3">
 <h3>Data</h3>
 <pre class="r"><code>library(tidyverse)
+library(lubridate)
+
 #long-term
 data &lt;- read_csv(&quot;data/YorkUTreeMap.csv&quot;)
 
-pilot &lt;- read_csv(&quot;data/pilot.csv&quot;)</code></pre>
+#need to tidy dates
+data &lt;- data %&gt;% 
+  mutate(Date = as.Date(Date)) %&gt;% 
+  mutate(year = year(Date))
+
+#data &lt;- data %&gt;% 
+  #mutate(Date = ymd(Date)) %&gt;% 
+  #mutate(year = year(Date))
+
+
+#read in 2020 and add year vector also need rename ID to match
+pilot &lt;- read_csv(&quot;data/pilot.csv&quot;) %&gt;% 
+  mutate(year = &quot;2020&quot;)</code></pre>
 </div>
 <div id="viz" class="section level3">
 <h3>Viz</h3>

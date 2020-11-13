@@ -16,14 +16,32 @@ An exploration of tree health, consumer pressure, and disturbance. A long-term t
 ### Data
 ```{r}
 library(tidyverse)
+library(lubridate)
+
 #long-term
 data <- read_csv("data/YorkUTreeMap.csv")
 
-pilot <- read_csv("data/pilot.csv")
+#need to tidy dates
+data <- data %>% 
+  mutate(Date = as.Date(Date)) %>% 
+  mutate(year = year(Date))
+
+#data <- data %>% 
+  #mutate(Date = ymd(Date)) %>% 
+  #mutate(year = year(Date))
+
+
+#read in 2020 and add year vector also need rename ID to match
+pilot <- read_csv("data/pilot.csv") %>% 
+  mutate(year = "2020")
 
 ```
 
 
 ### Viz
+```{r}
+
+```
+
 
 
