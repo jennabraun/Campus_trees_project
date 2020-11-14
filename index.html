@@ -391,7 +391,13 @@ data &lt;- read_csv(&quot;data/tree_sub.csv&quot;) %&gt;%
 df &lt;-  data %&gt;% 
   select(7, 10:11, DBH, 18, 32, 30, 28, year) %&gt;% 
   rename(ID = 1, species = 2, genus = 3, crown_width = 5, conks = 6, scars = 7,
-  branch_health = 8)
+  branch_health = 8) 
+
+df &lt;- df %&gt;% 
+  pivot_longer(!c(1:3, 9), names_to = &quot;measure&quot;, values_to = &quot;values&quot;)
+
+spp &lt;- df %&gt;% 
+  select(ID, species, genus)
 
 
 #read in 2020 and add year vector also need rename ID to match
@@ -406,7 +412,18 @@ pilot &lt;- pilot %&gt;%
   mutate(year = 2020) %&gt;% 
   select(-2)
 
-#now need to make long format to join or keep year and do bind cols</code></pre>
+pilot &lt;- left_join(pilot, spp) %&gt;% 
+  select(ID, species, genus, year, everything()) %&gt;% 
+  mutate(DBH = as.numeric(DBH))
+
+
+pilot_df &lt;- pilot %&gt;% 
+  pivot_longer(!c(1:4), names_to = &quot;measure&quot;, values_to = &quot;values&quot;)
+
+df_all &lt;- bind_rows(df, pilot_df)
+  
+
+#hmmm, keep in wide and just calculate relative change?</code></pre>
 </div>
 <div id="viz" class="section level3">
 <h3>Viz</h3>

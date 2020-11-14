@@ -58,7 +58,7 @@ pilot_df <- pilot %>%
 df_all <- bind_rows(df, pilot_df)
   
 
-#now need to make long format to join or keep year and do bind cols
+#hmmm, keep in wide and just calculate relative change?
 
 
 ```
