@@ -15,7 +15,7 @@ OBJECTID,FID_,Date,Block,Street_or_,Building_C,Tree_Tag_N,Status,Species_Co,Comm
 1671,1670,9/7/2012,A,Vanier College Park,105,1671,alive,mapred,Red Maple,Acer,rubrum,p,by,9,1,0,5,4,43.774946,-79.502818,2,0,0,2,0,0,0,0,2,2,0,2,2,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
 1672,1671,9/7/2012,A,Vanier College Park,105,1672,alive,mapred,Red Maple,Acer,rubrum,p,by,10,1,0,7,8,43.774898,-79.502861,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
 1673,1672,9/7/2012,A,Vanier College Park,105,1673,alive,mapred,Red Maple,Acer,rubrum,p,by,9.5,1,0,6,8,43.774847,-79.502905,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
-1849,1848,1/0/1900,A,Stong Barn,101,1849,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,fy,8.917197,1,0,2,5.5,43.780028,-79.496631,3.5,3,1,1,1,1,0,3,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+1849,1848,1/1/1900,A,Stong Barn,101,1849,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,fy,8.917197,1,0,2,5.5,43.780028,-79.496631,3.5,3,1,1,1,1,0,3,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
 2177,2176,6/12/2013,B,Tait McK. Ctre,4,290,alive,mapred,Red Maple,Acer,rubrum,p,n,9.5,1,0,6,11,43.77529565,-79.50898558,3,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
 2509,2508,5/31/2013,B,Toronto Track & Field,7,624,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,w,19.3,2,0,11,9,43.77785845,-79.50856452,3,0,1,0,0,2,1,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,Dead branch,,,0,periph,within,
 2510,2509,5/31/2013,B,Toronto Track & Field,7,625,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,w,14.2,2,0,9,7,43.77792807,-79.50860553,6,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,Dead branch,,,0,periph,within,

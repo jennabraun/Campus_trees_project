@@ -19,21 +19,30 @@ library(tidyverse)
 library(lubridate)
 
 #long-term
-data <- read_csv("data/YorkUTreeMap.csv")
+data <- read_csv("data/tree_sub.csv") %>% 
+  mutate(date = mdy(Date)) %>% 
+  mutate(year = year(date))
 
-#need to tidy dates
-data <- data %>% 
-  mutate(Date = as.Date(Date)) %>% 
-  mutate(year = year(Date))
-
-#data <- data %>% 
-  #mutate(Date = ymd(Date)) %>% 
-  #mutate(year = year(Date))
+df <-  data %>% 
+  select(7, 10:11, DBH, 18, 32, 30, 28, year) %>% 
+  rename(ID = 1, species = 2, genus = 3, crown_width = 5, conks = 6, scars = 7,
+  branch_health = 8)
 
 
 #read in 2020 and add year vector also need rename ID to match
-pilot <- read_csv("data/pilot.csv") %>% 
-  mutate(year = "2020")
+pilot <- read_csv("data/pilot.csv")
+
+pilot <- pilot %>% 
+  select(1, 3:9)
+
+pilot <- pilot %>% 
+  rename(ID = 1, species = 2, DBH = 3, crown_width = 4, conks = 5, scars = 6,
+  branch_health = 8) %>% 
+  mutate(year = 2020) %>% 
+  select(-2)
+
+#now need to make long format to join or keep year and do bind cols
+
 
 ```
 
