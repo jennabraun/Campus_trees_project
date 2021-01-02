@@ -1,0 +1,920 @@
+OBJECTID,FID_,Date,Block,Street_or_,Building_C,Tree_Tag_N,Status,Species_Co,Common_Nam,Genus,Species,Ownership,Location_C,DBH,Number_of_,Percentage,Crown_Widt,Total_Heig,Latitude,Longitude,Height_to_,Unbalanced,Reduced_Cr,Weak_Yello,Defoliatio,Dead_Broke,Poor_Branc,Lean,Trunk_Scar,Branch_Sca,Conks,Rot_Cavity,Rot_Cavi_1,Crack,Confined_S,Girdling_R,Recent_Tre,Conflict_w,Conflict_1,Conflict_2,Conflict_3,Conflict_4,Cable_Brac,Comments,Additional,Replacemen,New_Specie,Transparen,locale,subway,sbwy100
+30,29,9/7/2012,A,Stedman Lecture Hall,22,30,alive,mapred,Red Maple,Acer,rubrum,p,fy,27,1,40,13,14,43.77467,-79.503217,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+181,180,9/7/2012,A,Founders College,50,181,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,sr,33,1,0,8,9,43.775781,-79.502671,6,0,2,2,2,2,2,3,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,Broken branches,,,,0,central,within,within
+183,182,9/7/2012,A,Founders College,50,183,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,sr,17,2,0,7,8,43.775689,-79.502613,5,1,1,1,1,1,2,1,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+238,237,8/20/2012,A,McLaughlin College,51,238,alive,mapred,Red Maple,Acer,rubrum,p,fy,5,1,0,1,3,43.777047,-79.503032,2,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+239,238,8/20/2012,A,McLaughlin College,51,239,alive,mapred,Red Maple,Acer,rubrum,p,fy,6,1,0,2,5,43.77703,-79.503096,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+240,239,8/20/2012,A,McLaughlin College,51,240,alive,mapred,Red Maple,Acer,rubrum,p,fy,5,1,0,1,4,43.777016,-79.503172,3,0,2,1,1,0,0,0,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+258,257,8/20/2012,A,McLaughlin College,51,258,alive,mapred,Red Maple,Acer,rubrum,p,sl,5,1,0,2,6,43.776776,-79.503213,3,0,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0,0,n,n,n,n,n,,,,,0,periph,within,
+259,258,8/20/2012,A,McLaughlin College,51,259,alive,mapred,Red Maple,Acer,rubrum,p,sl,6,1,0,3,7,43.776721,-79.503191,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,,,,,0,periph,within,
+260,259,8/20/2012,A,McLaughlin College,51,260,alive,mapred,Red Maple,Acer,rubrum,p,sl,4,1,0,2,5,43.776647,-79.503151,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+1303,1302,8/1/2012,A,Stong Barn,101,1303,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,sr,9,1,0,4,5,43.779878,-79.497895,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+1668,1667,9/7/2012,A,Vanier College Park,105,1668,alive,mapred,Red Maple,Acer,rubrum,p,by,6,1,0,1.5,4,43.775095,-79.502687,1.5,1,2,2,2,2,0,0,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+1669,1668,9/7/2012,A,Vanier College Park,105,1669,alive,mapred,Red Maple,Acer,rubrum,p,by,9.5,1,0,8,6,43.775047,-79.502732,2.5,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+1670,1669,9/7/2012,A,Vanier College Park,105,1670,alive,mapred,Red Maple,Acer,rubrum,p,by,10.5,1,0,5,7,43.774997,-79.502776,3,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+1671,1670,9/7/2012,A,Vanier College Park,105,1671,alive,mapred,Red Maple,Acer,rubrum,p,by,9,1,0,5,4,43.774946,-79.502818,2,0,0,2,0,0,0,0,2,2,0,2,2,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+1672,1671,9/7/2012,A,Vanier College Park,105,1672,alive,mapred,Red Maple,Acer,rubrum,p,by,10,1,0,7,8,43.774898,-79.502861,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+1673,1672,9/7/2012,A,Vanier College Park,105,1673,alive,mapred,Red Maple,Acer,rubrum,p,by,9.5,1,0,6,8,43.774847,-79.502905,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+1849,1848,1/1/1900,A,Stong Barn,101,1849,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,fy,8.917197,1,0,2,5.5,43.780028,-79.496631,3.5,3,1,1,1,1,0,3,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+2177,2176,6/12/2013,B,Tait McK. Ctre,4,290,alive,mapred,Red Maple,Acer,rubrum,p,n,9.5,1,0,6,11,43.77529565,-79.50898558,3,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+2509,2508,5/31/2013,B,Toronto Track & Field,7,624,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,w,19.3,2,0,11,9,43.77785845,-79.50856452,3,0,1,0,0,2,1,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,Dead branch,,,0,periph,within,
+2510,2509,5/31/2013,B,Toronto Track & Field,7,625,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,w,14.2,2,0,9,7,43.77792807,-79.50860553,6,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,Dead branch,,,0,periph,within,
+2511,2510,5/31/2013,B,Toronto Track & Field,7,626,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,w,15.5,2,0,12,9,43.77794706,-79.50863662,5,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,Dead branch,,,0,periph,within,
+2512,2511,5/31/2013,B,Toronto Track & Field,7,627,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,w,17,1,0,6,12,43.77795094,-79.50860496,9,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,Dead branch,,,0,periph,within,
+2513,2512,5/31/2013,B,Toronto Track & Field,7,628,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,w,11.5,1,0,7,7,43.77793476,-79.50856985,4,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,Dead branch,,,0,periph,within,
+2514,2513,5/31/2013,B,Toronto Track & Field,7,629,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,w,21.5,1,0,15,11,43.7779578,-79.50858309,3,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,Dead branch,,,0,periph,within,
+2515,2514,5/31/2013,B,Toronto Track & Field,7,630,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,w,17,1,0,9,13,43.77791999,-79.5085334,3,0,0,0,0,0,1,2,2,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,,,,0,periph,within,
+2516,2515,5/31/2013,B,Toronto Track & Field,7,631,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,w,11.5,1,0,4,11,43.77792644,-79.50848063,4,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,,,,0,periph,within,
+2517,2516,5/31/2013,B,Toronto Track & Field,7,632,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,w,16.5,1,0,10,12,43.77792589,-79.5084379,4,0,0,0,0,0,1,2,2,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,Dead branch,,,0,periph,within,
+2518,2517,5/31/2013,B,Toronto Track & Field,7,633,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,w,9,3,0,8,9,43.77792722,-79.50841223,7,0,2,2,1,0,1,2,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,Track and Field Centre,Dead branch,,,0,periph,within,
+2527,2526,5/31/2013,B,Toronto Track & Field,7,642,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,w,22.292994,1,0,9,10,43.77797849,-79.50850794,4,0,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,Broken branch,,,0,periph,within,
+2528,2527,5/31/2013,B,Toronto Track & Field,7,643,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,w,12.420382,2,0,7,7,43.77798158,-79.50856212,5,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,Broken branch,,,0,periph,within,
+2531,2530,5/31/2013,B,Toronto Track & Field,7,646,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,nw,21.6,2,0,10,11,43.77800016,-79.508416,6,0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,,,,0,periph,within,
+2532,2531,5/31/2013,B,Toronto Track & Field,7,647,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,nw,15.5,2,0,0,7.5,43.77790589,-79.50831838,0.5,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,n,n,n,e,n,n,Track and Field Centre,,,,0,periph,within,
+2533,2532,5/31/2013,B,Toronto Track & Field,7,648,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,nw,12,1,0,3,6,43.77792452,-79.50832186,11,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,,,,0,periph,within,
+2534,2533,5/31/2013,B,Toronto Track & Field,7,649,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,nw,14.3,2,0,2,7.5,43.77800928,-79.50838454,2,0,0,0,0,2,0,1,1,2,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,,,,0,periph,within,
+2535,2534,5/31/2013,B,Toronto Track & Field,7,650,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,nw,14,1,0,2,9,43.77801455,-79.5083318,17,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,Dead branch,,,0,periph,within,
+2536,2535,5/31/2013,B,Toronto Track & Field,7,651,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,nw,17.8,1,0,4,10,43.77802614,-79.50830686,12,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,,,,0,periph,within,
+2537,2536,5/31/2013,B,Toronto Track & Field,7,652,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,nw,17.8,2,0,3,8.5,43.77802583,-79.50828385,10,0,1,0,0,1,1,2,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,Dead branch,,,0,periph,within,
+2539,2538,5/31/2013,B,Toronto Track & Field,7,654,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,18.5,1,0,6,7,43.77806777,-79.50812006,5,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,Broken branch,,,0,periph,within,
+2540,2539,5/31/2013,B,Toronto Track & Field,7,655,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,17.2,2,0,6,5.5,43.77807098,-79.50809203,3,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,Broken branch,,,0,periph,within,
+2541,2540,5/31/2013,B,Toronto Track & Field,7,656,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,13.9,2,0,8,5,43.77805983,-79.50805943,8,2,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,Dead branch,,,0,periph,within,
+2542,2541,5/31/2013,B,Toronto Track & Field,7,657,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,23.4,1,0,8.5,10,43.77807099,-79.50800162,14,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,Dead branch,,,0,periph,within,
+2543,2542,5/31/2013,B,Toronto Track & Field,7,658,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,19,2,0,11,7.5,43.77808132,-79.50797177,13,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,Track and Field Centre,Dead branch,,,0,periph,within,
+2544,2543,5/31/2013,B,Toronto Track & Field,7,659,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,29,4,0,14,9,43.77809267,-79.50792875,14,0,1,0,0,1,2,0,1,0,0,0,1,0,0,0,0,n,n,n,n,n,n,Track and Field Centre,Broken branch,,,0,periph,within,
+2545,2544,5/31/2013,B,Toronto Track & Field,7,660,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,20,2,0,25,9,43.77809462,-79.50789582,4,0,0,0,0,1,2,2,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,,,,0,periph,within,
+2546,2545,5/31/2013,B,Toronto Track & Field,7,661,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,15.5,2,0,12,8,43.77810133,-79.50786277,0.5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,Track and Field Centre,Dead branch,,,0,periph,within,
+2547,2546,5/31/2013,B,Toronto Track & Field,7,662,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,24.3,3,0,10,9.5,43.77809954,-79.50781679,6,0,0,0,1,2,2,1,0,0,0,0,0,0,0,0,0,n,e,n,e,n,n,Track and Field Centre,Dead branch,,,0,periph,within,
+2548,2547,5/31/2013,B,Toronto Track & Field,7,663,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,18,2,0,9,8.5,43.77811604,-79.50780323,9,0,0,0,0,2,0,2,0,1,0,0,0,0,0,0,0,n,e,n,e,n,n,Track and Field Centre,Dead branch,,,0,periph,within,
+2549,2548,5/31/2013,B,Toronto Track & Field,7,664,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,24.5,2,0,11,10,43.77811789,-79.50776208,6,0,0,0,0,2,0,2,1,1,0,0,0,0,0,0,0,n,e,n,e,n,n,Track and Field Centre,Broken branch,,,0,periph,within,
+2550,2549,5/31/2013,B,Toronto Track & Field,7,665,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,19,3,0,15,10,43.77813835,-79.5076876,6,0,2,0,0,2,2,1,0,0,0,0,0,0,0,0,0,n,e,n,e,n,n,Track and Field Centre,Broken branch,,,0,periph,within,
+2551,2550,5/31/2013,B,Toronto Track & Field,7,666,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,18,2,0,11,9,43.77814617,-79.50764795,3,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,n,e,n,e,n,n,Track and Field Centre,Dead branch,,,0,periph,within,
+2552,2551,5/31/2013,B,Toronto Track & Field,7,667,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,15,1,0,10,9,43.77815486,-79.50758362,4,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,n,e,n,e,n,n,Track and Field Centre,Dead branch,,,0,periph,within,
+2553,2552,5/31/2013,B,Toronto Track & Field,7,668,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,24,1,0,9,9.5,43.77816502,-79.50754063,4,0,0,0,0,2,0,1,2,0,0,0,0,0,0,0,0,n,e,n,e,n,n,Track and Field Centre,Dead branch,,,0,periph,within,
+2554,2553,5/31/2013,B,Toronto Track & Field,7,669,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,12,2,0,4,9,43.77817526,-79.5075042,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,n,e,n,e,n,n,Track and Field Centre,,,,0,periph,within,
+2555,2554,5/31/2013,B,Toronto Track & Field,7,670,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,21.1,2,0,10,8,43.77819166,-79.50748243,12,0,2,0,1,1,1,2,0,0,0,0,0,0,0,0,0,n,e,n,e,n,n,Track and Field Centre,,,,0,periph,within,
+2556,2555,5/31/2013,B,Toronto Track & Field,7,671,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,14.5,2,0,3,6.5,43.77818653,-79.50745461,3,0,0,0,0,2,3,1,2,0,0,0,0,2,0,0,0,n,n,n,e,n,n,Track and Field Centre,Dead branch,,,0,periph,within,
+2557,2556,5/31/2013,B,Toronto Track & Field,7,672,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,19,1,0,6,6,43.7781945,-79.50742646,0.5,0,3,0,0,2,1,1,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,Dead branch,,,0,periph,within,
+2559,2558,5/31/2013,B,Toronto Track & Field,7,674,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,17.3,2,0,9,7.5,43.77819872,-79.50738526,4,0,2,0,0,2,1,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,Dead branch,,,0,periph,within,
+2560,2559,5/31/2013,B,Toronto Track & Field,7,675,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,16,3,0,4,7.5,43.77820776,-79.50734722,3,0,2,0,0,3,3,2,1,1,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,Dead branch,,,0,periph,within,
+2561,2560,5/31/2013,B,Toronto Track & Field,7,676,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,16.5,2,0,12,9.5,43.77822274,-79.50730904,4,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,,,,0,periph,within,
+2562,2561,5/31/2013,B,Toronto Track & Field,7,677,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,15,1,0,0,5,43.77823436,-79.50726864,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,,,,0,periph,within,
+2563,2562,5/31/2013,B,Toronto Track & Field,7,678,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,25.5,1,0,16,12,43.77824253,-79.50723687,10,0,2,0,0,1,2,0,0,0,0,0,1,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,,,,0,periph,out,
+2564,2563,5/31/2013,B,Toronto Track & Field,7,679,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,20.5,2,0,15,9,43.77823926,-79.50720539,2,0,3,0,0,2,2,1,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,Dead branch,,,0,periph,out,
+2565,2564,5/31/2013,B,Toronto Track & Field,7,680,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,25,1,0,10,12.5,43.77825817,-79.5071944,7,0,0,0,0,1,2,0,2,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,,,,0,periph,out,
+2566,2565,5/31/2013,B,Toronto Track & Field,7,681,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,18.5,1,0,14,9,43.77825383,-79.50715374,8,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,,,,0,periph,out,
+2567,2566,5/31/2013,B,Toronto Track & Field,7,682,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,14.5,1,0,10,7,43.77826898,-79.50714679,2,0,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,,,,0,periph,out,
+2568,2567,5/31/2013,B,Toronto Track & Field,7,683,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,25,1,0,11,6,43.77826838,-79.50710077,2,0,1,0,0,2,2,2,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,,,,0,periph,out,
+2569,2568,5/31/2013,B,Toronto Track & Field,7,684,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,10.2,2,0,2,5,43.7782843,-79.50707933,1,0,2,0,0,2,0,2,0,1,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,,,,0,periph,out,
+2570,2569,5/31/2013,B,Toronto Track & Field,7,685,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,10.2,2,0,9,6.5,43.77828766,-79.50704505,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,,,,0,periph,out,
+2571,2570,5/31/2013,B,Toronto Track & Field,7,686,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,23,1,0,11,8,43.77829378,-79.50700282,4,0,1,0,0,1,2,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,,,,0,periph,out,
+2971,2970,6/7/2013,B,Calumet College,10,1086,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,n,9.8,1,0,5,14,43.77333559,-79.50992743,11,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+2979,2978,6/7/2013,B,Calumet College,10,1094,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,n,15,2,0,10,9,43.77383195,-79.51015349,8.5,2,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,Broken branch,,,,0,periph,out,
+3014,3013,6/11/2013,B,Bethune Loadg Dock,11,1129,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,n,16.5,2,30,14,10,43.77386807,-79.50972154,9,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3015,3014,6/11/2013,B,Bethune Loadg Dock,11,1130,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,n,14,1,0,12,10,43.77381714,-79.50969815,8,2,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3031,3030,6/11/2013,B,Bethune Court yard,11,1146,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,n,24.7,2,0,0,11,43.77352818,-79.50943543,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,e,n,n,n,n,n,,,,,0,central,out,
+3299,3298,6/17/2013,B,Steacie Science & Engineering Library,18,1414,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,51.2,1,0,16,14,43.77356967,-79.5063628,16,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,Dead branch,,,,0,central,out,
+3499,3498,6/18/2013,B,Shoreham Drive Lot,63,1614,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,25,1,0,12,15,43.77366819,-79.51418604,26,3,2,0,1,2,1,2,3,1,0,2,0,0,0,0,0,n,n,n,n,n,n,Broken branch,,,,0,periph,out,
+3500,3499,6/18/2013,B,Shoreham Drive Lot,63,1615,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,34.5,1,0,9,14,43.77365798,-79.51413369,21,1,2,0,1,2,1,0,1,0,0,1,0,0,0,0,0,n,n,n,n,n,n,Broken branch,,,,0,periph,out,
+3501,3500,6/18/2013,B,Shoreham Drive Lot,63,1616,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,32,1,0,9,14,43.77362268,-79.51416744,20,2,2,0,1,1,1,2,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,Broken branch,,,,0,periph,out,
+3511,3510,6/18/2013,B,Shoreham Drive Lot,63,1626,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,35,1,0,11,14,43.77292209,-79.5138589,24,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3512,3511,6/18/2013,B,Shoreham Drive Lot,63,1627,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,42.5,1,0,13,15,43.77287514,-79.51382106,26,2,1,0,1,1,0,1,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,Broken branch,,,,0,periph,out,
+3516,3515,6/18/2013,B,Shoreham Drive Lot,63,1631,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,30,3,0,15,13,43.77274192,-79.5138331,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+3517,3516,6/18/2013,B,Shoreham Drive Lot,63,1632,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,29.5,1,0,12,12,43.77268448,-79.51384584,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+3518,3517,6/18/2013,B,Shoreham Drive Lot,63,1633,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,24,3,0,10,11,43.7726715,-79.51380918,21,0,2,0,2,2,2,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+3519,3518,6/18/2013,B,Shoreham Drive Lot,63,1634,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,40.5,2,0,12,12,43.77260194,-79.51380858,20,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3520,3519,6/18/2013,B,Shoreham Drive Lot,63,1635,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,43,2,0,14,12,43.77260859,-79.51376819,21,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3521,3520,6/18/2013,B,Shoreham Drive Lot,63,1636,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,35,2,0,10,12,43.77253706,-79.51375875,21,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+3522,3521,6/18/2013,B,Shoreham Drive Lot,63,1637,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,35,2,0,8,12,43.77250526,-79.51378546,20,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+3523,3522,6/18/2013,B,Shoreham Drive Lot,63,1638,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,49,4,0,15,15,43.77248652,-79.51373332,28,1,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+3527,3526,6/18/2013,B,Shoreham Drive Lot,63,1642,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,43,1,0,9,14,43.77216908,-79.51347701,24,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,Dead branch,,,,0,periph,out,
+3528,3527,6/18/2013,B,Shoreham Drive Lot,63,1643,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,41,1,0,8,13,43.77214961,-79.51348044,23,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3557,3556,6/18/2013,B,Shoreham Drive Lot,63,1672,alive,mapred,Red Maple,Acer,rubrum,p,s,17.5,1,0,9,14,43.77243112,-79.51225784,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,n,n,n,n,n,n,,,,,0,periph,out,
+3570,3569,5/27/2013,B,Shoreham Drive Lot,63,1685,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,e,40,2,0,16,29,43.77296823,-79.51158527,26,1,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3571,3570,5/27/2013,B,Shoreham Drive Lot,63,1686,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,e,25,3,0,14,26,43.77301996,-79.5116411,24,0,2,1,1,1,1,0,0,1,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3572,3571,5/27/2013,B,Shoreham Drive Lot,63,1687,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,e,38,1,0,15,28,43.77304702,-79.5116313,25,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3574,3573,5/27/2013,B,Shoreham Drive Lot,63,1689,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,e,46,1,0,12,18,43.77316601,-79.51167636,15,1,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3579,3578,5/27/2013,B,Shoreham Drive Lot,63,1694,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,e,28,1,0,7,12,43.773323,-79.51179555,21,2,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+4239,4238,8/27/2013,C,Arboretum,0,131,alive,mapred,Red Maple,Acer,rubrum,p,sl,22,1,0,7,21,43.772142,-79.510354,19,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4245,4244,8/27/2013,C,Arboretum,0,137,alive,mapnor,Red Maple,Acer,rubrum,p,sl,33.3,1,0,10,30,43.771885,-79.510506,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4319,4318,8/27/2013,C,Arboretum,0,211,alive,mapred,Red Maple,Acer,rubrum,p,fy,18.152866,1,0,9,19,43.771892,-79.508016,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4418,4417,8/27/2013,C,Arboretum,0,310,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,fy,18,3,0,16,9,43.771239,-79.507778,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4420,4419,8/27/2013,C,Arboretum,0,312,alive,mapred,Red Maple,Acer,rubrum,p,fy,20,1,0,10,10,43.771272,-79.507641,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,Inside construction zone,,,0,periph,out,
+4421,4420,8/27/2013,C,Arboretum,0,313,alive,mapred,Red Maple,Acer,rubrum,p,fy,35,1,0,14,20,43.77127,-79.507604,15,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,Inside construction zone,,,0,periph,out,
+4422,4421,8/27/2013,C,Arboretum,0,314,alive,mapred,Red Maple,Acer,rubrum,p,fy,23.5,1,0,14,20,43.771281,-79.507531,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,Inside construction zone,,,0,periph,out,
+4431,4430,8/27/2013,C,Arboretum,0,323,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,fy,4,1,0,2,2,43.771312,-79.507119,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,Inside construction zone,,,0,periph,out,
+4432,4431,8/27/2013,C,Arboretum,0,324,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,fy,3,1,0,2,2,43.771307,-79.507066,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,Inside construction zone,,,0,periph,out,
+4433,4432,8/27/2013,C,Arboretum,0,325,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,fy,4,1,0,2,2,43.771288,-79.507021,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,Inside construction zone,,,0,periph,out,
+4434,4433,8/27/2013,C,Arboretum,0,326,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,fy,4,1,0,2,2,43.771337,-79.507122,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,Inside construction zone,,,0,periph,out,
+4437,4436,8/27/2013,C,Arboretum,0,329,alive,mapred,Red Maple,Acer,rubrum,p,fy,4,1,0,2,4,43.771354,-79.507106,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,Inside construction zone,,,0,periph,out,
+4461,4460,8/27/2013,C,Arboretum,0,353,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,sr,29.5,1,0,14,16,43.771272,-79.50624,14,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+4462,4461,8/27/2013,C,Arboretum,0,354,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,sr,22.5,2,0,12,16,43.771266,-79.506315,14,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+4463,4462,8/27/2013,C,Arboretum,0,355,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,sr,21.5,4,0,12,16,43.771225,-79.506266,14,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+4473,4472,8/27/2013,C,Arboretum,0,365,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,sr,5,1,0,2.5,4,43.770997,-79.506575,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4477,4476,8/27/2013,C,Arboretum,0,369,alive,mapred,Red Maple,Acer,rubrum,p,sr,6,1,0,4.5,4.5,43.770842,-79.506588,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4528,4527,8/27/2013,C,Arboretum,0,420,alive,mapred,Red Maple,Acer,rubrum,p,sr,4.936306,1,0,1,3.5,43.770487,-79.506607,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4529,4528,8/27/2013,C,Arboretum,0,421,alive,mapred,Red Maple,Acer,rubrum,p,sr,4.458599,1,0,1,3.5,43.77041,-79.506529,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4531,4530,8/27/2013,C,Arboretum,0,423,alive,mapred,Red Maple,Acer,rubrum,p,sr,5.414013,1,0,1,4,43.770322,-79.506481,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4532,4531,8/27/2013,C,Arboretum,0,424,alive,mapred,Red Maple,Acer,rubrum,p,sr,5.095541,1,0,1,3.5,43.77,-79.507065,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4533,4532,8/27/2013,C,Arboretum,0,425,alive,mapred,Red Maple,Acer,rubrum,p,sr,11.305732,1,0,1,8,43.769786,-79.50682,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4561,4560,8/27/2013,C,Arboretum,0,453,alive,mapred,Red Maple,Acer,rubrum,p,sr,5.732484,1,0,9,5,43.76984,-79.506245,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4562,4561,8/27/2013,C,Arboretum,0,454,alive,mapred,Red Maple,Acer,rubrum,p,sr,5.254777,1,0,9,4.5,43.769902,-79.506295,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4563,4562,8/27/2013,C,Arboretum,0,455,alive,mapred,Red Maple,Acer,rubrum,p,sr,7.006369,1,0,6,5,43.769961,-79.506227,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4579,4578,8/27/2013,C,Arboretum,0,471,alive,mapred,Red Maple,Acer,rubrum,p,by,9,1,0,7,8,43.769593,-79.506086,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4591,4590,8/27/2013,C,Arboretum,0,483,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,by,4,2,0,3,3.5,43.769952,-79.506973,2.5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4592,4591,8/27/2013,C,Arboretum,0,484,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,by,6,2,0,3,3.5,43.769966,-79.506989,2.5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4593,4592,8/27/2013,C,Arboretum,0,485,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,by,5,2,0,3,3.5,43.769984,-79.507018,2.5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4609,4608,8/27/2013,C,Arboretum,0,501,alive,mapred,Red Maple,Acer,rubrum,p,by,9,1,0,3.5,9,43.770785,-79.507932,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4610,4609,8/27/2013,C,Arboretum,0,502,alive,mapred,Red Maple,Acer,rubrum,p,by,11.5,1,0,10,14,43.770844,-79.508005,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4611,4610,8/27/2013,C,Arboretum,0,503,alive,mapred,Red Maple,Acer,rubrum,p,by,10,1,0,7.5,10,43.770883,-79.50806,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4613,4612,8/27/2013,C,Arboretum,0,505,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,by,5,1,0,2,3,43.770669,-79.507712,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4614,4613,8/27/2013,C,Arboretum,0,506,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,by,5,1,0,4,3,43.770796,-79.507672,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4615,4614,8/27/2013,C,Arboretum,0,507,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,by,5,1,0,5,3,43.770888,-79.507727,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4616,4615,8/27/2013,C,Arboretum,0,508,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,by,5,1,0,4,3,43.770927,-79.507825,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4617,4616,8/27/2013,C,Arboretum,0,509,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,by,5,1,0,4,3,43.770969,-79.507864,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4994,4993,9/5/2013,C,Scholars Walk,32,886,alive,mapred,Red Maple,Acer,rubrum,p,by,8.5,1,0,2,10,43.77039,-79.503609,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5316,5315,9/5/2013,C,340 Assiniboine,47,1208,alive,mapred,Red Maple,Acer,rubrum,p,sr,49.5,1,0,60,20,43.768955,-79.503313,42,22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,e,n,n,n,n,,,,,0,periph,out,
+5337,5336,9/10/2013,C,360 Assiniboine,46,1229,alive,mapred,Red Maple,Acer,rubrum,p,sr,18.5,1,0,15,15,43.768372,-79.503908,17,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,e,n,n,n,n,,,,,0,periph,out,
+5353,5352,9/10/2013,C,360 Assiniboine,46,1245,alive,mapred,Red Maple,Acer,rubrum,p,by,43.5,1,0,12,17,43.767903,-79.504132,25,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+5354,5353,9/10/2013,C,360 Assiniboine,46,1246,alive,mapred,Red Maple,Acer,rubrum,p,by,32.7,1,0,11,16,43.767919,-79.50419,24,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+5389,5388,9/10/2013,C,Passy Playground,402,1281,alive,mapred,Red Maple,Acer,rubrum,p,by,18.5,1,0,3.5,11,43.768178,-79.505261,12,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5397,5396,9/10/2013,C,Passy Playground,402,1289,alive,mapred,Red Maple,Acer,rubrum,p,sl,20.5,1,0,10,9,43.768365,-79.505322,12,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5449,5448,9/16/2014,C,Atknson Road,83,1341,alive,mapred,Red Maple,Acer,rubrum,p,sl,13.853503,1,0,0,7.5,43.771211,-79.503111,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,,,,,,,,,,,0,periph,out,
+5455,5454,9/16/2014,C,Hoover House,0,1347,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,fy,20.700637,2,0,6.3,11,43.768414,-79.50779,8,2,2,0,1,2,0,1,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+5660,5659,9/11/2013,D,Sentinel RD Lot,88,144,alive,mapred,Red Maple,Acer,rubrum,p,pl,25.8,1,0,14,13,43.769361,-79.500654,6,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5663,5662,9/11/2013,D,Sentinel RD Lot,88,147,alive,mapred,Red Maple,Acer,rubrum,p,pl,24.5,1,0,8,12,43.769247,-79.501181,20,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5664,5663,9/11/2013,D,Sentinel RD Lot,88,148,alive,mapred,Red Maple,Acer,rubrum,p,pl,34.8,1,0,9,12.5,43.769242,-79.501271,15,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5949,5948,9/19/2013,D,York lanes,400,433,alive,mapred,Red Maple,Acer,rubrum,p,fy,17.5,1,15,12,9,43.773895,-79.501228,16,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+6066,6065,9/19/2013,D,York lanes,400,550,alive,mapred,Red Maple,Acer,rubrum,p,fy,17.8,1,0,9,9,43.773444,-79.500891,15,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,Dying,Transplanted tree,,,0,central,within,
+6071,6070,9/19/2013,D,York lanes,400,555,alive,mapred,Red Maple,Acer,rubrum,p,fy,25,1,10,4,14,43.773361,-79.501201,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,e,n,n,n,n,n,Columnar,,,,0,central,within,
+6077,6076,9/19/2013,D,York lanes,400,561,alive,mapred,Red Maple,Acer,rubrum,p,fy,24.3,1,0,7,17,43.773337,-79.50154,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,e,n,n,n,n,n,columnar,,,,0,central,within,
+6085,6084,9/19/2013,D,York lanes,400,569,alive,mapred,Red Maple,Acer,rubrum,p,fy,25.5,1,0,4,17,43.773241,-79.501971,32,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,columnar,,,,0,central,within,
+6089,6088,9/19/2013,D,York lanes,400,573,alive,mapred,Red Maple,Acer,rubrum,p,fy,28,1,0,9,14,43.773577,-79.502059,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,columnar,,,,0,central,within,
+6092,6091,9/19/2013,D,York lanes,400,576,alive,mapred,Red Maple,Acer,rubrum,p,fy,27,1,0,11,16,43.7736,-79.501955,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,central,within,
+6093,6092,9/19/2013,D,York lanes,400,577,alive,mapred,Red Maple,Acer,rubrum,p,fy,28,1,0,12,17,43.773568,-79.501817,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,columnar,,,,0,central,within,
+6097,6096,9/19/2013,D,York lanes,400,581,alive,mapred,Red Maple,Acer,rubrum,p,fy,22.5,1,0,9,15,43.773674,-79.50163,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6101,6100,9/19/2013,D,York lanes,400,585,alive,mapred,Red Maple,Acer,rubrum,p,fy,25.3,1,25,9,16,43.773724,-79.501424,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,columnar,,,,0,central,within,within
+6103,6102,9/19/2013,D,York lanes,400,587,alive,mapred,Red Maple,Acer,rubrum,p,fy,26.8,1,0,9,17,43.773762,-79.501299,28,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,columnar,,,,0,central,within,within
+6290,6289,9/12/2013,D,Keele South,86,774,alive,mapred,Red Maple,Acer,rubrum,p,fy,11.3,1,0,5,8.5,43.771238,-79.496329,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+6291,6290,9/12/2013,D,Keele South,86,775,alive,mapred,Red Maple,Acer,rubrum,p,fy,9.5,1,0,2,6,43.771296,-79.496077,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+6293,6292,9/12/2013,D,Keele South,86,777,alive,mapred,Red Maple,Acer,rubrum,p,fy,11.7,1,0,4,7,43.771353,-79.495815,7,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+6302,6301,9/12/2013,D,Keele South,86,786,alive,mapred,Red Maple,Acer,rubrum,p,fy,10.3,1,0,1,6,43.771568,-79.494531,1,1,3,0,0,3,0,0,3,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+6303,6302,9/12/2013,D,Keele South,86,787,alive,mapred,Red Maple,Acer,rubrum,p,fy,10.5,1,0,2,6,43.771639,-79.494322,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+6304,6303,9/12/2013,D,Keele South,86,788,alive,mapred,Red Maple,Acer,rubrum,p,fy,10.5,1,0,1.5,6,43.771665,-79.494213,1.5,0,1,0,0,2,0,0,3,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+6324,6323,9/12/2013,D,Keele South,86,808,alive,mapred,Red Maple,Acer,rubrum,c,sr,45,8,0,25,20,43.771125,-79.494096,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+6386,6385,9/19/2013,D,The Pond,86,870,alive,mapred,Red Maple,Acer,rubrum,p,by,10.5,1,0,2,5,43.770864,-79.497837,5,0,3,1,0,3,0,0,3,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+6387,6386,9/19/2013,D,The Pond,86,871,alive,mapred,Red Maple,Acer,rubrum,p,by,14,1,0,4,10,43.77083,-79.498016,9,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+6399,6398,9/19/2013,D,The Pond,86,883,alive,mapred,Red Maple,Acer,rubrum,p,fy,15.8,1,0,12,8,43.770641,-79.49901,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+6400,6399,9/19/2013,D,The Pond,86,884,alive,mapred,Red Maple,Acer,rubrum,p,fy,10,1,0,2,5,43.770595,-79.499198,1,0,0,1,1,2,0,0,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+6401,6400,9/19/2013,D,The Pond,86,885,alive,mapred,Red Maple,Acer,rubrum,p,fy,9,1,0,3,7,43.770559,-79.499384,3,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+6402,6401,9/19/2013,D,The Pond,86,886,alive,mapred,Red Maple,Acer,rubrum,p,fy,10,1,0,4,9,43.770538,-79.499459,6,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+6403,6402,9/19/2013,D,The Pond,86,887,alive,mapred,Red Maple,Acer,rubrum,p,fy,11,1,0,8,8,43.770514,-79.499577,8,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+6404,6403,9/19/2013,D,The Pond,86,888,alive,mapred,Red Maple,Acer,rubrum,p,fy,11,1,0,4,9,43.770486,-79.499704,8,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+6734,6733,9/16/2013,D,James Gilles St,41,1218,alive,mapred,Red Maple,Acer,rubrum,p,sl,13,1,0,6,7.5,43.772052,-79.497393,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+6735,6734,9/16/2013,D,James Gilles St,41,1219,alive,mapred,Red Maple,Acer,rubrum,p,sl,14.5,1,0,6,7.5,43.772041,-79.497394,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+6736,6735,9/16/2013,D,James Gilles St,41,1220,alive,mapred,Red Maple,Acer,rubrum,p,sr,14.8,1,0,6,7.5,43.772026,-79.497393,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+6737,6736,9/16/2013,D,James Gilles St,41,1221,alive,mapred,Red Maple,Acer,rubrum,p,sr,15.2,1,0,6,7.5,43.772014,-79.497397,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+6743,6742,9/16/2013,D,James Gilles St,41,1227,alive,mapred,Red Maple,Acer,rubrum,p,sr,14.5,1,0,10,10,43.771967,-79.497371,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+6744,6743,9/16/2013,D,James Gilles St,41,1228,alive,mapred,Red Maple,Acer,rubrum,p,sr,12.8,1,0,10,10,43.771956,-79.497375,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,within,
+6745,6744,9/16/2013,D,James Gilles St,41,1229,alive,mapred,Red Maple,Acer,rubrum,p,sr,23.8,1,0,12,12.5,43.771947,-79.497379,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,within,
+6775,6774,9/16/2013,D,James Gilles St,41,1259,alive,mapred,Red Maple,Acer,rubrum,p,by,20.6,1,0,12,12,43.771022,-79.498089,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+6776,6775,9/16/2013,D,James Gilles St,41,1260,alive,mapred,Red Maple,Acer,rubrum,p,by,21.8,1,0,12,12,43.771045,-79.497969,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+6777,6776,9/16/2013,D,James Gilles St,41,1261,alive,mapred,Red Maple,Acer,rubrum,p,by,22.5,1,0,12,12,43.771072,-79.497865,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+6778,6777,9/16/2013,D,James Gilles St,41,1262,alive,mapred,Red Maple,Acer,rubrum,p,by,23,1,0,11,11,43.771098,-79.497748,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+6779,6778,9/16/2013,D,James Gilles St,41,1263,alive,mapred,Red Maple,Acer,rubrum,p,by,18.5,1,0,10,11,43.771123,-79.497619,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+6780,6779,9/16/2013,D,James Gilles St,41,1264,alive,mapred,Red Maple,Acer,rubrum,p,by,18.4,1,0,10,11,43.771145,-79.497496,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+6781,6780,9/16/2013,D,James Gilles St,41,1265,alive,mapred,Red Maple,Acer,rubrum,p,by,16.5,1,0,10,10,43.771176,-79.497373,17,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+6782,6781,9/16/2013,D,James Gilles St,41,1266,alive,mapred,Red Maple,Acer,rubrum,p,by,19.3,1,0,10,10,43.771204,-79.497242,17,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+1816,1815,9/13/2013,A,Harry Sherman Housing,57,1816,alive,peapea,Flowering Pear,Pyrus,spp,p,sl,8,1,0,7,2,43.775992,-79.500181,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+3412,3411,6/17/2013,B,Lumber,20,1527,alive,peapea,Flowering Pear,Pyrus,spp,p,s,9,2,5,4,25,43.7744553,-79.50481186,14,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,within,
+5891,5890,9/11/2013,D,York lanes,400,375,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,13.4,1,80,5,6,43.77385,-79.502165,8,0,0,0,0,2,1,0,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,central,within,
+5892,5891,9/11/2013,D,York lanes,400,376,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,13.5,1,80,6,5,43.773883,-79.50218,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,Dying,,,,0,central,within,within
+5893,5892,9/11/2013,D,York lanes,400,377,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,17.5,1,80,7,8,43.773894,-79.502129,7,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,central,within,within
+5895,5894,9/11/2013,D,York lanes,400,379,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,16.1,1,80,7,8,43.773905,-79.50207,9.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,central,within,within
+5896,5895,9/11/2013,D,York lanes,400,380,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,13.7,1,80,6.5,8,43.773873,-79.502059,9.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,central,within,within
+5897,5896,9/11/2013,D,York lanes,400,381,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,15.4,1,80,6,8,43.773915,-79.502017,10,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,central,within,within
+5898,5897,9/11/2013,D,York lanes,400,382,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,16.8,1,80,6,8,43.773887,-79.502006,10,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,central,within,within
+5899,5898,9/11/2013,D,York lanes,400,383,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,4.6,1,80,9,3,43.773924,-79.50196,9.5,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,central,within,within
+5900,5899,9/11/2013,D,York lanes,400,384,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,17.4,1,80,1,8,43.773896,-79.501952,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,central,within,within
+5901,5900,9/11/2013,D,York lanes,400,385,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,14.2,1,80,6,7.5,43.773937,-79.501906,9.3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,central,within,within
+5902,5901,9/11/2013,D,York lanes,400,386,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,14.7,1,80,9,7.5,43.773911,-79.5019,9,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,central,within,within
+5904,5903,9/11/2013,D,York lanes,400,388,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,15.6,1,80,6,8,43.77395,-79.501855,10.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,central,within,within
+5905,5904,9/11/2013,D,York lanes,400,389,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,18.4,1,80,9,7.5,43.773929,-79.501788,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,central,within,within
+5906,5905,9/11/2013,D,York lanes,400,390,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,16.7,1,80,5,9,43.77396,-79.501803,12.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,central,within,within
+5907,5906,9/11/2013,D,York lanes,400,391,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,17.6,1,80,5,8,43.773971,-79.501739,12.5,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,central,within,within
+5908,5907,9/11/2013,D,York lanes,400,392,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,18,1,80,6,8,43.77394,-79.501731,14.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,central,within,within
+5909,5908,9/11/2013,D,York lanes,400,393,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,19.3,1,80,7,8,43.773978,-79.501685,13,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,central,within,within
+5910,5909,9/11/2013,D,York lanes,400,394,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,18.8,1,80,9,8,43.773953,-79.501675,11.5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,central,within,within
+5911,5910,9/11/2013,D,York lanes,400,395,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,18.1,1,80,8,8,43.773996,-79.501633,11,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,central,within,within
+5912,5911,9/11/2013,D,York lanes,400,396,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,18.4,1,80,9,8,43.773968,-79.501622,13,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,central,within,within
+5913,5912,9/11/2013,D,York lanes,400,397,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,18.1,1,80,6,8,43.774009,-79.501569,12,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,central,within,within
+5914,5913,9/11/2013,D,York lanes,400,398,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,23.6,1,80,10,8,43.773971,-79.50156,14.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,central,within,within
+5915,5914,9/11/2013,D,York lanes,400,399,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,17.4,1,80,5,8,43.774016,-79.501523,10,0,2,0,0,2,1,0,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,central,within,within
+5916,5915,9/11/2013,D,York lanes,400,400,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,19.5,1,80,8,7,43.773986,-79.501512,11,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,central,within,within
+6027,6026,9/19/2013,D,York lanes,400,511,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,17.5,1,40,4,9,43.773073,-79.501688,15,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,8,n,n,n,n,n,n,,,,,0,central,within,
+6061,6060,9/19/2013,D,York lanes,400,545,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,8.8,1,0,3,5.5,43.773259,-79.500835,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6173,6172,9/19/2013,D,York lanes,400,657,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,19.5,1,85,8,14,43.772948,-79.50151,15,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6174,6173,9/19/2013,D,York lanes,400,658,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,21.8,1,85,8,15,43.77296,-79.501452,4,0,2,0,0,0,0,1,2,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6175,6174,9/19/2013,D,York lanes,400,659,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,23.5,1,57,8,15,43.772972,-79.501392,15,0,2,0,0,0,0,1,1,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6176,6175,9/19/2013,D,York lanes,400,660,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,27,1,57,14,16,43.772984,-79.501353,13,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,n,n,n,e,n,n,,,,,0,central,within,
+6177,6176,9/19/2013,D,York lanes,400,661,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,24.2,1,70,12,16,43.772997,-79.501302,15,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6178,6177,9/19/2013,D,York lanes,400,662,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,27,1,70,13,14,43.773008,-79.501253,11,0,1,0,0,1,1,0,1,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6179,6178,9/19/2013,D,York lanes,400,663,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,25.5,1,80,12,14,43.773018,-79.501211,14,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6180,6179,9/19/2013,D,York lanes,400,664,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,11.2,1,50,4.5,9,43.773029,-79.501148,10,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6181,6180,9/19/2013,D,York lanes,400,665,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,25.5,1,75,10,13,43.773047,-79.501062,18,0,0,0,0,1,1,1,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6183,6182,9/19/2013,D,York lanes,400,667,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,18,1,65,8,11,43.773064,-79.500961,16,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6184,6183,9/19/2013,D,York lanes,400,668,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,25.2,1,70,12,12,43.773077,-79.500912,14,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6186,6185,9/19/2013,D,York lanes,400,670,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,6,1,5,3,4,43.77309,-79.500852,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,central,within,
+6570,6569,9/16/2013,D,York Bld,92,1054,alive,peapea,Flowering Pear,Pyrus,spp,p,by,7.8,1,0,3,7,43.772468,-79.499385,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6575,6574,9/16/2013,D,York Bld,92,1059,alive,peapea,Flowering Pear,Pyrus,spp,p,by,6.8,1,0,3,5,43.772354,-79.499907,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6609,6608,9/16/2013,D,York Bld,92,1093,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,19.2,1,0,2,10,43.773243,-79.5001,10,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6610,6609,9/16/2013,D,York Bld,92,1094,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,12.2,1,0,4,10,43.773287,-79.500052,10,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+6611,6610,9/16/2013,D,York Bld,92,1095,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,16.3,1,0,2,10,43.773295,-79.500003,10,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+6612,6611,9/16/2013,D,York Bld,92,1096,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,18.2,1,0,2,10,43.773309,-79.499952,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+6613,6612,9/16/2013,D,York Bld,92,1097,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,16.3,1,0,4,11,43.773319,-79.499895,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+6614,6613,9/16/2013,D,York Bld,92,1098,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,22,1,0,4,11,43.773329,-79.49984,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+6615,6614,9/16/2013,D,York Bld,92,1099,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,20.6,1,0,4,11,43.773341,-79.499778,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+349,348,5/31/2012,A,Winters College,53,349,alive,ginkgo,Ginkgo,Ginkgo,biloba,P,fy,10.828025,1,0,0,7.5,43.775946,-79.50124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,0,central,within,
+1140,1139,9/7/2012,A,York Lanes Pkg garage,72,1140,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,sr,15.5,1,0,6,11,43.774953,-79.501259,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+1141,1140,9/7/2012,A,York Lanes Pkg garage,72,1141,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,sr,12,1,0,4,10,43.77497,-79.501273,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+1150,1149,9/7/2012,A,York Lanes Pkg garage,72,1150,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,14,1,0,5,9,43.77505,-79.50147,6,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+1151,1150,9/7/2012,A,York Lanes Pkg garage,72,1151,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,13.5,1,0,4,8,43.775079,-79.501504,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+1152,1151,9/7/2012,A,York Lanes Pkg garage,72,1152,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,15,1,0,6,10,43.77509,-79.501548,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+1153,1152,9/7/2012,A,York Lanes Pkg garage,72,1153,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,13,1,0,6,10,43.775066,-79.501627,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,e,n,n,n,n,,,,,0,central,within,within
+1154,1153,9/7/2012,A,York Lanes Pkg garage,72,1154,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,11.5,1,0,5,9,43.775037,-79.501646,4,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+1155,1154,9/7/2012,A,York Lanes Pkg garage,72,1155,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,14.5,1,0,5,10,43.774992,-79.501656,3,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+1156,1155,9/7/2012,A,York Lanes Pkg garage,72,1156,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,12.5,1,0,6,11,43.774978,-79.501695,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,e,n,n,n,n,,,,,0,central,within,within
+1157,1156,9/7/2012,A,York Lanes Pkg garage,72,1157,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,12,1,0,7,11,43.774967,-79.501736,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,e,n,n,n,n,,,,,0,central,within,within
+1158,1157,9/7/2012,A,York Lanes Pkg garage,72,1158,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,14,1,0,7,12,43.774955,-79.501774,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,e,n,n,n,n,,,,,0,central,within,within
+1159,1158,9/7/2012,A,York Lanes Pkg garage,72,1159,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,8,1,0,3,6,43.774941,-79.501831,2,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,n,e,n,n,n,n,,,,,0,central,within,within
+1160,1159,9/7/2012,A,York Lanes Pkg garage,72,1160,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,14,1,0,6,12,43.774931,-79.501875,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,e,n,n,n,n,,,,,0,central,within,within
+1161,1160,9/7/2012,A,York Lanes Pkg garage,72,1161,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,13.5,1,0,7,11,43.774895,-79.502034,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,e,n,n,n,n,,,,,0,central,within,within
+1162,1161,9/7/2012,A,York Lanes Pkg garage,72,1162,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,14,1,0,5,10,43.774885,-79.502093,3,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,n,e,n,n,n,n,,,,,0,central,within,within
+1163,1162,9/7/2012,A,York Lanes Pkg garage,72,1163,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,14,1,0,7,12,43.774872,-79.502135,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,e,n,n,n,n,,,,,0,central,within,within
+1164,1163,9/7/2012,A,York Lanes Pkg garage,72,1164,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,14.5,1,0,5,11,43.774858,-79.5022,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,e,n,n,n,n,,,,,0,central,within,within
+1165,1164,9/7/2012,A,York Lanes Pkg garage,72,1165,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,12.5,1,0,5,12,43.774845,-79.502279,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,e,n,n,n,n,,,,,0,central,within,within
+3903,3902,6/21/2013,B,Steeles Av,106,2018,alive,ginkgo,Ginkgo,Ginkgo,biloba,c,st,4,1,0,1,4,43.7781232,-79.50829391,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+3905,3904,6/22/2013,B,Steeles Av,107,2020,alive,ginkgo,Ginkgo,Ginkgo,biloba,c,st,5,1,0,0.5,3,43.77806813,-79.5085468,0.5,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+3918,3917,6/22/2013,B,Steeles Av,106,2033,alive,ginkgo,Ginkgo,Ginkgo,biloba,c,st,4,1,0,0.5,4,43.77763953,-79.5105525,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+4058,4057,6/18/2013,B,Founders Residence w,203,2173,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,w,4.5,1,0,2.5,7,43.7760433,-79.50436675,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+4059,4058,6/18/2013,B,Founders Residence w,203,2174,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,w,5.2,1,0,2.5,6.5,43.77594551,-79.50432184,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+4060,4059,6/18/2013,B,Founders Residence w,203,2175,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,w,4,1,0,2.5,5,43.77586326,-79.50428555,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+4061,4060,6/18/2013,B,Founders Residence w,203,2176,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,w,3.7,1,0,2.5,5,43.77575429,-79.50423315,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+4062,4061,6/18/2013,B,Founders Residence w,203,2177,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,w,4.3,1,0,3,5,43.77567157,-79.50419881,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+4693,4692,9/3/2013,C,Campus Wk,401,585,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,5,1,0,2,5,43.773602,-79.50452,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+4694,4693,9/3/2013,C,Campus Wk,401,586,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,4.5,1,0,2,4,43.773612,-79.504476,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+4695,4694,9/3/2013,C,Campus Wk,401,587,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,5,1,0,2,4,43.773621,-79.504428,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+4696,4695,9/3/2013,C,Campus Wk,401,588,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,6,1,0,2,5,43.773629,-79.504391,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6060,6059,9/19/2013,D,York lanes,400,544,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,15,1,0,7,12,43.773237,-79.500958,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+685,684,8/9/2012,A,PRB,60,685,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sr,19.5,1,10,5,7,43.778135,-79.496587,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+686,685,8/9/2012,A,PRB,60,686,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sr,18,1,10,5,6,43.778175,-79.496606,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+687,686,8/9/2012,A,PRB,60,687,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sr,20,1,20,6,7,43.778215,-79.496623,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+688,687,8/9/2012,A,PRB,60,688,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sr,16,1,0,5,7,43.778261,-79.496641,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+898,897,8/3/2012,A,Founders Road East Lot,66,898,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sr,14,5,0,5,6,43.779014,-79.501095,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+946,945,8/5/2012,A,Founders Road East Lot,66,946,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sl,13,2,0,6,8,43.778265,-79.503587,2,0,0,0,0,0,0,0,2,2,2,1,0,0,0,0,0,n,n,n,n,n,n,Poor health,,,,0,periph,out,
+1755,1754,9/13/2013,A,Harry Sherman Housing,57,1755,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sr,10,4,0,4,5,43.775997,-79.498189,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+1759,1758,9/13/2013,A,Harry Sherman Housing,57,1759,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sr,7,6,0,4,6,43.776062,-79.497878,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+1761,1760,9/13/2013,A,Harry Sherman Housing,57,1761,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,by,7,5,0,4,7,43.775915,-79.498585,6.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+1763,1762,9/13/2013,A,Harry Sherman Housing,57,1763,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,by,9,6,0,4,7,43.775852,-79.498833,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4374,4373,8/27/2013,C,Arboretum,0,266,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,fy,9.235669,1,0,3.5,3.5,43.771458,-79.508471,3,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4486,4485,8/27/2013,C,Arboretum,0,378,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sr,13,4,0,6,5,43.771066,-79.506161,4.5,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4487,4486,8/27/2013,C,Arboretum,0,379,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sr,14,4,0,6,5,43.771087,-79.506131,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4488,4487,8/27/2013,C,Arboretum,0,380,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sr,12,4,0,6,5,43.771112,-79.506165,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4844,4843,9/5/2013,C,Nelson Road,31,736,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,fy,5,1,0,2,4.5,43.771389,-79.50465,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+4957,4956,9/5/2013,C,Nelson Road,31,849,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sr,5,10,0,8,9,43.771462,-79.503499,8.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+5030,5029,9/5/2013,C,Scholars Walk,32,922,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sl,3,1,0,1.5,2,43.770509,-79.505177,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5031,5030,9/5/2013,C,Scholars Walk,32,923,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sl,3,1,0,1.5,2,43.770525,-79.50515,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5032,5031,9/5/2013,C,Scholars Walk,32,924,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sl,3,1,0,1.5,1.8,43.770503,-79.505143,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5471,5470,9/16/2014,C,Hoover House,0,1363,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,,6.687898,7,0,4.2,5.5,43.768361,-79.509075,3.5,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,n,n,n,p,n,n,,,,,0,periph,out,
+5562,5561,9/10/2013,D,Atkinson West,33,46,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sl,4,3,0,2.5,5,43.771413,-79.501911,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+5563,5562,9/10/2013,D,Atkinson West,33,47,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sl,3,4,0,2.5,5,43.771387,-79.501896,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+5564,5563,9/10/2013,D,Atkinson West,33,48,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sl,4,4,0,3,5,43.771368,-79.501894,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+5565,5564,9/10/2013,D,Atkinson West,33,49,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sl,4,4,0,2.5,5,43.771357,-79.50192,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+5566,5565,9/10/2013,D,Atkinson West,33,50,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sl,4,3,0,2.5,5,43.771382,-79.501948,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+5570,5569,9/10/2013,D,Atkinson West,33,54,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sl,4,1,0,2.5,4,43.771695,-79.502103,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+5571,5570,9/10/2013,D,Atkinson West,33,55,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sl,4,1,0,2,3,43.771656,-79.502062,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+6162,6161,9/19/2013,D,York lanes,400,646,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,fy,5,1,0,2.5,4.5,43.772704,-79.502571,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,out,
+6164,6163,9/19/2013,D,York lanes,400,648,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,fy,4,1,0,2.5,4,43.77272,-79.502513,1.5,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,out,
+6165,6164,9/19/2013,D,York lanes,400,649,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,fy,6,1,0,4.5,5,43.772734,-79.502466,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+6773,6772,9/16/2013,D,James Gilles St,41,1257,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sr,4,5,0,10,5,43.771102,-79.498305,6.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+6786,6785,9/16/2013,D,James Gilles St,41,1270,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,by,4,3,0,2.5,5,43.771558,-79.497363,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+6788,6787,9/16/2013,D,James Gilles St,41,1272,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,by,4,2,0,2.5,5,43.771553,-79.497349,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+2262,2261,6/14/2013,B,Tait McK. Ctre,4,376,alive,pinaus,Austrian Pine,Pinus,nigra,p,n,28.8,1,0,11,12,43.774643,-79.51047093,21,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+1364,1363,8/2/2012,A,Steeles and Keele,103,1364,alive,dead,Austrian Pine,Pinus,nigra,p,st,23.88535,1,0,5,10,43.780002,-79.499873,6,0,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Dead,,,,0,periph,out,
+996,995,8/7/2012,A,Founders Road East Lot,66,996,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,33,1,0,14,13,43.778004,-79.502077,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+5518,5517,9/10/2013,D,Atkinson West,33,2,alive,pinaus,Austrian Pine,Pinus,nigra,p,sl,37.5,1,25,14,14,43.771225,-79.502744,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,e,n,n,n,n,,,,,0,periph,out,
+575,574,8/8/2012,A,CUB,58,575,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,41,1,0,8,11,43.77703,-79.498412,8,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+6927,6926,9/17/2013,D,Library Ln,93,1411,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,34,1,0,10,15,43.772022,-79.502655,15,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+5527,5526,9/10/2013,D,Atkinson West,33,11,alive,pinaus,Austrian Pine,Pinus,nigra,p,sl,33.757962,1,0,14,11,43.770711,-79.502525,24,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3731,3730,5/21/2013,B,Founders RD,65,1846,alive,pinaus,Austrian Pine,Pinus,nigra,p,e,30.5,1,10,9,16,43.77858505,-79.50442344,10,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+5441,5440,9/6/2013,C,Atknson Road,83,1333,alive,pinaus,Austrian Pine,Pinus,nigra,p,sl,34.5,1,0,1,13,43.771229,-79.50308,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+3795,3794,6/6/2013,B,Founders RD,65,1910,alive,pinaus,Austrian Pine,Pinus,nigra,p,n,20.063694,1,3,7,13,43.77839561,-79.50650918,20,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+2322,2321,6/14/2013,B,West Office Building,78,436,alive,pinaus,Austrian Pine,Pinus,nigra,p,w,40.5,1,0,14,13,43.77446282,-79.50840568,22,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3420,3419,6/17/2013,B,Lumber,20,1535,alive,pinaus,Austrian Pine,Pinus,nigra,p,n,19.426752,1,0,12,15,43.77836387,-79.50671997,12,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Conk,,,,0,periph,out,
+1118,1117,5/31/2012,A,Albany Road Lot,67,1118,alive,pinaus,Austrian Pine,Pinus,nigra,P,fy,32.165605,1,0,11,20,43.777369,-79.500568,7,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+1066,1065,8/7/2012,A,Albany Road Lot,67,1066,alive,pinaus,Austrian Pine,Pinus,nigra,p,sr,41.082803,1,0,10,12,43.776947,-79.499263,2,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+619,618,8/3/2012,A,YUDC,59,619,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,38,1,30,8,10,43.778854,-79.499541,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+939,938,8/3/2012,A,Founders Road East Lot,66,939,alive,pinaus,Austrian Pine,Pinus,nigra,p,sl,40.5,1,0,8,11,43.778495,-79.503679,3,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+992,991,8/7/2012,A,Founders Road East Lot,66,992,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,47,1,0,12,11,43.778051,-79.502167,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+576,575,8/8/2012,A,CUB,58,576,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,37,1,0,10,10,43.777046,-79.497843,5,2,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+5313,5312,9/5/2013,C,340 Assiniboine,47,1205,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,30,1,0,10,11,43.768438,-79.503558,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+4365,4364,8/27/2013,C,Arboretum,0,257,alive,pinaus,Austrian Pine,Pinus,nigra,p,fy,43.312102,1,0,14,10,43.771307,-79.508576,27.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+943,942,8/5/2012,A,Founders Road East Lot,66,943,alive,pinaus,Austrian Pine,Pinus,nigra,p,sl,34,1,0,10,10,43.778417,-79.503612,5,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+6942,6941,9/17/2013,D,Library Ln,93,1426,alive,pinaus,Austrian Pine,Pinus,nigra,p,cy,41.8,1,0,10,13,43.772773,-79.501721,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,East side of courtyard near art sculpture,,,,0,central,out,
+1048,1047,8/7/2012,A,Albany Road Lot,67,1048,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,40,1,0,11,15,43.776822,-79.499712,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+993,992,8/7/2012,A,Founders Road East Lot,66,993,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,46,1,0,12,13,43.777906,-79.502021,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+3796,3795,6/6/2013,B,Founders RD,65,1911,alive,pinaus,Austrian Pine,Pinus,nigra,p,n,27.707006,2,10,8,15,43.77842972,-79.50649603,17,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+2127,2126,6/12/2013,B,Tait McK. Ctre,4,240,alive,pinaus,Austrian Pine,Pinus,nigra,p,n,29.7,1,0,9,14,43.77489752,-79.50920245,11,0,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+3760,3759,6/6/2013,B,Founders RD,65,1875,alive,pinaus,Austrian Pine,Pinus,nigra,p,n,43.2,1,0,12,25,43.77874568,-79.50527469,9,1,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3756,3755,6/6/2013,B,Founders RD,65,1871,alive,pinaus,Austrian Pine,Pinus,nigra,p,n,30,1,0,5,19,43.77864782,-79.50554148,3,0,0,0,0,1,2,1,1,0,0,0,0,0,0,2,0,n,n,n,e,n,n,,,,,0,periph,out,
+2320,2319,6/14/2013,B,West Office Building,78,434,alive,pinaus,Austrian Pine,Pinus,nigra,p,w,31,1,0,14,13.5,43.77452348,-79.50831793,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+3864,3863,6/6/2013,B,Founders RD,65,1979,alive,pinaus,Austrian Pine,Pinus,nigra,p,s,37,1,0,8,24,43.77763851,-79.50433724,5,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+4273,4272,8/27/2013,C,Arboretum,0,165,alive,pinaus,Austrian Pine,Pinus,nigra,p,fy,52,1,0,15,19,43.771621,-79.509305,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+286,285,8/16/2012,A,Tatham Hall Residences,52,286,alive,pinaus,Austrian Pine,Pinus,nigra,p,fy,29,1,0,7,10,43.777478,-79.502186,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+586,585,8/8/2012,A,CUB,58,586,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,36.5,1,0,6,11,43.777105,-79.497931,7,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+298,297,8/16/2012,A,Tatham Hall Residences,52,298,alive,pinaus,Austrian Pine,Pinus,nigra,p,fy,48,1,30,10,13,43.777374,-79.50269,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+4954,4953,9/5/2013,C,Nelson Road,31,846,alive,pinaus,Austrian Pine,Pinus,nigra,p,sr,48,1,0,14,14,43.771536,-79.503333,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,out,
+4936,4935,9/5/2013,C,Nelson Road,31,828,alive,pinaus,Austrian Pine,Pinus,nigra,p,sr,26.8,1,0,10,30,43.771525,-79.503732,15,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+830,829,8/2/2012,A,Founders Road East Lot,66,830,alive,pinaus,Austrian Pine,Pinus,nigra,p,sl,31,1,20,5,9,43.778748,-79.503869,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+2941,2940,6/7/2013,B,Calumet College,10,1056,alive,pinaus,Austrian Pine,Pinus,nigra,p,n,25.7,1,5,14,18,43.77296743,-79.51044507,5,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+291,290,8/16/2012,A,Tatham Hall Residences,52,291,alive,pinaus,Austrian Pine,Pinus,nigra,p,fy,40,1,0,10,11,43.777434,-79.502465,7,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+5839,5838,9/11/2013,D,Atkinson RD,34,323,alive,pinaus,Austrian Pine,Pinus,nigra,p,sr,36.2,1,0,20,20,43.771359,-79.501446,30,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,out,
+835,834,8/2/2012,A,Founders Road East Lot,66,835,alive,pinaus,Austrian Pine,Pinus,nigra,p,sl,41,1,0,7,14,43.778863,-79.503898,8,0,1,1,1,2,0,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+554,553,8/8/2012,A,CUB,58,554,alive,pinaus,Austrian Pine,Pinus,nigra,p,sl,30,1,10,7,11,43.777416,-79.499079,8,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,n,e,n,e,n,n,,,,,0,periph,out,
+3703,3702,5/21/2013,B,Founders RD,65,1818,alive,pinaus,Austrian Pine,Pinus,nigra,p,e,41,1,40,11,18,43.77775501,-79.50405485,8,1,2,1,2,1,0,0,0,0,0,0,0,0,1,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+977,976,8/5/2012,A,Founders Road East Lot,66,977,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,38,1,0,10,12,43.777987,-79.502663,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+818,817,8/2/2012,A,Founders Road East Lot,66,818,alive,pinaus,Austrian Pine,Pinus,nigra,p,fy,29,1,0,7,10,43.779703,-79.50131,7,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+971,970,8/5/2012,A,Founders Road East Lot,66,971,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,31,1,0,3,11,43.777899,-79.502815,9,0,3,2,2,2,0,0,3,1,0,0,0,0,0,0,0,n,n,n,e,n,n,Dying,,,,0,periph,out,
+935,934,8/3/2012,A,Founders Road East Lot,66,935,alive,pinaus,Austrian Pine,Pinus,nigra,p,sl,49,1,40,14,13,43.77859,-79.503801,4,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+1493,1492,8/1/2012,A,Steeles and Keele,103,1493,alive,pinaus,Austrian Pine,Pinus,nigra,p,st,37.898089,1,0,8,10,43.780833,-79.494992,6,0,2,1,1,1,0,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+1117,1116,5/31/2012,A,Albany Road Lot,67,1117,alive,pinaus,Austrian Pine,Pinus,nigra,P,fy,38.535032,1,0,10,18,43.77736,-79.500582,6,0,2,0,2,2,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+6925,6924,9/17/2013,D,Library Ln,93,1409,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,35.5,1,0,10,15,43.77194,-79.502675,15,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+1225,1224,8/14/2012,A,Archives of Ontario,95,1225,alive,pinaus,Austrian Pine,Pinus,nigra,p,sr,34.872611,1,0,4,16,43.775346,-79.499778,4,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,within,
+143,142,8/20/2012,A,Founders College,50,143,alive,pinaus,Austrian Pine,Pinus,nigra,p,fy,36,1,20,8,21,43.775996,-79.50385,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,e,n,n,n,n,,,,,0,central,within,within
+2457,2456,5/31/2013,B,Toronto Track & Field,7,572,alive,pinaus,Austrian Pine,Pinus,nigra,c,w,19.745223,1,0,12,16,43.77772636,-79.50848232,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,,,,0,periph,within,
+1677,1676,9/7/2012,A,Vanier College Park,105,1677,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,35.5,1,30,9,14,43.774738,-79.503178,11,1,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,severe branch dieback,,,,0,central,within,within
+2648,2647,6/3/2013,B,Toronto Track & Field,7,763,alive,pinaus,Austrian Pine,Pinus,nigra,c,e,24.840764,1,0,6,14,43.77693404,-79.50620403,4,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,N,N,N,e,n,n,Track and Field Centre,,,,0,periph,within,within
+2312,2311,6/14/2013,B,West Office Building,78,426,alive,pinaus,Austrian Pine,Pinus,nigra,p,w,42,1,0,16,14.5,43.77459018,-79.50787014,22,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,within,
+2418,2417,5/30/2013,B,Toronto Track & Field,7,533,alive,pinaus,Austrian Pine,Pinus,nigra,c,w,22.6,1,15,5,14,43.77683948,-79.50815587,27,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,Track and Field Centre,,,,0,periph,within,within
+2680,2679,6/3/2013,B,Toronto Track & Field,7,795,alive,pinaus,Austrian Pine,Pinus,nigra,c,n,32.802548,1,0,8,18,43.77809543,-79.5073926,5,0,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,N,N,N,e,n,n,Track and Field Centre,,,,0,periph,within,
+433,432,9/7/2012,A,Vanier College,56,433,alive,pinaus,Austrian Pine,Pinus,nigra,p,sr,31,1,30,8,14,43.775784,-79.501909,8,2,2,2,2,1,0,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,within,
+3842,3841,6/6/2013,B,Founders RD,65,1957,alive,pinaus,Austrian Pine,Pinus,nigra,p,s,42,1,0,11,28,43.77744394,-79.50512636,16,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,within,
+2422,2421,5/30/2013,B,Toronto Track & Field,7,537,alive,pinaus,Austrian Pine,Pinus,nigra,c,w,29.617834,1,0,6,13,43.77692247,-79.50821791,20,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,,,,0,periph,within,within
+2363,2362,6/14/2013,B,West Office Building,78,478,alive,pinaus,Austrian Pine,Pinus,nigra,p,s,35.5,1,0,15,15,43.77547058,-79.5082813,20,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,within,
+1682,1681,9/7/2012,A,Vanier College Park,105,1682,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,34.076433,1,0,7,13,43.774701,-79.503428,10,0,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,severe branch dieback,,,,0,central,within,within
+3431,3430,6/18/2013,B,Farquharson Building,21,1546,alive,pinaus,Austrian Pine,Pinus,nigra,p,n,35.5,1,35,12,35,43.77440898,-79.50462878,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,n,e,n,n,n,n,,,,,0,central,within,
+2599,2598,6/3/2013,B,Toronto Track & Field,7,714,alive,pinaus,Austrian Pine,Pinus,nigra,c,e,19.5,1,0,7,14.5,43.77733747,-79.50603091,2,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,Dead branch,,,0,periph,within,
+442,441,9/7/2012,A,Vanier College,56,442,alive,pinaus,Austrian Pine,Pinus,nigra,p,sr,39,1,30,11,16,43.775431,-79.50181,11,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,e,n,e,n,n,,,,,0,central,within,within
+2361,2360,6/14/2013,B,West Office Building,78,476,alive,pinaus,Austrian Pine,Pinus,nigra,p,s,34.5,1,0,9,15.5,43.77548497,-79.50838648,14,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,within,
+2371,2370,5/30/2013,B,Toronto Track & Field,7,486,alive,pinaus,Austrian Pine,Pinus,nigra,c,w,37.5,1,35,14,15,43.77620829,-79.50792606,24,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,n,n,e,e,n,n,,,,,0,periph,within,within
+1232,1231,8/14/2012,A,Archives of Ontario,95,1232,alive,pinaus,Austrian Pine,Pinus,nigra,p,sr,36.942675,1,0,10,13,43.775417,-79.499758,10,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+1192,1191,8/14/2012,A,Archives of Ontario,95,1192,alive,pinaus,Austrian Pine,Pinus,nigra,p,sr,32,1,0,2,12,43.774745,-79.499572,10,0,2,2,2,3,0,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,within,within
+459,458,9/7/2012,A,Vanier College,56,459,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,34,1,0,10,14,43.775164,-79.501779,11,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,within,within
+440,439,9/7/2012,A,Vanier College,56,440,alive,pinaus,Austrian Pine,Pinus,nigra,p,sr,36,1,20,10,16,43.77547,-79.501828,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,n,e,n,e,n,n,,,,,0,central,within,within
+340,339,9/7/2012,A,Winters College,56,340,alive,pinaus,Austrian Pine,Pinus,nigra,p,sl,29.5,1,40,7,9,43.775939,-79.502026,6,2,2,0,0,2,0,1,1,0,0,1,0,0,0,0,0,n,e,n,n,n,n,,,,,0,central,within,
+2683,2682,6/3/2013,B,Toronto Track & Field,7,798,alive,pinaus,Austrian Pine,Pinus,nigra,c,n,22.929936,1,0,4,14,43.7781035,-79.50746553,6,1,0,0,0,1,0,2,0,0,1,0,0,0,0,0,0,N,N,N,e,n,n,Track and Field Centre,,,,0,periph,within,
+376,375,8/16/2012,A,Winters Residence,54,376,alive,pinaus,Austrian Pine,Pinus,nigra,p,sr,45.5,1,0,9,14,43.776368,-79.500949,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,within,
+58,57,8/20/2012,A,Founders College Residence,49,58,alive,pinaus,Austrian Pine,Pinus,nigra,p,fy,37,1,10,9,13,43.776367,-79.503379,9,0,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,n,e,n,n,n,n,,,,,0,periph,within,
+71,70,8/20/2012,A,Founders College Residence,49,71,alive,pinaus,Austrian Pine,Pinus,nigra,p,fy,45,1,10,11,13,43.776421,-79.504271,8,0,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,within,
+3384,3383,6/17/2013,B,Lumber,20,1499,alive,pinaus,Austrian Pine,Pinus,nigra,p,s,45,1,0,14,34,43.7750789,-79.50443032,14,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,within,within
+3408,3407,6/17/2013,B,Lumber,20,1523,alive,pinaus,Austrian Pine,Pinus,nigra,p,s,33.8,1,0,9,20,43.77455462,-79.50424514,13,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,within,within
+3843,3842,6/6/2013,B,Founders RD,65,1958,alive,pinaus,Austrian Pine,Pinus,nigra,p,s,45.5,1,0,16,29,43.77739605,-79.50510783,14,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,periph,within,
+2521,2520,5/31/2013,B,Toronto Track & Field,7,636,alive,pinaus,Austrian Pine,Pinus,nigra,c,w,28.7,1,0,0,13.5,43.77789727,-79.50843533,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,,,,0,periph,within,
+4013,4012,6/18/2013,B,Greenhouse,107,2128,alive,pinaus,Austrian Pine,Pinus,nigra,p,n,30.6,1,35,12,21,43.77457025,-79.50394038,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,within,within
+2447,2446,5/31/2013,B,Toronto Track & Field,7,562,alive,pinaus,Austrian Pine,Pinus,nigra,c,w,29.299363,1,0,10,15,43.77748952,-79.50840601,11,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,,,,0,periph,within,within
+1226,1225,8/14/2012,A,Archives of Ontario,95,1226,alive,pinaus,Austrian Pine,Pinus,nigra,p,sr,37.101911,1,0,8,16,43.775382,-79.499736,8,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,within,
+3390,3389,6/17/2013,B,Lumber,20,1505,alive,dead,Austrian Pine,Pinus,nigra,p,s,30.5,1,15,3,30,43.77478128,-79.50433384,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Dead,,,,0,central,within,within
+2526,2525,5/31/2013,B,Toronto Track & Field,7,641,alive,pinaus,Austrian Pine,Pinus,nigra,c,w,16.1,1,0,7,9.5,43.77796795,-79.50852136,17,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,,,,0,periph,within,
+70,69,8/20/2012,A,Founders College Residence,49,70,alive,pinaus,Austrian Pine,Pinus,nigra,p,fy,47,1,10,10,13,43.776545,-79.504037,5,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+2757,2756,6/6/2013,B,Toronto Track & Field,7,872,alive,pinaus,Austrian Pine,Pinus,nigra,p,n,21.33758,1,0,10,12,43.77789611,-79.50816171,5,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,,,,0,periph,within,
+2373,2372,5/30/2013,B,Toronto Track & Field,7,488,alive,pinaus,Austrian Pine,Pinus,nigra,c,w,28.5,1,0,11,14.5,43.77622806,-79.50790099,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,within,within
+3826,3825,6/6/2013,B,Founders RD,65,1941,alive,pinaus,Austrian Pine,Pinus,nigra,p,s,42.6,1,0,15,28,43.77723263,-79.50543595,20,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,within,
+61,60,8/20/2012,A,Founders College Residence,49,61,alive,pinaus,Austrian Pine,Pinus,nigra,p,fy,54,1,0,11,15,43.776346,-79.503665,9,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,within,
+3868,3867,6/18/2013,B,Lumbers Parking Lot,73,1983,alive,pinaus,Austrian Pine,Pinus,nigra,p,e,39.5,1,20,16,24,43.77464989,-79.50392069,7,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,n,n,n,e,n,n,,,,,0,central,within,within
+2389,2388,5/30/2013,B,Toronto Track & Field,7,504,alive,pinaus,Austrian Pine,Pinus,nigra,c,w,31,1,0,6,13.5,43.7765151,-79.50797194,16,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,,,,0,periph,within,within
+1184,1183,8/14/2012,A,Archives of Ontario,95,1184,alive,pinaus,Austrian Pine,Pinus,nigra,p,sr,28.5,1,20,6,11,43.774646,-79.499494,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,within,within
+2434,2433,5/31/2013,B,Toronto Track & Field,7,549,alive,pinaus,Austrian Pine,Pinus,nigra,c,w,14.33121,1,1,10,14,43.77714474,-79.50838782,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,,,,0,periph,within,within
+2313,2312,6/14/2013,B,West Office Building,78,427,alive,pinaus,Austrian Pine,Pinus,nigra,p,w,41.5,1,0,14,15,43.77460573,-79.5079589,22,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,within,
+2652,2651,6/3/2013,B,Toronto Track & Field,7,767,alive,dead,Austrian Pine,Pinus,nigra,c,e,15.605096,1,0,3,8,43.77690836,-79.50624412,13,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,N,N,N,e,n,n,Track and Field Centre,,,,0,periph,within,within
+2399,2398,5/30/2013,B,Toronto Track & Field,7,514,alive,pinaus,Austrian Pine,Pinus,nigra,c,w,31,1,0,10,14,43.77652058,-79.5080427,14,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Track and Field Centre,,,,0,periph,within,within
+2777,2776,6/6/2013,B,Toronto Track & Field,7,892,alive,pinaus,Austrian Pine,Pinus,nigra,C,n,22.5,1,0,9,32,43.777456,-79.5085322,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Inside construction zone,not tagged,,,0,periph,within,within
+63,62,8/20/2012,A,Founders College Residence,49,63,alive,pinaus,Austrian Pine,Pinus,nigra,p,fy,47.5,1,0,12,16,43.776327,-79.503746,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,within,
+3209,3208,6/17/2013,B,William Small Centre,15,1324,alive,appcra,Crab Apple,Malus,spp,p,e,7.5,1,5,4,5,43.77284754,-79.50784142,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3238,3237,6/14/2013,B,Courtyard,16,1353,alive,appcra,Crab Apple,Malus,spp,p,e,16.2,1,0,10,10,43.77362617,-79.50778903,7,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3202,3201,6/17/2013,B,William Small Centre,15,1317,alive,appcra,Crab Apple,Malus,spp,p,s,9,7,15,4,3,43.77265299,-79.50775269,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+1753,1752,9/13/2013,A,Harry Sherman Housing,57,1753,alive,appcra,Crab Apple,Malus,spp,p,sr,15,4,0,6,7,43.775996,-79.498283,9.5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+2293,2292,6/14/2013,B,Tait McK. Ctre,4,407,alive,appcra,Crab Apple,Malus,spp,p,n,4,4,0,2,3,43.77437394,-79.51044106,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,Small to tag,,,,0,periph,out,
+4661,4660,9/3/2013,C,Campus Wk,401,553,alive,appcra,Crab Apple,Malus,spp,p,sl,9,1,10,5,4,43.773284,-79.50593,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3195,3194,6/17/2013,B,William Small Centre,15,1310,alive,appcra,Crab Apple,Malus,spp,p,s,13,1,15,7,6.5,43.77243933,-79.50759765,5.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5771,5770,9/11/2013,D,The Pond RD,35,255,alive,appcra,Crab Apple,Malus,spp,p,by,8,1,0,2.5,5,43.770518,-79.50235,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4440,4439,8/27/2013,C,Arboretum,0,332,alive,appcra,Crab Apple,Malus,spp,p,fy,25,4,0,9,12,43.771696,-79.507147,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,Inside construction zone,,,0,periph,out,
+3201,3200,6/17/2013,B,William Small Centre,15,1316,alive,appcra,Crab Apple,Malus,spp,p,s,8,1,5,4,3,43.77263775,-79.50775307,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3189,3188,6/17/2013,B,William Small Centre,15,1304,alive,appcra,Crab Apple,Malus,spp,p,s,13,1,30,6,9,43.77255194,-79.50719537,7.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3231,3230,6/17/2013,B,Campus Walk,16,1346,alive,appcra,Crab Apple,Malus,spp,p,s,16.3,1,5,7,10,43.77316359,-79.50733963,8,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,n,n,n,n,n,n,,,,,0,central,out,
+5776,5775,9/11/2013,D,The Pond RD,35,260,alive,appcra,Crab Apple,Malus,spp,p,by,6.5,1,0,2.5,6,43.770423,-79.502393,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+2294,2293,6/14/2013,B,Tait McK. Ctre,4,408,alive,appcra,Crab Apple,Malus,spp,p,n,4,4,0,2,3,43.77435792,-79.51045461,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,Small to tag,,,,0,periph,out,
+5775,5774,9/11/2013,D,The Pond RD,35,259,alive,appcra,Crab Apple,Malus,spp,p,by,6.4,1,0,3,5,43.770448,-79.502403,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+1748,1747,9/13/2013,A,Harry Sherman Housing,57,1748,alive,appcra,Crab Apple,Malus,spp,p,sr,10,1,0,8,9,43.776438,-79.497941,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+2295,2294,6/14/2013,B,Tait McK. Ctre,4,409,alive,appcra,Crab Apple,Malus,spp,p,n,4,4,0,2,3,43.7743604,-79.51042562,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,Small to tag,,,,0,periph,out,
+3210,3209,6/17/2013,B,William Small Centre,15,1325,alive,appcra,Crab Apple,Malus,spp,p,e,8,1,5,4,5,43.77286099,-79.50784838,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+4441,4440,8/27/2013,C,Arboretum,0,333,alive,appcra,Crab Apple,Malus,spp,p,fy,30.5,1,0,9,13,43.77168,-79.507143,11.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,Inside construction zone,,,0,periph,out,
+5532,5531,9/10/2013,D,Atkinson West,33,16,alive,appcra,Crab Apple,Malus,spp,p,sl,20.59448,3,0,17,10,43.770606,-79.502352,14,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3192,3191,6/17/2013,B,William Small Centre,15,1307,alive,appcra,Crab Apple,Malus,spp,p,s,12.5,1,5,7,9,43.77254472,-79.50735959,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,periph,out,
+3561,3560,6/18/2013,B,Shoreham Drive Lot,63,1676,alive,appcra,Crab Apple,Malus,spp,p,s,8,1,0,2,2,43.77258274,-79.51205333,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,n,n,n,n,n,n,,,,,0,periph,out,
+3156,3155,6/17/2013,B,William Small Centre,15,1271,alive,appcra,Crab Apple,Malus,spp,p,e,9.5,1,35,5,17,43.77323191,-79.50642614,16.5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3199,3198,6/17/2013,B,William Small Centre,15,1314,alive,appcra,Crab Apple,Malus,spp,p,s,8,1,15,4,2,43.77261468,-79.50773786,1.75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+2289,2288,6/14/2013,B,Tait McK. Ctre,4,403,alive,appcra,Crab Apple,Malus,spp,p,n,4,4,0,2,3,43.77440016,-79.51047855,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,Small to tag,,,,0,periph,out,
+5392,5391,9/10/2013,C,Passy Playground,402,1284,alive,appcra,Crab Apple,Malus,spp,p,by,15.5,1,0,5,6,43.768262,-79.505116,5,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4778,4777,9/5/2013,C,Library Lane,25,670,alive,appcra,Crab Apple,Malus,spp,p,sr,10.8,3,30,9,6,43.771705,-79.503814,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,out,
+2290,2289,6/14/2013,B,Tait McK. Ctre,4,404,alive,appcra,Crab Apple,Malus,spp,p,n,4,4,0,2,3,43.77439024,-79.51044855,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,Small to tag,,,,0,periph,out,
+3232,3231,6/17/2013,B,Campus Walk,16,1347,alive,appcra,Crab Apple,Malus,spp,p,s,16.5,1,5,8,10,43.77316185,-79.50738899,8,0,1,0,0,1,0,0,0,0,0,0,0,0,2,0,0,n,n,n,n,n,n,,,,,0,central,out,
+2198,2197,6/13/2013,B,Tait McK. Ctre,4,311,alive,appcra,Crab Apple,Malus,spp,p,s,8,1,0,4,6,43.77407756,-79.5094523,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+2291,2290,6/14/2013,B,Tait McK. Ctre,4,405,alive,appcra,Crab Apple,Malus,spp,p,n,4,4,0,2,3,43.77438596,-79.51048548,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,Small to tag,,,,0,periph,out,
+3208,3207,6/17/2013,B,William Small Centre,15,1323,alive,appcra,Crab Apple,Malus,spp,p,e,7.5,1,5,4,5,43.7727986,-79.50781377,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3160,3159,6/17/2013,B,William Small Centre,15,1275,alive,appcra,Crab Apple,Malus,spp,p,e,7,1,0,9,7,43.7731685,-79.50649479,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3193,3192,6/17/2013,B,William Small Centre,15,1308,alive,appcra,Crab Apple,Malus,spp,p,s,12,1,0,8,9.5,43.7725264,-79.50739562,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5068,5067,9/6/2013,C,Nelson Rd,102,960,alive,appcra,Crab Apple,Malus,spp,p,fy,17.038217,1,0,0,10,43.770148,-79.505504,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5530,5529,9/10/2013,D,Atkinson West,33,14,alive,appcra,Crab Apple,Malus,spp,p,sl,22.850318,2,0,12,10,43.770615,-79.502417,17,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5643,5642,9/11/2013,D,Sentinel RD Lot,88,127,alive,appcra,Crab Apple,Malus,spp,p,fy,14.649682,2,0,15,17,43.769641,-79.499778,25,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+3562,3561,6/18/2013,B,Shoreham Drive Lot,63,1677,alive,appcra,Crab Apple,Malus,spp,p,s,9,1,0,3,3.5,43.77253836,-79.51195252,1,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,1,n,n,n,n,n,n,,,,,0,periph,out,
+4443,4442,8/27/2013,C,Arboretum,0,335,alive,appcra,Crab Apple,Malus,spp,p,fy,38,1,0,10,9,43.771701,-79.507114,7.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,Inside construction zone,,,0,periph,out,
+5510,5509,11/10/2014,C,Steacie Science and Engineering Library,18,1402,alive,appcra,Crab Apple,Malus,spp,p,s,8.3,1,10,4,5.5,43.773258,-79.506092,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,0,central,out,
+3197,3196,6/17/2013,B,William Small Centre,15,1312,alive,appcra,Crab Apple,Malus,spp,p,s,12,1,20,7,6.5,43.77245711,-79.50766085,5.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3161,3160,6/17/2013,B,William Small Centre,15,1276,alive,appcra,Crab Apple,Malus,spp,p,e,8.5,1,0,6,8,43.77313522,-79.50650055,7,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3261,3260,6/14/2013,B,Courtyard,16,1376,alive,appcra,Crab Apple,Pyrus,spp,p,e,19.2,1,20,5,14,43.77369717,-79.50737875,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3157,3156,6/17/2013,B,William Small Centre,15,1272,alive,appcra,Crab Apple,Malus,spp,p,e,9,2,35,6,17,43.77321497,-79.50658733,16,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3169,3168,6/17/2013,B,William Small Centre,15,1284,alive,appcra,Crab Apple,Malus,spp,p,e,14.5,1,0,9,11,43.77270723,-79.50657983,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5394,5393,9/10/2013,C,Passy Playground,402,1286,alive,appcra,Crab Apple,Malus,spp,p,by,20.2,1,0,8,6,43.768365,-79.505003,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3168,3167,6/17/2013,B,William Small Centre,15,1283,alive,appcra,Crab Apple,Malus,spp,p,e,12.5,1,0,8,10,43.77271664,-79.50650312,7.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5153,5152,9/9/2013,C,Hoover Road,91,1045,alive,appcra,Crab Apple,Malus,spp,p,by,28,1,0,14,22,43.767448,-79.505757,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5772,5771,9/11/2013,D,The Pond RD,35,256,alive,appcra,Crab Apple,Malus,spp,p,by,8,1,0,2.7,6,43.770502,-79.502456,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+2200,2199,6/13/2013,B,Tait McK. Ctre,4,313,alive,appcra,Crab Apple,Malus,spp,p,s,9.8,1,0,4,6,43.77410791,-79.50935146,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3971,3970,6/18/2013,B,Greenhouse,107,2086,alive,appcra,Crab Apple,Malus,spp,p,w,14,1,0,12,8,43.77413239,-79.50387934,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+3453,3452,6/18/2013,B,Farquharson Building,21,1568,alive,crabapp,Crab Apple,Malus,spp,p,s,19.8,1,45,8,18,43.77397631,-79.50461127,16.5,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,within,
+6839,6838,9/16/2013,D,James Giles St,42,1323,alive,appcra,Crab Apple,Malus,spp,p,by,16,1,0,6,10,43.773028,-79.498559,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Diameter measured below bh,,,,0,central,within,within
+6858,6857,9/16/2013,D,James Giles St,42,1342,alive,appcra,Crab Apple,Malus,spp,p,by,13,1,0,6,10,43.772895,-79.498632,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Diameter measured below bh,,,,0,central,within,within
+3460,3459,6/18/2013,B,Farquharson Building,21,1575,alive,crabapp,Crab Apple,Malus,spp,p,s,28,1,0,15,23,43.774055,-79.50425771,18,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,n,n,n,n,n,n,,,,,0,central,within,
+6029,6028,9/19/2013,D,York lanes,400,513,alive,appcra,Crab Apple,Malus,spp,p,fy,17.8,1,5,12,7,43.773138,-79.501683,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,n,n,n,n,n,n,,,,,0,central,within,
+6857,6856,9/16/2013,D,James Giles St,42,1341,alive,appcra,Crab Apple,Malus,spp,p,by,15,1,0,8,9,43.772933,-79.498643,8,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Diameter measured below bh,,,,0,central,within,within
+6850,6849,9/16/2013,D,James Giles St,42,1334,alive,appcra,Crab Apple,Malus,spp,p,by,12,1,0,6,10,43.772802,-79.498533,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Diameter measured below bh,,,,0,central,within,
+6855,6854,9/16/2013,D,James Giles St,42,1339,alive,appcra,Crab Apple,Malus,spp,p,by,13,2,0,6,10,43.773006,-79.49868,9,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Diameter measured below bh,,,,0,central,within,within
+6861,6860,9/16/2013,D,James Giles St,42,1345,alive,appcra,Crab Apple,Malus,spp,p,by,13,1,0,6,10,43.772792,-79.498591,9,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Diameter measured below bh,,,,0,central,within,
+3452,3451,6/18/2013,B,Farquharson Building,21,1567,alive,crabapp,Crab Apple,Malus,spp,p,s,22.2,1,45,8,19,43.77385206,-79.50456282,17.5,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,within,
+6063,6062,9/19/2013,D,York lanes,400,547,alive,appcra,Crab Apple,Malus,spp,p,fy,9.3,1,0,10,6,43.773285,-79.500767,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+3969,3968,6/18/2013,B,Greenhouse,107,2084,alive,appcra,Crab Apple,Malus,spp,p,w,7.5,1,0,2.5,4,43.77412776,-79.50396231,2.5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6847,6846,9/16/2013,D,James Giles St,42,1331,alive,appcra,Crab Apple,Malus,spp,p,by,12,1,0,6,10,43.772745,-79.49844,9,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Diameter measured below bh,,,,0,central,within,
+6845,6844,9/16/2013,D,James Giles St,42,1329,alive,appcra,Crab Apple,Malus,spp,p,by,14,1,0,6,10,43.772822,-79.498474,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Diameter measured below bh,,,,0,central,within,
+3458,3457,6/18/2013,B,Farquharson Building,21,1573,alive,crabapp,Crab Apple,Malus,spp,p,s,29.3,1,40,16,22,43.77401684,-79.5043446,16,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6863,6862,9/16/2013,D,James Giles St,42,1347,alive,appcra,Crab Apple,Malus,spp,p,by,14,1,0,8,9,43.772726,-79.498569,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Diameter measured below bh,,,,0,central,within,
+5946,5945,9/19/2013,D,York lanes,400,430,alive,appcra,Crab Apple,Malus,spp,p,fy,17.5,1,5,10,7,43.773964,-79.501128,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+3456,3455,6/18/2013,B,Farquharson Building,21,1571,alive,crabapp,Crab Apple,Malus,spp,p,s,23,1,25,10,25,43.77398705,-79.50442508,20,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,n,n,n,n,n,n,,,,,0,central,within,
+5979,5978,9/19/2013,D,York lanes,400,463,alive,appcra,Crab Apple,Malus,spp,p,fy,22,1,60,14,7,43.773639,-79.50217,11,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6856,6855,9/16/2013,D,James Giles St,42,1340,alive,appcra,Crab Apple,Malus,spp,p,by,13,1,0,6,10,43.772969,-79.49866,9,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Diameter measured below bh,,,,0,central,within,within
+5945,5944,9/19/2013,D,York lanes,400,429,alive,appcra,Crab Apple,Malus,spp,p,fy,19,1,25,15,7,43.77396,-79.501074,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+6859,6858,9/16/2013,D,James Giles St,42,1343,alive,appcra,Crab Apple,Malus,spp,p,by,12,1,0,6,10,43.772861,-79.498613,9,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Diameter measured below bh,,,,0,central,within,
+3972,3971,6/18/2013,B,Greenhouse,107,2087,alive,appcra,Crab Apple,Malus,spp,p,w,17.5,1,25,15,11,43.77413497,-79.50383319,6,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6841,6840,9/16/2013,D,James Giles St,42,1325,alive,appcra,Crab Apple,Malus,spp,p,by,19,1,0,6,10,43.772955,-79.498531,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Diameter measured below bh,,,,0,central,within,within
+3974,3973,6/18/2013,B,Greenhouse,107,2089,alive,appcra,Crab Apple,Malus,spp,p,w,12.5,1,5,9,13,43.77417094,-79.50365494,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6851,6850,9/16/2013,D,James Giles St,42,1335,alive,appcra,Crab Apple,Malus,spp,p,by,14,1,0,8,9,43.772838,-79.498545,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Diameter measured below bh,,,,0,central,within,
+3459,3458,6/18/2013,B,Farquharson Building,21,1574,alive,crabapp,Crab Apple,Malus,spp,p,s,26.7,1,0,16,25,43.77401325,-79.50429042,19,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6840,6839,9/16/2013,D,James Giles St,42,1324,alive,appcra,Crab Apple,Malus,spp,p,by,15,1,0,8,9,43.772991,-79.498545,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Diameter measured below bh,,,,0,central,within,within
+3454,3453,6/18/2013,B,Farquharson Building,21,1569,alive,crabapp,Crab Apple,Malus,spp,p,s,24.5,1,45,8,20,43.77400535,-79.5046231,18.5,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,within,
+3462,3461,6/18/2013,B,Farquharson Building,21,1577,alive,crabapp,Crab Apple,Malus,spp,p,s,7,1,10,7,5,43.77405074,-79.50415129,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6849,6848,9/16/2013,D,James Giles St,42,1333,alive,appcra,Crab Apple,Malus,spp,p,by,13,1,0,8,9,43.772766,-79.498521,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Diameter measured below bh,,,,0,central,within,
+3975,3974,6/18/2013,B,Greenhouse,107,2090,alive,appcra,Crab Apple,Malus,spp,p,w,15.5,1,5,12,14,43.77418173,-79.50362077,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+3455,3454,6/18/2013,B,Farquharson Building,21,1570,alive,crabapp,Crab Apple,Malus,spp,p,s,28.8,1,30,10,25,43.77397619,-79.50446819,20,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,n,n,n,e,n,n,,,,,0,central,within,
+6842,6841,9/16/2013,D,James Giles St,42,1326,alive,appcra,Crab Apple,Malus,spp,p,by,20,1,0,8,9,43.772921,-79.498516,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Diameter measured below bh,,,,0,central,within,within
+6852,6851,9/16/2013,D,James Giles St,42,1336,alive,appcra,Crab Apple,Malus,spp,p,by,14,1,0,6,10,43.772872,-79.498559,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Diameter measured below bh,,,,0,central,within,within
+6846,6845,9/16/2013,D,James Giles St,42,1330,alive,appcra,Crab Apple,Malus,spp,p,by,12,1,0,8,9,43.772786,-79.498458,8,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Diameter measured below bh,,,,0,central,within,
+5978,5977,9/19/2013,D,York lanes,400,462,alive,appcra,Crab Apple,Malus,spp,p,fy,20.3,1,45,10,6,43.773716,-79.502245,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+3457,3456,6/18/2013,B,Farquharson Building,21,1572,alive,crabapp,Crab Apple,Malus,spp,p,s,32,1,0,16,25,43.77402748,-79.5043945,20,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,n,n,n,n,n,n,,,,,0,central,within,
+6860,6859,9/16/2013,D,James Giles St,42,1344,alive,appcra,Crab Apple,Malus,spp,p,by,11,1,0,8,9,43.77283,-79.498608,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Diameter measured below bh,,,,0,central,within,
+3970,3969,6/18/2013,B,Greenhouse,107,2085,alive,appcra,Crab Apple,Malus,spp,p,w,14.5,1,5,8,7,43.77411413,-79.50390763,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+5966,5965,9/19/2013,D,York lanes,400,450,alive,appcra,Crab Apple,Malus,spp,p,fy,16,1,10,12,10,43.773826,-79.501723,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+5970,5969,9/19/2013,D,York lanes,400,454,alive,appcra,Crab Apple,Malus,spp,p,fy,25.5,1,50,14,6.5,43.773762,-79.50188,19,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6862,6861,9/16/2013,D,James Giles St,42,1346,alive,appcra,Crab Apple,Malus,spp,p,by,10,1,0,6,10,43.77276,-79.498582,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Diameter measured below bh,,,,0,central,within,
+6030,6029,9/19/2013,D,York lanes,400,514,alive,appcra,Crab Apple,Malus,spp,p,fy,17.8,1,5,11,7,43.773168,-79.501616,11,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,8,n,n,n,n,n,n,,,,,0,central,within,
+6853,6852,9/16/2013,D,James Giles St,42,1337,alive,appcra,Crab Apple,Malus,spp,p,by,13,1,0,6,10,43.772909,-79.498571,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Diameter measured below bh,,,,0,central,within,within
+3463,3462,6/18/2013,B,Farquharson Building,21,1578,alive,crabapp,Crab Apple,Malus,spp,p,s,17,1,0,12,16,43.77407832,-79.50412891,8,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+3461,3460,6/18/2013,B,Farquharson Building,21,1576,alive,appcra,Crab Apple,Malus,spp,p,s,3,1,0,0.5,3.5,43.77406776,-79.50419525,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,Small to tag,,,,0,central,within,
+3973,3972,6/18/2013,B,Greenhouse,107,2088,alive,appcra,Crab Apple,Malus,spp,p,w,20.5,1,0,16,11,43.77415122,-79.50378617,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+5955,5954,9/19/2013,D,York lanes,400,439,alive,appcra,Crab Apple,Malus,spp,p,fy,23,1,65,9,12,43.77386,-79.501465,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+3151,3150,6/17/2013,B,William Small Centre,15,1266,alive,peapea,Flowering Pear,Pyrus,spp,p,n,5.5,1,95,2.5,9,43.77312906,-79.50723891,7,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3247,3246,6/14/2013,B,Courtyard,16,1362,alive,peapea,Flowering Pear,Pyrus,spp,p,e,22.8,1,5,10,18,43.7734831,-79.50772056,13,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,out,
+5411,5410,9/10/2013,C,Passy Playground,402,1303,alive,peapea,Flowering Pear,Pyrus,spp,p,sr,22,1,0,5,10,43.768766,-79.504354,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3253,3252,6/14/2013,B,Courtyard,16,1368,alive,peapea,Flowering Pear,Pyrus,spp,p,e,4,4,1,8,5,43.77355339,-79.50750927,4.8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,out,
+2989,2988,6/7/2013,B,Calumet College,10,1104,alive,peapea,Flowering Pear,Pyrus,spp,p,n,9,1,15,7,9,43.77284053,-79.51006807,8,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5127,5126,9/6/2013,C,Nelson Rd,102,1019,alive,peapea,Flowering Pear,Pyrus,spp,p,by,4.5,1,0,2,3,43.769516,-79.505317,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+2187,2186,6/13/2013,B,Tait McK. Ctre,4,300,alive,peapea,Flowering Pear,Pyrus,spp,p,s,6,1,0,1.8,3.5,43.77396015,-79.5094303,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3153,3152,6/17/2013,B,William Small Centre,15,1268,alive,peapea,Flowering Pear,Pyrus,spp,p,n,6.5,1,95,2.5,9.5,43.77315861,-79.50709418,8,0,0,0,0,0,0,0,1,0,0,1,0,0,2,0,0,n,n,n,n,n,n,,,,,0,central,out,
+5229,5228,9/9/2013,C,Passy Crescent,44,1121,alive,peapea,Flowering Pear,Pyrus,spp,p,cy,34,1,0,14,10,43.769176,-79.504536,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3240,3239,6/14/2013,B,Courtyard,16,1355,alive,peapea,Flowering Pear,Malus,spp,p,e,22.292994,1,10,9,11,43.77353935,-79.50778419,5,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,out,
+696,695,8/9/2012,A,PRB,60,696,alive,peapea,Flowering Pear,Pyrus,spp,p,sr,15,1,60,4,6,43.778578,-79.496745,1.5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5230,5229,9/9/2013,C,Passy Crescent,44,1122,alive,peapea,Flowering Pear,Pyrus,spp,p,cy,25,1,0,12,10,43.76919,-79.50449,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+690,689,8/9/2012,A,PRB,60,690,alive,peapea,Flowering Pear,Pyrus,spp,p,sr,13,3,0,6,8,43.778141,-79.496674,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+2189,2188,6/13/2013,B,Tait McK. Ctre,4,302,alive,peapea,Flowering Pear,Pyrus,spp,p,s,5,1,0,2,3.5,43.77400084,-79.50930847,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+691,690,8/9/2012,A,PRB,60,691,alive,peapea,Flowering Pear,Pyrus,spp,p,sr,12,4,0,6,7,43.77818,-79.496691,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+6156,6155,9/19/2013,D,York lanes,400,640,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,6.5,1,35,8,5.5,43.772669,-79.502833,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,out,
+5227,5226,9/9/2013,C,Passy Crescent,44,1119,alive,peapea,Flowering Pear,Pyrus,spp,p,cy,14,1,0,10,10,43.769161,-79.504611,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5406,5405,9/10/2013,C,Passy Playground,402,1298,alive,peapea,Flowering Pear,Pyrus,spp,p,sr,19.3,1,0,2.5,8,43.768652,-79.504806,12,1,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5656,5655,9/11/2013,D,Sentinel RD Lot,88,140,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,55,1,0,25,22.5,43.770353,-79.499957,35,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5285,5284,9/9/2013,C,320 Assiniboine,48,1177,alive,peapea,Flowering Pear,Pyrus,spp,p,sr,43,1,0,20,14,43.768743,-79.502304,20,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+2188,2187,6/13/2013,B,Tait McK. Ctre,4,301,alive,peapea,Flowering Pear,Pyrus,spp,p,s,6,1,0,1.5,3.5,43.77397872,-79.50936959,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3251,3250,6/14/2013,B,Courtyard,16,1366,alive,peapea,Flowering Pear,Pyrus,spp,p,e,16,1,25,9,9,43.77357611,-79.50740968,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+5225,5224,9/9/2013,C,Passy Crescent,44,1117,alive,peapea,Flowering Pear,Pyrus,spp,p,cy,22.8,1,0,13,9,43.769089,-79.504675,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5407,5406,9/10/2013,C,Passy Playground,402,1299,alive,peapea,Flowering Pear,Pyrus,spp,p,sr,19.5,1,0,9,9.5,43.768673,-79.504713,15,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5232,5231,9/9/2013,C,Passy Crescent,44,1124,alive,peapea,Flowering Pear,Pyrus,spp,p,cy,34.8,1,0,18,15,43.769115,-79.50434,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+2191,2190,6/13/2013,B,Tait McK. Ctre,4,304,alive,peapea,Flowering Pear,Pyrus,spp,p,s,5,1,0,0,2.5,43.77402546,-79.50911791,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,Leader shoot died,,,0,central,out,
+3260,3259,6/14/2013,B,Courtyard,16,1375,alive,peapea,Flowering Pear,Pyrus,spp,p,e,26,1,40,11,28,43.77357432,-79.50733614,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+5410,5409,9/10/2013,C,Passy Playground,402,1302,alive,peapea,Flowering Pear,Pyrus,spp,p,sr,21,1,0,4,10,43.768737,-79.504448,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+2994,2993,6/7/2013,B,Calumet College,10,1109,alive,peapea,Flowering Pear,Pyrus,spp,p,n,16.56051,1,0,4,10,43.77284229,-79.51019337,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+2991,2990,6/7/2013,B,Calumet College,10,1106,alive,peapea,Flowering Pear,Pyrus,spp,p,n,12.2,1,10,5,8,43.77292402,-79.51010324,7,0,1,0,1,1,0,0,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+2195,2194,6/13/2013,B,Tait McK. Ctre,4,308,alive,peapea,Flowering Pear,Pyrus,spp,p,s,5,1,10,2,3.5,43.77410255,-79.50884157,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+2992,2991,6/7/2013,B,Calumet College,10,1107,alive,peapea,Flowering Pear,Pyrus,spp,p,n,11.5,1,0,9,11,43.77291416,-79.51015082,9,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5178,5177,9/9/2013,C,Passy Crescent,44,1070,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,12,4,0,4,12,43.769224,-79.505812,8,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5179,5178,9/9/2013,C,Passy Crescent,44,1071,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,17,5,0,4,12,43.76926,-79.505741,8,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3237,3236,6/14/2013,B,Courtyard,16,1352,alive,peapea,Flowering Pear,Pyrus,spp,p,e,22.5,1,40,9,23,43.77365995,-79.50783128,19,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,out,
+2194,2193,6/13/2013,B,Tait McK. Ctre,4,307,alive,peapea,Flowering Pear,Pyrus,spp,p,s,5,1,0,2,3.5,43.77409601,-79.50897981,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+694,693,8/9/2012,A,PRB,60,694,alive,peapea,Flowering Pear,Pyrus,spp,p,sr,16,1,60,4,5,43.778453,-79.496699,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5177,5176,9/9/2013,C,Passy Crescent,44,1069,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,16.5,5,0,4,10,43.769273,-79.505823,8,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+1287,1286,8/1/2012,A,Stong House,100,1287,alive,peapea,Flowering Pear,Pyrus,spp,p,sl,55,3,0,7,9,43.780094,-79.497978,1.5,0,0,1,0,1,1,0,2,2,0,2,1,1,0,0,0,0,n,n,n,n,n,Dead branch,,,,0,periph,out,
+3248,3247,6/14/2013,B,Courtyard,16,1363,alive,peapea,Flowering Pear,Pyrus,spp,p,e,22,1,3,9,19,43.77349369,-79.50765455,12,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,n,n,n,n,n,n,,,,,0,central,out,
+693,692,8/9/2012,A,PRB,60,693,alive,peapea,Flowering Pear,Pyrus,spp,p,sr,13,3,0,7,7,43.778395,-79.496687,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5231,5230,9/9/2013,C,Passy Crescent,44,1123,alive,peapea,Flowering Pear,Pyrus,spp,p,cy,18.5,1,0,10,9,43.769199,-79.504449,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+2180,2179,6/12/2013,B,Tait McK. Ctre,4,293,alive,peapea,Flowering Pear,Pyrus,spp,p,n,20.5,1,0,3,18,43.77499281,-79.50997882,17,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+692,691,8/9/2012,A,PRB,60,692,alive,peapea,Flowering Pear,Pyrus,spp,p,sr,15,3,0,7,7,43.77822,-79.49671,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5233,5232,9/9/2013,C,Passy Crescent,44,1125,alive,peapea,Flowering Pear,Pyrus,spp,p,cy,19.426752,1,0,20,8,43.769043,-79.504657,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+6157,6156,9/19/2013,D,York lanes,400,641,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,5.5,1,25,8,4,43.772676,-79.5028,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,out,
+5409,5408,9/10/2013,C,Passy Playground,402,1301,alive,peapea,Flowering Pear,Pyrus,spp,p,sr,20,1,0,7,10,43.768717,-79.50454,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5226,5225,9/9/2013,C,Passy Crescent,44,1118,alive,peapea,Flowering Pear,Pyrus,spp,p,cy,23.4,1,0,13,9,43.769155,-79.504645,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5467,5466,9/16/2014,C,Hoover House,0,1359,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,25.796178,1,0,5.5,14,43.768473,-79.508765,11,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+2181,2180,6/12/2013,B,Tait McK. Ctre,4,294,alive,peapea,Flowering Pear,Pyrus,spp,p,n,16.8,1,0,5,17,43.77492433,-79.50984244,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+2190,2189,6/13/2013,B,Tait McK. Ctre,4,303,alive,peapea,Flowering Pear,Pyrus,spp,p,s,5,1,0,1.8,4,43.77401202,-79.50918334,3,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+2822,2821,6/14/2013,B,New Life Sci,204,937,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5,1,0,3,4.5,43.77374297,-79.50782752,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+5004,5003,9/5/2013,C,Scholars Walk,32,896,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,by,18.5,1,0,14,15,43.770144,-79.503557,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+2814,2813,6/14/2013,B,New Life Sci,204,929,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5.5,1,0,2,5.25,43.77379309,-79.50765203,4.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3330,3329,6/17/2013,B,Steacie Science & Engineering Library,18,1445,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5.3,1,10,1.5,3,43.77340236,-79.50568989,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3244,3243,6/14/2013,B,Courtyard,16,1359,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,e,11.5,1,95,8,27,43.77359873,-79.50768657,21,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+4572,4571,8/27/2013,C,Arboretum,0,464,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,by,5,1,0,1,4.5,43.769506,-79.505696,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+2819,2818,6/14/2013,B,New Life Sci,204,934,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5,1,0,1.5,5,43.77371971,-79.50777878,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+4759,4758,9/5/2013,C,Library Lane,25,651,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,22.5,1,0,7.5,19,43.772062,-79.50498,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+2224,2223,6/13/2013,B,Tait McK. Ctre,4,338,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5,1,0,2.5,5,43.77421732,-79.5099107,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3241,3240,6/14/2013,B,Courtyard,16,1356,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,e,8.3,1,95,3,19,43.7735331,-79.50773839,17,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3245,3244,6/14/2013,B,Courtyard,16,1360,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,e,9.2,1,95,6,26,43.77355214,-79.50766432,21,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,out,
+2820,2819,6/14/2013,B,New Life Sci,204,935,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,4.5,1,0,3,5.5,43.77378362,-79.50774761,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+4570,4569,8/27/2013,C,Arboretum,0,462,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,sr,4,1,0,2,4,43.769566,-79.505632,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+2804,2803,6/14/2013,B,New Life Sci,204,919,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5,1,0,2,5.25,43.77380943,-79.50753491,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,out,
+2808,2807,6/14/2013,B,New Life Sci,204,923,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5,1,0,1.5,5.5,43.77368161,-79.50768932,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+4761,4760,9/5/2013,C,Library Lane,25,653,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,4,1,0,1,4,43.77199,-79.505118,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+1357,1356,8/2/2012,A,Steeles and Keele,103,1357,alive,ginkgo,Ginkgo,Ginkgo,biloba,c,st,3.503185,1,0,6,4,43.779958,-79.500229,3,0,2,3,2,2,0,1,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+2227,2226,6/13/2013,B,Tait McK. Ctre,4,341,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5.5,1,0,3,6,43.77415702,-79.51007411,4,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+2207,2206,6/13/2013,B,Tait McK. Ctre,4,320,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,10,1,0,4,9,43.77413181,-79.50951108,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+2821,2820,6/14/2013,B,New Life Sci,204,936,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5,1,0,2.5,7,43.77376398,-79.50779412,5.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+2809,2808,6/14/2013,B,New Life Sci,204,924,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,4,1,0,1.5,5,43.77373468,-79.50764855,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3243,3242,6/14/2013,B,Courtyard,16,1358,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,e,20.5,1,95,10,28,43.77361429,-79.50770877,26,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,out,
+4760,4759,9/5/2013,C,Library Lane,25,652,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,17,1,0,4.5,19,43.772016,-79.504956,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+4755,4754,9/5/2013,C,Library Lane,25,647,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,20.700637,1,0,2.5,14,43.771964,-79.505364,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+2226,2225,6/13/2013,B,Tait McK. Ctre,4,340,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,7,1,0,4,7,43.7741921,-79.51003132,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4758,4757,9/5/2013,C,Library Lane,25,650,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,22,1,0,10,19,43.772038,-79.505079,11,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+2823,2822,6/14/2013,B,New Life Sci,204,938,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5,1,0,2,6,43.77378282,-79.50784684,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+4756,4755,9/5/2013,C,Library Lane,25,648,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,16.401274,1,0,2,13,43.771931,-79.505327,10,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3264,3263,6/14/2013,B,Courtyard,16,1379,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,e,5,1,95,3,5,43.77375892,-79.50750017,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,out,
+2810,2809,6/14/2013,B,New Life Sci,204,925,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5.5,1,0,2,5,43.77377474,-79.50761468,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3334,3333,6/17/2013,B,Lassonde,19,1449,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,9.2,1,80,4,8,43.7735603,-79.50509849,6,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,n,n,n,n,n,n,,,,,0,central,out,
+2813,2812,6/14/2013,B,New Life Sci,204,928,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5.5,1,0,2,5,43.77383323,-79.50762473,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+2812,2811,6/14/2013,B,New Life Sci,204,927,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,4.5,1,0,1,5,43.77386455,-79.50755984,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3335,3334,6/17/2013,B,Lassonde,19,1450,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,10,1,80,6,9,43.77358157,-79.5049944,6,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3246,3245,6/14/2013,B,Courtyard,16,1361,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,e,9.4,1,95,5.5,10,43.77351961,-79.50770052,6,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,out,
+2816,2815,6/14/2013,B,New Life Sci,204,931,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5.5,1,0,1.5,5.25,43.77372344,-79.50769979,3.75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+5000,4999,9/5/2013,C,Scholars Walk,32,892,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,by,11,1,0,3,9,43.770083,-79.503522,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+2817,2816,6/14/2013,B,New Life Sci,204,932,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5.5,1,0,3,4.75,43.77370244,-79.50773319,1.75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+2824,2823,6/14/2013,B,New Life Sci,204,939,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5,1,0,1.5,7,43.77377084,-79.50788025,6.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3332,3331,6/17/2013,B,Lassonde,19,1447,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,13.3,1,80,7,9,43.77352307,-79.50525722,6,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,n,n,n,n,n,n,,,,,0,central,out,
+2807,2806,6/14/2013,B,New Life Sci,204,922,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5.5,1,0,2,6,43.77369043,-79.50763486,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+4568,4567,8/27/2013,C,Arboretum,0,460,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,sr,5,1,0,2,4.5,43.769685,-79.505686,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+2803,2802,6/14/2013,B,New Life Sci,204,918,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,4.8,1,50,2,5.25,43.77386384,-79.50750562,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,out,
+4569,4568,8/27/2013,C,Arboretum,0,461,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,sr,5,1,0,2,4,43.769612,-79.50566,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+2815,2814,6/14/2013,B,New Life Sci,204,930,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,4,1,0,0.75,5.25,43.77376741,-79.50769212,4.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+2225,2224,6/13/2013,B,Tait McK. Ctre,4,339,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,6,1,0,3,6,43.77420903,-79.5099594,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3263,3262,6/14/2013,B,Courtyard,16,1378,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,e,5,1,95,3,5,43.77379789,-79.50747454,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,out,
+2805,2804,6/14/2013,B,New Life Sci,204,920,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5,1,50,2,5,43.77376217,-79.50756403,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,out,
+4757,4756,9/5/2013,C,Library Lane,25,649,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,23.5,1,0,9,22,43.772021,-79.505149,17,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+5262,5261,9/9/2013,C,320 Assiniboine,48,1154,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,sr,3.5,1,0,1.5,4,43.768574,-79.50211,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+2818,2817,6/14/2013,B,New Life Sci,204,933,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5.5,1,0,3,6,43.77374545,-79.50774362,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+2273,2272,6/14/2013,B,Tait McK. Ctre,4,387,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,n,4.5,1,0,1.7,4,43.77474075,-79.51057987,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3331,3330,6/17/2013,B,Lassonde,19,1446,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,7.7,1,80,2.5,6,43.77351525,-79.50529687,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3265,3264,6/14/2013,B,Courtyard,16,1380,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,e,5,1,95,1.5,4.5,43.77371978,-79.50752953,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3883,3882,6/21/2013,B,Steeles Av,106,1998,alive,ginkgo,Ginkgo,Ginkgo,biloba,c,st,5,1,0,0.4,4,43.77877243,-79.50542535,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3262,3261,6/14/2013,B,Courtyard,16,1377,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,e,5.3,1,95,3,6,43.77382945,-79.50744777,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,out,
+1439,1438,8/2/2012,A,Steeles and Keele,103,1439,alive,ginkgo,Ginkgo,Ginkgo,biloba,c,st,3,1,0,0.8,3,43.779243,-79.503437,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,Small to tag,,,,0,periph,out,
+3333,3332,6/17/2013,B,Lassonde,19,1448,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,11.4,1,80,6,9,43.77355354,-79.50512825,6,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3155,3154,6/17/2013,B,William Small Centre,15,1270,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,e,9,1,25,8,10,43.77319294,-79.50693158,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3266,3265,6/14/2013,B,Courtyard,16,1381,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,e,5,1,95,2,5,43.77367732,-79.50756182,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,out,
+4984,4983,9/5/2013,C,Scholars Walk,32,876,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,by,18,1,0,6,10,43.770102,-79.503623,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3242,3241,6/14/2013,B,Courtyard,16,1357,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,e,11.8,1,95,8,18,43.77356532,-79.50771877,16,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,out,
+2223,2222,6/13/2013,B,Tait McK. Ctre,4,337,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5.8,1,0,4,4.5,43.77422563,-79.50986282,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3329,3328,6/17/2013,B,Steacie Science & Engineering Library,18,1444,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,3.5,1,5,1.5,3,43.77334399,-79.50595544,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3336,3335,6/17/2013,B,Lassonde,19,1451,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,9,1,80,7,9,43.77358952,-79.50496462,6,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,n,n,n,n,n,n,,,,,0,central,out,
+2806,2805,6/14/2013,B,New Life Sci,204,921,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5,1,0,2,6,43.77372447,-79.5075962,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+2271,2270,6/14/2013,B,Tait McK. Ctre,4,385,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,n,4.8,1,0,1.5,2.5,43.77473045,-79.51042366,1.5,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+2272,2271,6/14/2013,B,Tait McK. Ctre,4,386,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,n,5,1,0,1.5,4,43.7747341,-79.51052667,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3553,3552,6/18/2013,B,Shoreham Drive Lot,63,1668,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,s,22,1,0,11,18,43.77239197,-79.51263495,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,n,n,n,n,n,n,,,,,0,periph,out,
+5687,5686,9/11/2013,D,The Pond RD,35,171,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,8,1,0,5,8,43.770692,-79.501131,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+6466,6465,9/12/2013,D,Fine Arts Rd,39,950,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,fy,18.152866,1,0,8,11.5,43.77192,-79.501138,8,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,out,
+3003,3002,6/7/2013,B,Calumet College,10,1118,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,nw,5.2,1,0,3,6,43.77327975,-79.51113861,2.5,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+1730,1729,9/13/2013,A,Harry Sherman Housing,57,1730,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,fy,23.5,1,0,8,14,43.776498,-79.49842,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3310,3309,6/17/2013,B,Steacie Science & Engineering Library,18,1425,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,n,40.5,1,0,24,19,43.77396648,-79.50638634,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,central,out,
+6416,6415,9/12/2013,D,Fine Arts Rd,39,900,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,10.8,1,0,4,6,43.770895,-79.500978,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+6412,6411,9/12/2013,D,Fine Arts Rd,39,896,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,8,1,0,4,5,43.770742,-79.50095,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3552,3551,6/18/2013,B,Shoreham Drive Lot,63,1667,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,s,26.5,1,0,10,22,43.77228707,-79.51288197,19,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,n,n,n,n,n,n,,,,,0,periph,out,
+3005,3004,6/7/2013,B,Calumet College,10,1120,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,nw,4.6,1,0,2.5,6.5,43.7730803,-79.51126191,3,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+6475,6474,9/12/2013,D,Fine Arts Rd,39,959,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,11.783439,2,90,10,9.5,43.771748,-79.500584,7,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,Measured Below Breast Height,,,,0,central,out,
+4510,4509,8/27/2013,C,Arboretum,0,402,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,22,1,0,7,10,43.770669,-79.505917,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4575,4574,8/27/2013,C,Arboretum,0,467,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,by,6.5,1,0,3,4,43.769555,-79.505854,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+306,305,8/20/2012,A,Tatham Hall Residences,52,306,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,39,1,50,12,16,43.776918,-79.502288,9,2,1,0,0,0,2,2,0,0,0,0,0,0,0,0,0,n,e,n,n,n,n,Main entrance patio,,,,0,periph,out,
+620,619,8/3/2012,A,YUDC,59,620,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,by,39.5,1,30,11,12,43.778921,-79.499619,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+6425,6424,9/12/2013,D,Fine Arts Rd,39,909,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,9.076433,1,0,6,5.5,43.771069,-79.501077,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3114,3113,6/13/2013,B,Stong College Residence,14,1229,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,cy,31.847134,1,100,17,18.5,43.77256469,-79.50893437,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,e,n,n,n,,,,,0,central,out,
+6470,6469,9/12/2013,D,Fine Arts Rd,39,954,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,fy,20.382166,1,40,10,10.5,43.771969,-79.50091,12,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+1947,1946,5/22/2013,B,ICE,1,60,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,s,13,1,95,5,23,43.77416078,-79.51391901,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5830,5829,9/11/2013,D,Atkinson RD,34,314,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,9.55414,1,0,5,6.6,43.771217,-79.501266,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+5860,5859,9/11/2013,D,Atkinson RD,34,344,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,by,7.006369,1,0,7,7,43.771698,-79.501709,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3620,3619,5/27/2013,B,Shoreham Drive Lot,63,1735,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,n,14,1,0,6,9,43.7739317,-79.51261466,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5825,5824,9/11/2013,D,Atkinson RD,34,309,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,9.5,1,0,3,5,43.771176,-79.501331,11.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+637,636,8/3/2012,A,YUDC,59,637,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,by,5,3,0,2,3,43.779622,-79.499716,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5846,5845,9/11/2013,D,Atkinson RD,34,330,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,28.5,1,0,3,6,43.771373,-79.501345,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3143,3142,6/13/2013,B,Stong College Residence,13,1258,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,n,14.5,1,90,9,20,43.77276422,-79.50895357,12,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,n,n,n,n,n,n,,,,,0,central,out,
+5688,5687,9/11/2013,D,The Pond RD,35,172,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,8.5,1,0,6,7,43.770696,-79.501109,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+6464,6463,9/12/2013,D,Fine Arts Rd,39,948,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,10.509554,1,90,8,5.5,43.771767,-79.501386,8,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,out,
+3021,3020,6/11/2013,B,Bethune Court yard,11,1136,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,n,44.8,1,50,15,19,43.77303984,-79.50917481,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+5845,5844,9/11/2013,D,Atkinson RD,34,329,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,14.012739,1,0,4,7,43.771353,-79.501394,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+5450,5449,9/16/2014,C,Hoover House,0,1342,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,fy,7.802548,1,0,2,5.5,43.76862,-79.507654,3,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3019,3018,6/11/2013,B,Bethune Court yard,11,1134,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,n,17,1,10,12,6,43.773164,-79.50948046,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3307,3306,6/17/2013,B,Steacie Science & Engineering Library,18,1422,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,n,46,1,15,16,18,43.77393588,-79.50655136,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3306,3305,6/17/2013,B,Steacie Science & Engineering Library,18,1421,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,n,38.4,1,30,18,17,43.77387854,-79.50655543,16,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+6452,6451,9/12/2013,D,Fine Arts Rd,39,936,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,7.643312,1,0,7,5,43.771551,-79.501294,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+1790,1789,9/13/2013,A,Harry Sherman Housing,57,1790,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,cy,11.5,1,0,1,4,43.776088,-79.499305,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,container tree,,,,0,periph,out,
+5827,5826,9/11/2013,D,Atkinson RD,34,311,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,9.872611,1,0,3,5,43.771193,-79.501322,11.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+5128,5127,9/9/2013,C,Hoover Road,91,1020,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,12.8,1,0,7,5.5,43.769615,-79.507425,7,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3142,3141,6/13/2013,B,Stong College Residence,13,1257,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,n,14.3,1,90,6,18,43.77276877,-79.50891963,11,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3101,3100,6/13/2013,B,Stong College Residence,14,1216,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,cy,16,1,100,7,14,43.77251459,-79.50830263,4,0,0,0,0,3,0,0,0,0,0,0,0,0,2,0,0,n,e,e,n,n,n,,,,,0,central,out,
+5696,5695,9/11/2013,D,The Pond RD,35,180,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,8.5,1,0,5,6,43.770797,-79.501151,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+6428,6427,9/12/2013,D,Fine Arts Rd,39,912,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,7.484076,1,0,6,7,43.771131,-79.50107,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+4680,4679,9/3/2013,C,Campus Wk,401,572,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,fy,5.5,1,90,2.5,3.5,43.773489,-79.505061,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3063,3062,6/12/2013,B,Bethune Resid.,11,1178,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,s,14,1,90,9,6.5,43.77283142,-79.50908034,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+6445,6444,9/12/2013,D,Fine Arts Rd,39,929,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,8.917197,1,0,4,5,43.771433,-79.501212,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+1948,1947,5/23/2013,B,ICE,1,61,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,s,9,1,95,4,18,43.77415265,-79.5139534,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3020,3019,6/11/2013,B,Bethune Court yard,11,1135,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,n,24.3,1,10,14,7,43.77315189,-79.50954975,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5806,5805,9/11/2013,D,Atkinson RD,34,290,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,10,1,0,3,7,43.771002,-79.501233,11.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3605,3604,5/27/2013,B,Shoreham Drive Lot,63,1720,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,n,8,1,0,4,7,43.77390345,-79.51319116,5,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5813,5812,9/11/2013,D,Atkinson RD,34,297,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,9.5,1,0,3,6.5,43.771073,-79.501292,9.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+1172,1171,9/7/2012,A,York Lanes Pkg garage,72,1172,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,14,1,30,7,11,43.774645,-79.502533,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,within,within
+414,413,9/7/2012,A,Vanier College Residence,55,414,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,by,13,1,10,7,8,43.7751,-79.502529,1.5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+4065,4064,6/18/2013,B,Founders Residence w,203,2180,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,w,6,1,85,3.5,7,43.77544805,-79.50409471,5.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+1273,1272,8/15/2012,A,Archives of Ontario,95,1273,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,pl,24.5,1,10,6,8,43.775,-79.497596,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+50,49,9/7/2012,A,Student Centre,23,50,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,18,1,60,8,11,43.774107,-79.502555,7,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+18,17,9/7/2012,A,Stedman Lecture Hall,22,18,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,20,1,30,7,12,43.774718,-79.502702,7,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+1641,1640,9/7/2012,A,Vanier College Park,105,1641,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,fy,21,1,0,12,13,43.775274,-79.503319,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+1174,1173,9/7/2012,A,York Lanes Pkg garage,72,1174,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,15,1,20,7,11,43.774573,-79.502521,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,within,within
+48,47,9/7/2012,A,Student Centre,23,48,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,14.5,1,60,7,11,43.774075,-79.502541,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+412,411,9/7/2012,A,Vanier College Residence,55,412,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,by,31.5,1,40,14,14,43.775177,-79.502595,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+311,310,8/20/2012,A,Tatham Hall Residences,52,311,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,32.5,1,60,10,13,43.776806,-79.50255,9,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,n,e,n,e,n,n,Main entrance patio,,,,0,periph,within,
+3319,3318,6/17/2013,B,Steacie Science & Engineering Library,18,1434,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,n,44.267516,1,0,3,19,43.77411996,-79.50578946,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+3636,3635,5/30/2013,B,Northwest Gate,64,1751,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,e,16.5,1,0,6,8.5,43.77570209,-79.50903752,15,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+1,0,9/7/2012,A,Stedman Lecture Hall,22,1,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,24,1,30,7,11,43.774222,-79.50284,6,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+1709,1708,8/24/2012,A,Vanier College Park,105,1709,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,by,21.5,1,30,5,9,43.774806,-79.502568,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,within,within
+1171,1170,9/7/2012,A,York Lanes Pkg garage,72,1171,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,14,1,30,6,12,43.774679,-79.50252,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,within,within
+411,410,9/7/2012,A,Vanier College Residence,55,411,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,by,26.5,1,30,8,15,43.775206,-79.502576,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+6823,6822,9/16/2013,D,James Giles St,42,1307,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,13.322718,3,0,8,12,43.773139,-79.497954,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+6827,6826,9/16/2013,D,James Giles St,42,1311,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,10.562633,3,0,10,11,43.77311,-79.497876,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+309,308,8/20/2012,A,Tatham Hall Residences,52,309,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,42,1,40,11,15,43.77679,-79.502321,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Main entrance patio,,,,0,periph,within,
+1176,1175,9/7/2012,A,York Lanes Pkg garage,72,1176,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,16.5,1,30,8,13,43.774487,-79.502375,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,within,within
+4698,4697,9/3/2013,C,Campus Wk,401,590,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,fy,35,1,90,15,16,43.773602,-79.504184,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,within,
+13,12,9/7/2012,A,Stedman Lecture Hall,22,13,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,15,1,30,6,9,43.774602,-79.502791,7,0,1,0,1,1,0,0,2,1,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+4701,4700,9/3/2013,C,Campus Wk,401,593,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,fy,28,1,90,12,18,43.773461,-79.504001,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,within,
+47,46,9/7/2012,A,Student Centre,23,47,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,16,1,60,7,8,43.774053,-79.50247,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+19,18,9/7/2012,A,Stedman Lecture Hall,22,19,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,19,1,30,6,10,43.774662,-79.502677,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+180,179,9/1/2012,A,Founders College,50,180,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,28,1,90,7,11,43.775592,-79.502679,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+15,14,9/7/2012,A,Stedman Lecture Hall,22,15,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,16,1,40,6,10,43.774681,-79.50287,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+42,41,9/7/2012,A,Student Centre,23,42,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,11,1,60,4,6,43.773947,-79.502487,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6868,6867,9/16/2013,D,James Giles St,42,1352,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,17.7,1,0,9,24,43.772729,-79.498995,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+1173,1172,9/7/2012,A,York Lanes Pkg garage,72,1173,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,14,1,20,6,11,43.774611,-79.502534,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,within,within
+168,167,8/29/2012,A,Founders College,50,168,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,by,33.5,1,20,9,15,43.775522,-79.503634,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,e,n,n,n,n,,,,,0,central,within,within
+1646,1645,9/7/2012,A,Vanier College Park,105,1646,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,fy,33,1,50,11,12,43.775435,-79.503204,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+1167,1166,9/7/2012,A,York Lanes Pkg garage,72,1167,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,19.426752,1,10,6,11,43.774661,-79.502439,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,within,within
+6279,6278,9/12/2013,D,Keele & The Pond RDSt,103,763,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,st,6.5,1,0,2,7,43.771344,-79.496551,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+6260,6259,9/12/2013,D,Keele & The Pond RDSt,103,744,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,st,7.5,1,0,2,12,43.771911,-79.493944,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+4703,4702,9/3/2013,C,Campus Wk,401,595,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,fy,36,1,90,10,18,43.773576,-79.504038,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,within,
+6764,6763,9/16/2013,D,James Gilles St,41,1248,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,18.2,1,60,12,12.5,43.771944,-79.49865,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+52,51,9/7/2012,A,Student Centre,23,52,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,18,1,60,8,10,43.774156,-79.502516,7,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+6830,6829,9/16/2013,D,James Giles St,42,1314,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,8.333333,3,0,8,6,43.773062,-79.497848,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+4706,4705,9/3/2013,C,Campus Wk,401,598,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,fy,16.5,1,50,12,12,43.773764,-79.503499,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6870,6869,9/16/2013,D,James Giles St,42,1354,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,19.5,1,0,9,24,43.772879,-79.499055,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+312,311,8/20/2012,A,Tatham Hall Residences,52,312,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,35,1,40,9,14,43.776826,-79.502548,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,e,n,e,n,n,Main entrance patio,,,,0,periph,within,
+14,13,9/7/2012,A,Stedman Lecture Hall,22,14,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,18.5,1,30,8,9,43.774622,-79.50284,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+6826,6825,9/16/2013,D,James Giles St,42,1310,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,12.845011,3,0,8,14,43.773131,-79.497801,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+1647,1646,9/7/2012,A,Vanier College Park,105,1647,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,fy,49.5,1,20,16,18,43.775386,-79.503114,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+2706,2705,6/6/2013,B,Toronto Track & Field,7,821,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,s,20.5,1,0,12,7.5,43.77602274,-79.50746395,11,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,0,N,N,N,e,n,n,,,,,0,periph,within,within
+268,267,8/20/2012,A,McLaughlin College,51,268,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,24,1,10,6,10,43.77609,-79.503013,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,Interior patio,,,,0,central,within,
+2,1,9/7/2012,A,Stedman Lecture Hall,22,2,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,14,1,40,6,7,43.774285,-79.502774,3,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,within,within
+45,44,9/7/2012,A,Student Centre,23,45,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,11,1,60,5,7,43.774006,-79.502451,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+1525,1524,8/10/2012,A,Steeles and Keele,103,1525,alive,mapnor,Norway Maple,Acer,platanoides,c,st,45,1,40,14,10,43.777452,-79.494828,7,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,n,n,n,e,n,n,,,,,0,periph,out,
+1457,1456,7/31/2012,A,Steeles and Keele,103,1457,alive,mapnor,Norway Maple,Acer,platanoides,c,st,46,1,0,10,12,43.780215,-79.49462,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+3892,3891,6/21/2013,B,Steeles Av,106,2007,alive,mapnor,Norway Maple,Acer,platanoides,c,st,48,1,30,11,27,43.77849404,-79.50669979,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+1514,1513,8/1/2012,A,Steeles and Keele,103,1514,alive,mapnor,Norway Maple,Acer,platanoides,c,st,46.5,1,0,12,13,43.778511,-79.494987,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,n,n,n,e,n,n,,,,,0,periph,out,
+1533,1532,8/10/2012,A,Steeles and Keele,103,1533,alive,mapnor,Norway Maple,Acer,platanoides,c,st,45,1,0,11,10,43.777025,-79.49476,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+947,946,8/5/2012,A,Founders Road East Lot,66,947,alive,mapnor,Norway Maple,Acer,platanoides,p,sl,26,1,20,8,11,43.778525,-79.503884,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5597,5596,9/11/2013,D,Sentinel RD Lot,88,81,alive,mapnor,Norway Maple,Acer,platanoides,p,by,22.5,1,20,12,10,43.769671,-79.502108,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4834,4833,9/5/2013,C,Library Lane,25,726,alive,mapnor,Norway Maple,Acer,platanoides,p,by,20.5,1,30,8,12.5,43.772442,-79.502944,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+5626,5625,9/11/2013,D,Sentinel RD Lot,88,110,alive,mapnor,Norway Maple,Acer,platanoides,p,by,28,1,20,10,12,43.76848,-79.501603,18,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+1744,1743,9/13/2013,A,Harry Sherman Housing,57,1744,alive,mapnor,Norway Maple,Acer,platanoides,p,sr,19,1,0,8,9,43.776249,-79.498373,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5625,5624,9/11/2013,D,Sentinel RD Lot,88,109,alive,mapnor,Norway Maple,Acer,platanoides,p,by,28,1,20,10,12,43.768568,-79.501641,17,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5609,5608,9/11/2013,D,Sentinel RD Lot,88,93,alive,mapnor,Norway Maple,Acer,platanoides,p,by,25.5,1,20,10,12,43.769197,-79.501923,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4764,4763,9/5/2013,C,Library Lane,25,656,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,25.3,1,0,10,18,43.771918,-79.505253,14.5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+1522,1521,8/1/2012,A,Steeles and Keele,103,1522,alive,mapnor,Norway Maple,Acer,platanoides,c,st,52,1,0,11,13,43.778073,-79.494993,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+1347,1346,8/2/2012,A,Steeles and Keele,103,1347,alive,mapnor,Norway Maple,Acer,platanoides,c,st,37.5,1,40,11,11,43.780235,-79.498946,4,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+1452,1451,7/31/2012,A,Steeles and Keele,103,1452,alive,mapnor,Norway Maple,Acer,platanoides,c,st,30,1,30,7,10,43.780553,-79.49452,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+1529,1528,8/10/2012,A,Steeles and Keele,103,1529,alive,mapnor,Norway Maple,Acer,platanoides,c,st,48.5,1,0,11,11,43.777237,-79.494821,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,n,n,n,e,n,n,,,,,0,periph,out,
+1061,1060,8/7/2012,A,Albany Road Lot,67,1061,alive,mapnor,Norway Maple,Acer,platanoides,p,by,24.363057,2,0,7,8,43.776856,-79.499088,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+5241,5240,9/9/2013,C,320 Assiniboine,48,1133,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,25.5,1,0,12,11,43.769716,-79.502631,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5256,5255,9/9/2013,C,320 Assiniboine,48,1148,alive,mapnor,Norway Maple,Acer,platanoides,p,sr,26.2,1,0,12,11,43.768552,-79.502118,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3878,3877,6/21/2013,B,Steeles Av,106,1993,alive,mapnor,Norway Maple,Acer,platanoides,c,st,40,1,20,12,17,43.77893835,-79.50467026,13,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+6667,6666,9/16/2013,D,Keele East,70,1151,alive,mapnor,Norway Maple,Acer,platanoides,p,by,46.8,1,0,18,12.5,43.774849,-79.49475,17,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4765,4764,9/5/2013,C,Library Lane,25,657,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,34.8,1,0,10,18,43.771921,-79.505176,14,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,n,n,n,n,n,n,,,,,0,central,out,
+5545,5544,9/10/2013,D,Atkinson West,33,29,alive,mapnor,Norway Maple,Acer,platanoides,p,sl,30,1,0,16,11,43.771126,-79.502354,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,out,
+5247,5246,9/9/2013,C,320 Assiniboine,48,1139,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,27,1,0,12,11,43.769331,-79.502499,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+1464,1463,7/31/2012,A,Steeles and Keele,103,1464,alive,mapnor,Norway Maple,Acer,platanoides,c,st,35,1,10,12,12,43.779891,-79.494615,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+1349,1348,8/2/2012,A,Steeles and Keele,103,1349,alive,mapnor,Norway Maple,Acer,platanoides,c,st,44,1,30,11,11,43.78017,-79.499233,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+2878,2877,6/11/2013,B,Calumet Residence,9,993,alive,mapnor,Norway Maple,Acer,platanoides,p,e,19.3,1,0,10,23,43.77216755,-79.50896102,17,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5670,5669,9/11/2013,D,Sentinel RD Lot,88,154,alive,mapnor,Norway Maple,Acer,platanoides,p,pl,26.3,1,20,14,11,43.769941,-79.502159,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+1443,1442,7/31/2012,A,Steeles and Keele,103,1443,alive,mapnor,Norway Maple,Acer,platanoides,c,st,46,1,0,11,14,43.781066,-79.494793,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+1513,1512,8/1/2012,A,Steeles and Keele,103,1513,alive,mapnor,Norway Maple,Acer,platanoides,c,st,35,1,20,11,11,43.77862,-79.495004,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,n,n,n,e,n,n,,,,,0,periph,out,
+1334,1333,8/1/2012,A,Steeles and Keele,103,1334,alive,mapnor,Norway Maple,Acer,platanoides,c,st,44,1,35,12,14,43.780656,-79.497079,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+1445,1444,7/31/2012,A,Steeles and Keele,103,1445,alive,mapnor,Norway Maple,Acer,platanoides,c,st,42,1,0,12,10,43.780962,-79.494758,4,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,n,n,n,e,n,n,,,,,0,periph,out,
+1062,1061,8/7/2012,A,Albany Road Lot,67,1062,alive,mapnor,Norway Maple,Acer,platanoides,p,by,22.611465,2,0,6,11,43.776794,-79.499104,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+236,235,8/20/2012,A,McLaughlin College,51,236,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,39.5,1,30,11,11,43.777068,-79.502896,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+697,696,8/9/2012,A,PRB,60,697,alive,mapnor,Norway Maple,Acer,platanoides,p,sr,19,1,30,7,9,43.778611,-79.496796,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+1537,1536,8/10/2012,A,Steeles and Keele,103,1537,alive,mapnor,Norway Maple,Acer,platanoides,c,st,40,1,0,12,12,43.77682,-79.494703,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+2879,2878,6/11/2013,B,Calumet Residence,9,994,alive,mapnor,Norway Maple,Acer,platanoides,p,e,19,1,10,6,20,43.77211281,-79.50904408,16,0,0,0,0,1,0,0,3,0,0,0,0,0,0,2,0,n,n,n,n,n,n,,,,,0,periph,out,
+5268,5267,9/9/2013,C,320 Assiniboine,48,1160,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,12.5,1,0,8,9,43.769048,-79.50225,6,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+1554,1553,8/10/2012,A,Steeles and Keele,103,1554,alive,mapnor,Norway Maple,Acer,platanoides,c,st,38,1,30,12,10,43.775759,-79.494483,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+1471,1470,7/31/2012,A,Steeles and Keele,103,1471,alive,mapnor,Norway Maple,Acer,platanoides,c,st,50.5,1,0,13,12,43.779464,-79.494804,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+647,646,8/1/2012,A,PRB,60,647,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,23.5,1,0,6,8,43.778807,-79.497065,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+1341,1340,8/2/2012,A,Steeles and Keele,103,1341,alive,mapnor,Norway Maple,Acer,platanoides,c,st,44,1,40,11,12,43.780432,-79.498079,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+2988,2987,6/7/2013,B,Calumet College,10,1103,alive,mapnor,Norway Maple,Acer,platanoides,p,n,14.490446,1,10,9,9,43.77297081,-79.50993478,16,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+1526,1525,8/10/2012,A,Steeles and Keele,103,1526,alive,mapnor,Norway Maple,Acer,platanoides,c,st,42,1,0,14,10,43.77736,-79.494782,8,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+680,679,8/9/2012,A,PRB,60,680,alive,mapnor,Norway Maple,Acer,platanoides,p,sr,23.5,1,0,8,8,43.777896,-79.496484,2,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+6199,6198,9/12/2013,D,Keele St,103,683,alive,mapnor,Norway Maple,Acer,platanoides,c,st,36.5,1,0,10,9,43.774901,-79.494313,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+1726,1725,8/7/2014,A,McLaughlin College,51,1726,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,39.808917,1,15,10,15,43.777352,-79.503355,12,2,1,1,0,1,0,0,1,1,0,0,0,0,1,1,0,n,n,n,e,n,n,,,,,0,periph,out,
+1466,1465,7/31/2012,A,Steeles and Keele,103,1466,alive,mapnor,Norway Maple,Acer,platanoides,c,st,41,1,15,12,12,43.779784,-79.494635,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,n,n,n,e,n,n,,,,,0,periph,out,
+1476,1475,8/1/2012,A,Steeles and Keele,103,1476,alive,mapnor,Norway Maple,Acer,platanoides,c,st,42,1,20,12,12,43.779244,-79.494771,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,n,n,n,e,n,n,,,,,0,periph,out,
+3930,3929,6/22/2013,B,Steeles Av,106,2045,alive,mapnor,Norway Maple,Acer,platanoides,c,st,32,1,15,10,24,43.77699051,-79.51339763,18,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+422,421,9/1/2012,A,Vanier College,56,422,alive,mapnor,Norway Maple,Acer,platanoides,p,sr,26,1,40,12,13,43.775861,-79.502198,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,Interior patio,,,,0,central,within,
+6329,6328,9/12/2013,D,Keele South,86,813,alive,mapnor,Norway Maple,Acer,platanoides,c,sr,26,1,0,10,9,43.770803,-79.493237,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+6323,6322,9/12/2013,D,Keele South,86,807,alive,mapnor,Norway Maple,Acer,platanoides,c,sr,21,1,0,12,8.5,43.77114,-79.493327,11,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,Dying,,,,0,periph,within,within
+1584,1583,8/13/2012,A,York BLVD,104,1584,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,37.261146,1,0,11,10,43.774817,-79.49653,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,periph,within,
+3935,3934,6/22/2013,B,Steeles Av,106,2050,alive,mapnor,Norway Maple,Acer,platanoides,c,st,41,1,15,11,26,43.77683268,-79.51411846,17,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+2055,2054,5/30/2013,B,York Stadium,3,168,alive,mapnor,Norway Maple,Acer,platanoides,p,e,19,1,0,6,18,43.77638942,-79.51080216,16,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+6251,6250,9/12/2013,D,Keele St,103,735,alive,mapnor,Norway Maple,Acer,platanoides,c,st,38.375796,1,30,15,12,43.772427,-79.493561,15,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+6316,6315,9/12/2013,D,Keele South,86,800,alive,mapnor,Norway Maple,Acer,platanoides,c,sr,16.719745,1,0,12,7,43.771481,-79.493341,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+3914,3913,6/22/2013,B,Steeles Av,106,2029,alive,mapnor,Norway Maple,Acer,platanoides,c,st,37,1,25,12,25,43.77776368,-79.50999429,18,1,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+3929,3928,6/22/2013,B,Steeles Av,106,2044,alive,mapnor,Norway Maple,Acer,platanoides,c,st,37.5,1,25,12,28,43.77702358,-79.51324407,18,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+6075,6074,9/19/2013,D,York lanes,400,559,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,23.6,7,5,5,12,43.773313,-79.50142,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,e,n,n,n,n,n,columnar,,,,0,central,within,
+262,261,8/20/2012,A,McLaughlin College,51,262,alive,mapnor,Norway Maple,Acer,platanoides,p,sl,36.5,1,40,10,10,43.776495,-79.503071,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+6313,6312,9/12/2013,D,Keele South,86,797,alive,mapnor,Norway Maple,Acer,platanoides,c,sr,16.5,1,0,12,8.5,43.771675,-79.49346,11,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+6671,6670,9/16/2013,D,Keele East,70,1155,alive,mapnor,Norway Maple,Acer,platanoides,p,by,21.8,1,0,16,12.5,43.774689,-79.49539,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+3465,3464,6/18/2013,B,Farquharson Building,21,1580,alive,mapnor,Norway Maple,Acer,platanoides,p,s,31.8,1,95,8,16,43.77394778,-79.50418681,9,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+3938,3937,6/22/2013,B,Steeles Av,106,2053,alive,mapnor,Norway Maple,Acer,platanoides,c,st,37,1,5,8,23,43.7767364,-79.51456057,14,2,2,0,2,2,0,0,2,0,0,1,0,0,1,0,0,n,n,n,n,n,n,Football stadium,,,,0,periph,within,
+1805,1804,9/13/2013,A,Harry Sherman Housing,57,1805,alive,mapnor,Norway Maple,Acer,platanoides,p,sl,23.8,1,0,15,12.5,43.775684,-79.499863,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+6226,6225,9/12/2013,D,Keele St,103,710,alive,mapnor,Norway Maple,Acer,platanoides,c,st,45.2,1,0,12,14,43.773684,-79.493918,16,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,periph,within,
+2062,2061,5/30/2013,B,York Stadium,3,175,alive,mapnor,Norway Maple,Acer,platanoides,p,e,22.3,1,0,9,22,43.77680711,-79.51098831,20,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,n,n,n,n,n,n,,,,,0,periph,within,within
+3907,3906,6/22/2013,B,Steeles Av,106,2022,alive,mapnor,Norway Maple,Acer,platanoides,c,st,41.5,1,20,13,28,43.77797737,-79.5089861,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+1608,1607,8/13/2012,A,York BLVD,104,1608,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,33,1,20,11,11,43.774483,-79.498372,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,e,n,n,e,n,n,,,,,0,periph,within,within
+6098,6097,9/19/2013,D,York lanes,400,582,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,35.5,1,0,24,14,43.773622,-79.501607,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6213,6212,9/12/2013,D,Keele St,103,697,alive,mapnor,Norway Maple,Acer,platanoides,c,st,26.8,1,0,12,10,43.774391,-79.494041,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+6321,6320,9/12/2013,D,Keele South,86,805,alive,mapnor,Norway Maple,Acer,platanoides,c,sr,25,1,0,12,8.5,43.771231,-79.493352,11,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+162,161,8/20/2012,A,Founders College,50,162,alive,mapnor,Norway Maple,Acer,platanoides,p,cy,11,1,50,6,10,43.776044,-79.503714,6.5,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,n,e,n,e,n,n,,,,,0,central,within,within
+1580,1579,8/13/2012,A,York BLVD,104,1580,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,40.605096,1,0,9,10,43.774913,-79.496091,5,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,Broken branch,,,,0,periph,within,
+6332,6331,9/12/2013,D,Keele South,86,816,alive,mapnor,Norway Maple,Acer,platanoides,c,sr,28,1,0,10,9,43.7707,-79.493131,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+6064,6063,9/19/2013,D,York lanes,400,548,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,27.2,1,0,10,11,43.773406,-79.50078,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6247,6246,9/12/2013,D,Keele St,103,731,alive,mapnor,Norway Maple,Acer,platanoides,c,st,34.55414,1,30,17,12,43.772584,-79.49359,15,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+3917,3916,6/22/2013,B,Steeles Av,106,2032,alive,mapnor,Norway Maple,Acer,platanoides,c,st,37.5,1,25,15,30,43.77766945,-79.51042282,22,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+3931,3930,6/22/2013,B,Steeles Av,106,2046,alive,mapnor,Norway Maple,Acer,platanoides,c,st,32.5,1,15,9,24,43.77696004,-79.513535,19,0,1,0,0,1,0,0,2,0,0,0,1,0,1,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+6674,6673,9/16/2013,D,Keele East,70,1158,alive,mapnor,Norway Maple,Acer,platanoides,p,by,45,1,0,20,11.5,43.77462,-79.495718,15,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+6080,6079,9/19/2013,D,York lanes,400,564,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,22.9,1,0,16,8.5,43.773287,-79.501764,15,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,e,n,n,n,n,n,,,,,0,central,within,
+6322,6321,9/12/2013,D,Keele South,86,806,alive,mapnor,Norway Maple,Acer,platanoides,c,sr,23,1,0,12,8.5,43.771163,-79.493252,11,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+6675,6674,9/16/2013,D,Keele East,70,1159,alive,mapnor,Norway Maple,Acer,platanoides,p,by,41,1,0,18,12.5,43.774594,-79.495837,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+3941,3940,6/22/2013,B,Steeles Av,106,2056,alive,mapnor,Norway Maple,Acer,platanoides,c,st,41,1,30,14,29,43.77663142,-79.51498486,23,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+6312,6311,9/12/2013,D,Keele South,86,796,alive,mapnor,Norway Maple,Acer,platanoides,c,sr,16.5,1,0,12,8.5,43.771683,-79.493399,11,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+6227,6226,9/12/2013,D,Keele St,103,711,alive,mapnor,Norway Maple,Acer,platanoides,c,st,32.484076,1,0,10,12,43.773698,-79.49385,16,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+2059,2058,5/30/2013,B,York Stadium,3,172,alive,mapnor,Norway Maple,Acer,platanoides,p,e,22,1,0,7,22,43.77665795,-79.51091832,19,0,0,0,0,0,1,0,2,0,0,1,0,0,0,1,0,n,n,n,n,n,n,,,,,0,periph,within,within
+6670,6669,9/16/2013,D,Keele East,70,1154,alive,mapnor,Norway Maple,Acer,platanoides,p,by,47,1,0,20,11.5,43.774769,-79.495064,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+3912,3911,6/22/2013,B,Steeles Av,106,2027,alive,mapnor,Norway Maple,Acer,platanoides,c,st,27.5,1,15,8,17,43.77782428,-79.50970329,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+6096,6095,9/19/2013,D,York lanes,400,580,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,29.8,1,15,12,13,43.773652,-79.501733,20,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+1774,1773,9/13/2013,A,Harry Sherman Housing,57,1774,alive,mapnor,Norway Maple,Acer,platanoides,p,by,5,1,0,2,5,43.775886,-79.499411,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+6330,6329,9/12/2013,D,Keele South,86,814,alive,mapnor,Norway Maple,Acer,platanoides,c,sr,25,1,0,10,9,43.770806,-79.493158,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+6094,6093,9/19/2013,D,York lanes,400,578,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,26,1,40,16,13,43.773622,-79.501839,29,0,0,0,0,0,0,0,3,0,0,0,0,2,0,0,0,e,n,n,n,n,n,wires in tree,,,,0,central,within,
+1578,1577,8/13/2012,A,York BLVD,104,1578,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,32.961783,1,0,7,9,43.774961,-79.495874,5,0,0,0,0,1,0,1,3,0,0,2,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+1588,1587,8/13/2012,A,York BLVD,104,1588,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,35.5,1,0,7,12,43.774687,-79.49714,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+3925,3924,6/22/2013,B,Steeles Av,106,2040,alive,mapnor,Norway Maple,Acer,platanoides,c,st,45,1,20,12,30,43.77715006,-79.51267378,24,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+2065,2064,5/30/2013,B,York Stadium,3,178,alive,mapnor,Norway Maple,Acer,platanoides,p,e,21,1,0,7,12,43.77694342,-79.51106627,10,1,0,0,0,0,1,1,2,1,0,1,0,1,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+4294,4293,8/27/2013,C,Arboretum,0,186,alive,oakred,Red Oak,Quercus,rubra,p,fy,24,1,0,14,14,43.771893,-79.509,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5513,5512,11/10/2014,C,Arboretum,0,1405,alive,oakred,Red Oak,Quercus,rubra,p,nw,8.7,1,0,3.5,6.5,43.77203,-79.511072,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,0,periph,out,
+3211,3210,6/13/2013,B,Campus Walk,16,1326,alive,oakred,Red Oak,Quercus,rubra,p,w,7.484076,1,5,6,6.5,43.77358945,-79.50832571,8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,out,
+4612,4611,8/27/2013,C,Arboretum,0,504,alive,oakred,Red Oak,Quercus,rubra,p,by,8,1,0,4,4.5,43.77091,-79.508161,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4643,4642,9/3/2013,C,Campus Wk,401,535,alive,oakred,Red Oak,Quercus,rubra,p,sl,8.5,1,0,6,7,43.773052,-79.506243,5.5,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+590,589,8/8/2012,A,CUB,58,590,alive,oakred,Red Oak,Quercus,rubra,p,by,60,1,0,14,18,43.77723,-79.497979,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+2206,2205,6/13/2013,B,Tait McK. Ctre,4,319,alive,oakred,Red Oak,Quercus,rubra,p,s-cr,12,1,30,7,13,43.77415218,-79.50926852,10.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,Container tree,,,,0,central,out,
+2797,2796,6/14/2013,B,New Life Sci,204,912,alive,oakred,Red Oak,Quercus,rubra,p,w,8,1,0,4,10,43.77401827,-79.50852037,7.5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,out,
+2257,2256,6/14/2013,B,Tait McK. Ctre,4,371,alive,oakred,Red Oak,Quercus,rubra,p,n,15,1,0,9,10,43.77469304,-79.510326,16,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,n,n,n,n,n,n,,,,,0,periph,out,
+4875,4874,9/5/2013,C,Nelson Road,31,767,alive,oakred,Red Oak,Quercus,rubra,p,fy,6.2,1,0,2,6,43.771838,-79.504846,4.5,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+4296,4295,8/27/2013,C,Arboretum,0,188,alive,oakred,Red Oak,Quercus,rubra,p,fy,20.5,1,0,13,12,43.771827,-79.509003,10,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4332,4331,8/27/2013,C,Arboretum,0,224,alive,oakred,Red Oak,Quercus,rubra,p,fy,31,1,0,11,23,43.772098,-79.507879,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+4401,4400,8/27/2013,C,Arboretum,0,293,alive,oakred,Red Oak,Quercus,rubra,p,fy,29.936306,1,0,13,12,43.771102,-79.50821,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+3770,3769,6/6/2013,B,Founders RD,65,1885,alive,oakred,Red Oak,Quercus,rubra,p,pl,24.2,1,10,8,10,43.77783322,-79.5049,5,0,0,0,0,1,1,1,2,0,0,0,0,0,2,0,0,n,n,n,n,n,n,Dead branch,,,,0,periph,out,
+5787,5786,9/11/2013,D,The Pond RD,35,271,alive,oakred,Red Oak,Quercus,rubra,p,sr,12,1,0,7,7.5,43.770189,-79.502111,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5789,5788,9/11/2013,D,The Pond RD,35,273,alive,oakred,Red Oak,Quercus,rubra,p,sr,11.5,1,0,10,7,43.770216,-79.501966,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3226,3225,6/13/2013,B,Campus Walk,16,1341,alive,oakred,Red Oak,Quercus,rubra,p,w,20.541401,1,0,11,13,43.77343271,-79.5082229,21,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+274,273,8/16/2012,A,Tatham Hall Residences,52,274,alive,oakred,Red Oak,Quercus,rubra,p,sr,38,1,10,12,10,43.777043,-79.501978,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3076,3075,6/12/2013,B,Bethune Resid.,11,1191,alive,oakred,Red Oak,Quercus,rubra,p,e,15.923567,1,0,11,9,43.77317929,-79.50811865,10,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,out,
+4372,4371,8/27/2013,C,Arboretum,0,264,alive,oakred,Red Oak,Quercus,rubra,p,fy,34.076433,1,0,12,10,43.771616,-79.508542,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+210,209,8/16/2012,A,McLaughlin College,51,210,alive,oakred,Red Oak,Quercus,rubra,p,fy,30.5,1,30,7,10,43.777335,-79.502786,6,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+666,665,8/9/2012,A,PRB,60,666,alive,oakred,Red Oak,Quercus,rubra,p,by,45,3,0,15,14,43.777332,-79.497014,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3223,3222,6/13/2013,B,Campus Walk,16,1338,alive,oakred,Red Oak,Quercus,rubra,p,w,14.968153,1,0,5,10,43.77332653,-79.50816953,5.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+3565,3564,6/18/2013,B,Shoreham Drive Lot,63,1680,alive,oakred,Red Oak,Quercus,rubra,p,s,18,1,0,10,15,43.77254923,-79.51177734,13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,n,n,n,n,n,n,,,,,0,periph,out,
+973,972,8/5/2012,A,Founders Road East Lot,66,973,alive,oakred,Red Oak,Quercus,rubra,p,by,42,1,10,10,11,43.77796,-79.502805,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+1011,1010,8/7/2012,A,Founders Road East Lot,66,1011,alive,oakred,Red Oak,Quercus,rubra,p,by,24,1,50,4,6,43.777729,-79.501977,2,0,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+1344,1343,8/2/2012,A,Steeles and Keele,103,1344,alive,oakred,Red Oak,Quercus,rubra,c,st,4.5,1,0,12,4,43.780332,-79.498511,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3225,3224,6/13/2013,B,Campus Walk,16,1340,alive,oakred,Red Oak,Quercus,rubra,p,w,24.840764,1,10,11,13,43.77348264,-79.5082351,21,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,out,
+4985,4984,9/5/2013,C,Scholars Walk,32,877,alive,oakred,Red Oak,Quercus,rubra,p,by,10,1,0,2.5,8,43.770161,-79.503659,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5426,5425,9/6/2013,C,Atknson Road,83,1318,alive,oakred,Red Oak,Quercus,rubra,p,sl,35.5,1,0,10,10,43.770747,-79.502829,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+1743,1742,9/13/2013,A,Harry Sherman Housing,57,1743,alive,oakred,Red Oak,Quercus,rubra,p,fy,17,1,0,6,10,43.776552,-79.49827,10,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4863,4862,9/5/2013,C,Nelson Road,31,755,alive,oakred,Red Oak,Quercus,rubra,p,fy,13.5,1,0,10,13.5,43.77176,-79.504501,10.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+2801,2800,6/14/2013,B,New Life Sci,204,916,alive,oakred,Red Oak,Quercus,rubra,p,w,8,1,0,5,8.5,43.77373105,-79.50839018,7.5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,n,n,n,n,n,n,,,,,0,central,out,
+4302,4301,8/27/2013,C,Arboretum,0,194,alive,oakred,Red Oak,Quercus,rubra,p,fy,16,1,0,8,12,43.772014,-79.508841,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5791,5790,9/11/2013,D,The Pond RD,35,275,alive,oakred,Red Oak,Quercus,rubra,p,sr,10,1,0,4,5,43.770247,-79.501822,6,0,0,2,2,2,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+1299,1298,8/1/2012,A,Stong Barn,101,1299,alive,oakred,Red Oak,Quercus,rubra,p,sr,18,2,0,9,11,43.779977,-79.49686,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,Prunning scars,,,,0,periph,out,
+5515,5514,11/10/2014,C,Arboretum,0,1407,alive,oakred,Red Oak,Quercus,rubra,p,nw,8.8,1,0,3.5,6,43.771907,-79.510934,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,0,periph,out,
+1103,1102,8/8/2012,A,Albany Road Lot,67,1103,alive,oakred,Red Oak,Quercus,rubra,p,sr,31,1,20,9,9,43.778314,-79.500015,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+1031,1030,8/7/2012,A,Albany Road Lot,67,1034,alive,oakred,Red Oak,Quercus,rubra,p,sl,39.5,1,0,8,10,43.776485,-79.500494,4,2,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5786,5785,9/11/2013,D,The Pond RD,35,270,alive,oakred,Red Oak,Quercus,rubra,p,sr,14,1,0,7,7.5,43.770173,-79.50218,10,0,0,2,2,2,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4297,4296,8/27/2013,C,Arboretum,0,189,alive,oakred,Red Oak,Quercus,rubra,p,fy,32,1,0,15,13,43.772005,-79.508946,10.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+4507,4506,8/27/2013,C,Arboretum,0,399,alive,oakred,Red Oak,Quercus,rubra,p,sr,11.5,1,0,9,10,43.770762,-79.505828,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+1080,1079,8/7/2012,A,Albany Road Lot,67,1080,alive,oakred,Red Oak,Quercus,rubra,p,sr,50.159236,1,0,14,15,43.777409,-79.499334,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+187,186,8/15/2012,A,McLaughlin College,51,187,alive,oakred,Red Oak,Quercus,rubra,p,sr,49,1,40,14,12,43.776827,-79.501822,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+991,990,8/7/2012,A,Founders Road East Lot,66,991,alive,oakred,Red Oak,Quercus,rubra,p,by,36,1,40,11,10,43.778107,-79.502281,8.5,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,out,
+6577,6576,9/16/2013,D,York Bld,92,1061,alive,oakred,Red Oak,Quercus,rubra,p,by,8.3,1,0,4,5,43.772314,-79.500119,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,dead/broken litter,,,,0,central,out,
+4872,4871,9/5/2013,C,Nelson Road,31,764,alive,oakred,Red Oak,Quercus,rubra,p,fy,4,1,0,1.8,7,43.771847,-79.504521,5,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,out,
+5425,5424,9/6/2013,C,Atknson Road,83,1317,alive,oakred,Red Oak,Quercus,rubra,p,sl,39.8,1,0,17,8.5,43.770465,-79.502687,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+5788,5787,9/11/2013,D,The Pond RD,35,272,alive,oakred,Red Oak,Quercus,rubra,p,sr,11.4,1,0,10,6,43.7702,-79.502041,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+2244,2243,6/14/2013,B,Tait McK. Ctre,4,358,alive,oakred,Red Oak,Quercus,rubra,p,n,13.5,1,0,7,9,43.77494659,-79.51028399,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,out,
+3655,3654,5/29/2013,B,Northwest Gate,64,1770,alive,oakred,Red Oak,Quercus,rubra,p,e,12,1,0,6,12,43.77648498,-79.51009634,9,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+154,153,8/20/2012,A,Founders College,50,154,alive,oakred,Red Oak,Quercus,rubra,p,fy,5,1,0,2,9,43.776018,-79.503645,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+4093,4092,10/11/2014,B,Lumbers Parking Lot,73,2194,alive,oakred,Red Oak,Quercus,rubra,p,e,0,0,0,0,0,43.77495856,-79.50458615,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,0,central,within,within
+6707,6706,9/16/2013,D,James Gilles St,41,1191,alive,oakred,Red Oak,Quercus,rubra,p,fy,17.2,1,0,10,13,43.772527,-79.498469,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6832,6831,9/16/2013,D,James Giles St,42,1316,alive,oakred,Red Oak,Quercus,rubra,p,sr,12.3,1,0,3,9.5,43.773065,-79.4977,6,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+91,90,9/7/2012,A,Founders College Residence,49,91,alive,oakred,Red Oak,Quercus,rubra,p,fy,24.5,1,20,9,12,43.776562,-79.504318,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,within,
+1237,1236,8/14/2012,A,Archives of Ontario,95,1237,alive,oakred,Red Oak,Quercus,rubra,p,sr,34.5,1,0,12,11,43.775433,-79.499828,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,within,
+6834,6833,9/16/2013,D,James Giles St,42,1318,alive,oakred,Red Oak,Quercus,rubra,p,sr,12.5,1,0,3,12,43.77291,-79.497631,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+6576,6575,9/16/2013,D,York Bld,92,1060,alive,oakred,Red Oak,Quercus,rubra,p,by,13,1,0,6,9,43.772339,-79.499984,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+3658,3657,5/29/2013,B,Northwest Gate,64,1773,alive,oakred,Red Oak,Quercus,rubra,p,e,18.5,1,0,12,17,43.77642673,-79.51009376,15,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+6833,6832,9/16/2013,D,James Giles St,42,1317,alive,oakred,Red Oak,Quercus,rubra,p,sr,13,1,0,2,9,43.772961,-79.497656,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+3398,3397,6/17/2013,B,Lumber,20,1513,alive,oakred,Red Oak,Quercus,rubra,p,s,44.5,1,0,17,31,43.77474571,-79.50426602,22,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,within,within
+6574,6573,9/16/2013,D,York Bld,92,1058,alive,oakred,Red Oak,Quercus,rubra,p,by,11.3,1,0,6,8,43.772378,-79.499781,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+3386,3385,6/17/2013,B,Lumber,20,1501,alive,oakred,Red Oak,Quercus,rubra,p,s,34.5,1,0,26,28,43.77497871,-79.50434769,23,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+6821,6820,9/16/2013,D,James Giles St,42,1305,alive,oakred,Red Oak,Quercus,rubra,p,sr,15,1,0,6,9.5,43.773505,-79.497657,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+76,75,8/20/2012,A,Founders College Residence,49,76,alive,oakred,Red Oak,Quercus,rubra,p,fy,35.5,1,0,11,13,43.776656,-79.504024,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+3428,3427,6/18/2013,B,Farquharson Building,21,1543,alive,oakred,Red Oak,Quercus,rubra,p,n,41.8,1,40,26,20,43.77440146,-79.50474234,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,within,
+3425,3424,6/18/2013,B,Farquharson Building,21,1540,alive,oakred,Red Oak,Quercus,rubra,p,n,51,1,50,17,18,43.77438644,-79.50479899,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,n,n,n,e,n,n,,,,,0,central,within,
+6572,6571,9/16/2013,D,York Bld,92,1056,alive,oakred,Red Oak,Quercus,rubra,p,by,8.2,1,0,3,8,43.772425,-79.499598,7,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6801,6800,9/16/2013,D,James Giles St,42,1285,alive,oakred,Red Oak,Quercus,rubra,p,sr,10,1,0,3,10,43.773952,-79.49767,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+1258,1257,8/14/2012,A,Archives of Ontario,95,1258,alive,oakred,Red Oak,Quercus,rubra,p,pl,45,1,40,12,9,43.775354,-79.49948,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+1264,1263,8/14/2012,A,Archives of Ontario,95,1264,alive,oakred,Red Oak,Quercus,rubra,p,pl,26,1,10,9,7,43.774836,-79.498096,5.5,0,0,0,0,1,0,0,1,1,0,1,1,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+2169,2168,6/12/2013,B,Tait McK. Ctre,4,282,alive,oakred,Red Oak,Quercus,rubra,p,n,15.5,1,0,10,11.5,43.77511468,-79.50917189,19,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+1238,1237,8/14/2012,A,Archives of Ontario,95,1238,alive,oakred,Red Oak,Quercus,rubra,p,sr,31.5,1,0,10,8,43.775442,-79.499752,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+186,185,9/7/2012,A,Founders College,50,186,alive,oakred,Red Oak,Quercus,rubra,p,sr,37.5,1,10,11,13,43.775534,-79.503088,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+1259,1258,8/14/2012,A,Archives of Ontario,95,1259,alive,oakred,Red Oak,Quercus,rubra,p,pl,28.5,1,20,10,9,43.775439,-79.498954,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+6277,6276,9/12/2013,D,Keele & The Pond RDSt,103,761,alive,oakred,Red Oak,Quercus,rubra,p,st,12.5,1,0,5,10,43.771385,-79.496342,7,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+1260,1259,8/14/2012,A,Archives of Ontario,95,1260,alive,oakred,Red Oak,Quercus,rubra,p,pl,19.5,1,20,5,6,43.775386,-79.498918,3,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+6835,6834,9/16/2013,D,James Giles St,42,1319,alive,oakred,Red Oak,Quercus,rubra,p,sr,14,1,0,2,10.5,43.772847,-79.497617,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+6800,6799,9/16/2013,D,James Giles St,42,1284,alive,oakred,Red Oak,Quercus,rubra,p,sr,9.3,1,0,1,10,43.774008,-79.497695,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+171,170,9/7/2012,A,Founders College,50,171,alive,oakred,Red Oak,Quercus,rubra,p,by,46.5,1,40,16,12,43.77552,-79.503458,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+4020,4019,6/18/2013,B,Tennis Courts at Ottawa Rd.,202,2135,alive,oakred,Red Oak,Quercus,rubra,p,n,15,1,5,14,24,43.77717764,-79.50473051,15,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+1266,1265,8/14/2012,A,Archives of Ontario,95,1266,alive,oakred,Red Oak,Quercus,rubra,p,pl,17,1,20,10,9,43.775113,-79.498217,4,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+6864,6863,9/16/2013,D,James Giles St,42,1348,alive,oakred,Red Oak,Quercus,rubra,p,by,14.5,1,0,8,10,43.772628,-79.498602,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6749,6748,9/16/2013,D,James Gilles St,41,1233,alive,oakred,Red Oak,Quercus,rubra,p,sr,18,1,0,6,12,43.771895,-79.497364,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+4018,4017,6/18/2013,B,Tennis Courts at Ottawa Rd.,202,2133,alive,oakred,Red Oak,Quercus,rubra,p,n,16.8,1,15,12,16,43.77698952,-79.50465164,9,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+6709,6708,9/16/2013,D,James Gilles St,41,1193,alive,oakred,Red Oak,Quercus,rubra,p,fy,15.8,1,0,8,12.5,43.772573,-79.498242,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+6711,6710,9/16/2013,D,James Gilles St,41,1195,alive,oakred,Red Oak,Quercus,rubra,p,fy,16.5,1,0,12,11.5,43.772617,-79.498025,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+3375,3374,6/17/2013,B,Lumber,20,1490,alive,oakred,Red Oak,Quercus,rubra,p,w,37.5,1,0,14,31,43.77496237,-79.50453089,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,within
+3404,3403,6/17/2013,B,Lumber,20,1519,alive,oakred,Red Oak,Quercus,rubra,p,s,40.7,1,0,14,17,43.77463833,-79.50419769,23.5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,central,within,within
+1263,1262,8/14/2012,A,Archives of Ontario,95,1263,alive,oakred,Red Oak,Quercus,rubra,p,pl,24,1,20,7,9,43.774794,-79.498659,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+229,228,8/16/2012,A,McLaughlin College,51,229,alive,oakred,Red Oak,Quercus,rubra,p,fy,43.5,1,40,7,10,43.777042,-79.50328,4,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,within,
+550,549,8/15/2012,A,Harry Sherman Crowe Co-op,57,550,alive,oakred,Red Oak,Quercus,rubra,p,fy,24.5,1,30,7,9,43.776108,-79.500405,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+2129,2128,6/12/2013,B,Tait McK. Ctre,4,242,alive,oakred,Red Oak,Quercus,rubra,p,n,43,1,0,12,15,43.77490271,-79.50909025,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,,,,,0,periph,within,
+6571,6570,9/16/2013,D,York Bld,92,1055,alive,oakred,Red Oak,Quercus,rubra,p,by,11,1,0,5,8,43.772441,-79.4995,6,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+2781,2780,6/14/2013,B,Toronto Track & Field,7,896,alive,oakred,Red Oak,Quercus,rubra,C,n,15.3,1,0,10,23,43.77791242,-79.50872945,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,e,n,n,Inside construction zone,not tagged,,,0,periph,within,
+6067,6066,9/19/2013,D,York lanes,400,551,alive,oakred,Red Oak,Quercus,rubra,p,fy,11.6,1,0,7,8,43.773388,-79.50098,14,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
+1265,1264,8/14/2012,A,Archives of Ontario,95,1265,alive,oakred,Red Oak,Quercus,rubra,p,pl,18,1,20,9,8,43.775058,-79.498194,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,
+6799,6798,9/16/2013,D,James Giles St,42,1283,alive,oakred,Red Oak,Quercus,rubra,p,sr,10.5,1,0,1,10,43.774057,-79.497713,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,periph,within,within
+6866,6865,9/16/2013,D,James Giles St,42,1350,alive,oakred,Red Oak,Quercus,rubra,p,by,17.2,1,0,8,10,43.772584,-79.498813,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n,n,n,n,n,,,,,0,central,within,
