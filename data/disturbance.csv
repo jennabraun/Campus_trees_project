@@ -1,0 +1,917 @@
+Tree_Tag_N,Status,Species_Co,Common_Nam,Genus,Species,Ownership,Location_C,DBH,Number_of_,Percentage,Crown_Widt,Total_Heig,Latitude,Longitude,subway,subway_dist,density_10m
+30,alive,mapred,Red Maple,Acer,rubrum,p,fy,27,1,40,13,14,43.77467,-79.503217,within,48.86276536,4
+181,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,sr,33,1,0,8,9,43.775781,-79.502671,within,82.0805789,6
+183,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,sr,17,2,0,7,8,43.775689,-79.502613,within,74.31416149,4
+238,alive,mapred,Red Maple,Acer,rubrum,p,fy,5,1,0,1,3,43.777047,-79.503032,out,202.1089001,6
+239,alive,mapred,Red Maple,Acer,rubrum,p,fy,6,1,0,2,5,43.77703,-79.503096,within,198.4576911,7
+240,alive,mapred,Red Maple,Acer,rubrum,p,fy,5,1,0,1,4,43.777016,-79.503172,within,194.7683428,6
+258,alive,mapred,Red Maple,Acer,rubrum,p,sl,5,1,0,2,6,43.776776,-79.503213,within,168.749972,3
+259,alive,mapred,Red Maple,Acer,rubrum,p,sl,6,1,0,3,7,43.776721,-79.503191,within,163.7185442,4
+260,alive,mapred,Red Maple,Acer,rubrum,p,sl,4,1,0,2,5,43.776647,-79.503151,within,157.2568837,3
+1303,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,sr,9,1,0,4,5,43.779878,-79.497895,out,646.4438616,4
+1668,alive,mapred,Red Maple,Acer,rubrum,p,by,6,1,0,1.5,4,43.775095,-79.502687,within,10.801081,2
+1669,alive,mapred,Red Maple,Acer,rubrum,p,by,9.5,1,0,8,6,43.775047,-79.502732,within,4.505515982,3
+1670,alive,mapred,Red Maple,Acer,rubrum,p,by,10.5,1,0,5,7,43.774997,-79.502776,within,1.966660785,3
+1671,alive,mapred,Red Maple,Acer,rubrum,p,by,9,1,0,5,4,43.774946,-79.502818,within,8.482428737,3
+1672,alive,mapred,Red Maple,Acer,rubrum,p,by,10,1,0,7,8,43.774898,-79.502861,within,14.71837481,3
+1673,alive,mapred,Red Maple,Acer,rubrum,p,by,9.5,1,0,6,8,43.774847,-79.502905,within,21.29376359,3
+1849,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,fy,8.917197,1,0,2,5.5,43.780028,-79.496631,out,698.4664835,10
+290,alive,mapred,Red Maple,Acer,rubrum,p,n,9.5,1,0,6,11,43.77529565,-79.50898558,within,154.1157844,9
+624,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,w,19.3,2,0,11,9,43.77785845,-79.50856452,within,123.6411323,19
+625,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,w,14.2,2,0,9,7,43.77792807,-79.50860553,within,129.6346964,23
+626,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,w,15.5,2,0,12,9,43.77794706,-79.50863662,within,130.6813667,18
+627,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,w,17,1,0,6,12,43.77795094,-79.50860496,within,132.0159863,18
+628,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,w,11.5,1,0,7,7,43.77793476,-79.50856985,within,131.3783647,21
+629,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,w,21.5,1,0,15,11,43.7779578,-79.50858309,within,133.370051,17
+630,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,w,17,1,0,9,13,43.77791999,-79.5085334,within,130.921994,25
+631,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,w,11.5,1,0,4,11,43.77792644,-79.50848063,within,133.1252835,26
+632,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,w,16.5,1,0,10,12,43.77792589,-79.5084379,within,134.3113088,27
+633,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,w,9,3,0,8,9,43.77792722,-79.50841223,within,135.1958328,28
+642,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,w,22.292994,1,0,9,10,43.77797849,-79.50850794,within,137.7232609,19
+643,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,w,12.420382,2,0,7,7,43.77798158,-79.50856212,within,136.4469048,15
+646,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,nw,21.6,2,0,10,11,43.77800016,-79.508416,within,142.6427984,20
+647,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,nw,15.5,2,0,0,7.5,43.77790589,-79.50831838,within,135.7161137,21
+648,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,nw,12,1,0,3,6,43.77792452,-79.50832186,within,137.5449608,23
+649,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,nw,14.3,2,0,2,7.5,43.77800928,-79.50838454,within,144.5028012,15
+650,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,nw,14,1,0,2,9,43.77801455,-79.5083318,within,146.5829736,13
+651,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,nw,17.8,1,0,4,10,43.77802614,-79.50830686,within,148.5092058,11
+652,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,nw,17.8,2,0,3,8.5,43.77802583,-79.50828385,within,149.1464474,10
+654,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,18.5,1,0,6,7,43.77806777,-79.50812006,within,158.2560974,8
+655,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,17.2,2,0,6,5.5,43.77807098,-79.50809203,within,159.4040483,11
+656,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,13.9,2,0,8,5,43.77805983,-79.50805943,within,159.1972379,15
+657,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,23.4,1,0,8.5,10,43.77807099,-79.50800162,within,162.0351174,16
+658,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,19,2,0,11,7.5,43.77808132,-79.50797177,within,163.9736505,13
+659,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,29,4,0,14,9,43.77809267,-79.50792875,within,166.400974,10
+660,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,20,2,0,25,9,43.77809462,-79.50789582,within,167.5609345,10
+661,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,15.5,2,0,12,8,43.77810133,-79.50786277,within,169.2175247,9
+662,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,24.3,3,0,10,9.5,43.77809954,-79.50781679,within,170.3696493,10
+663,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,18,2,0,9,8.5,43.77811604,-79.50780323,within,172.4735199,9
+664,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,24.5,2,0,11,10,43.77811789,-79.50776208,within,173.8622458,11
+665,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,19,3,0,15,10,43.77813835,-79.5076876,within,178.1485571,6
+666,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,18,2,0,11,9,43.77814617,-79.50764795,within,180.1121451,6
+667,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,15,1,0,10,9,43.77815486,-79.50758362,within,182.8838185,8
+668,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,24,1,0,9,9.5,43.77816502,-79.50754063,within,185.1869964,9
+669,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,12,2,0,4,9,43.77817526,-79.5075042,within,187.3076298,10
+670,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,21.1,2,0,10,8,43.77819166,-79.50748243,within,189.6399743,9
+671,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,14.5,2,0,3,6.5,43.77818653,-79.50745461,within,189.9178038,10
+672,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,19,1,0,6,6,43.7781945,-79.50742646,within,191.5623968,9
+674,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,17.3,2,0,9,7.5,43.77819872,-79.50738526,within,193.1981219,10
+675,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,16,3,0,4,7.5,43.77820776,-79.50734722,within,195.2412747,10
+676,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,16.5,2,0,12,9.5,43.77822274,-79.50730904,within,197.9038862,9
+677,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,15,1,0,0,5,43.77823436,-79.50726864,within,200.2829833,7
+678,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,25.5,1,0,16,12,43.77824253,-79.50723687,out,202.0536081,8
+679,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,20.5,2,0,15,9,43.77823926,-79.50720539,out,202.630612,11
+680,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,25,1,0,10,12.5,43.77825817,-79.5071944,out,204.9093973,9
+681,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,18.5,1,0,14,9,43.77825383,-79.50715374,out,205.6426035,11
+682,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,14.5,1,0,10,7,43.77826898,-79.50714679,out,207.4143257,9
+683,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,25,1,0,11,6,43.77826838,-79.50710077,out,208.6909246,10
+684,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,10.2,2,0,2,5,43.7782843,-79.50707933,out,210.963945,7
+685,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,10.2,2,0,9,6.5,43.77828766,-79.50704505,out,212.3092756,6
+686,alive,olirus,Russian Olive,Elaeagnus,angustifolia,c,n,23,1,0,11,8,43.77829378,-79.50700282,out,214.1718159,4
+1086,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,n,9.8,1,0,5,14,43.77333559,-79.50992743,out,384.5792007,6
+1094,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,n,15,2,0,10,9,43.77383195,-79.51015349,out,339.7317956,3
+1129,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,n,16.5,2,30,14,10,43.77386807,-79.50972154,out,323.4241162,2
+1130,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,n,14,1,0,12,10,43.77381714,-79.50969815,out,328.0200981,3
+1146,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,n,24.7,2,0,0,11,43.77352818,-79.50943543,out,350.3139513,3
+1414,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,51.2,1,0,16,14,43.77356967,-79.5063628,out,255.5076477,2
+1614,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,25,1,0,12,15,43.77366819,-79.51418604,out,471.5138459,5
+1615,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,34.5,1,0,9,14,43.77365798,-79.51413369,out,471.1881558,5
+1616,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,32,1,0,9,14,43.77362268,-79.51416744,out,475.7888933,6
+1626,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,35,1,0,11,14,43.77292209,-79.5138589,out,541.0074349,4
+1627,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,42.5,1,0,13,15,43.77287514,-79.51382106,out,544.9203246,5
+1631,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,30,3,0,15,13,43.77274192,-79.5138331,out,559.2075928,8
+1632,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,29.5,1,0,12,12,43.77268448,-79.51384584,out,565.5690989,6
+1633,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,24,3,0,10,11,43.7726715,-79.51380918,out,565.9521926,7
+1634,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,40.5,2,0,12,12,43.77260194,-79.51380858,out,573.2285448,6
+1635,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,43,2,0,14,12,43.77260859,-79.51376819,out,571.4542422,5
+1636,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,35,2,0,10,12,43.77253706,-79.51375875,out,578.7013674,7
+1637,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,35,2,0,8,12,43.77250526,-79.51378546,out,582.7474551,4
+1638,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,49,4,0,15,15,43.77248652,-79.51373332,out,583.3215632,4
+1642,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,43,1,0,9,14,43.77216908,-79.51347701,out,609.1800071,6
+1643,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,w,41,1,0,8,13,43.77214961,-79.51348044,out,611.2972124,4
+1672,alive,mapred,Red Maple,Acer,rubrum,p,s,17.5,1,0,9,14,43.77243112,-79.51225784,out,14.71837481,3
+1685,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,e,40,2,0,16,29,43.77296823,-79.51158527,out,471.0120561,3
+1686,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,e,25,3,0,14,26,43.77301996,-79.5116411,out,467.3098178,3
+1687,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,e,38,1,0,15,28,43.77304702,-79.5116313,out,464.2231569,4
+1689,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,e,46,1,0,12,18,43.77316601,-79.51167636,out,453.2493975,4
+1694,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,e,28,1,0,7,12,43.773323,-79.51179555,out,440.5324635,2
+131,alive,mapred,Red Maple,Acer,rubrum,p,sl,22,1,0,7,21,43.772142,-79.510354,out,520.6460747,2
+137,alive,mapnor,Red Maple,Acer,rubrum,p,sl,33.3,1,0,10,30,43.771885,-79.510506,out,551.6934831,3
+211,alive,mapred,Red Maple,Acer,rubrum,p,fy,18.152866,1,0,9,19,43.771892,-79.508016,out,477.6440002,2
+310,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,fy,18,3,0,16,9,43.771239,-79.507778,out,538.1872658,3
+312,alive,mapred,Red Maple,Acer,rubrum,p,fy,20,1,0,10,10,43.771272,-79.507641,out,530.746417,4
+313,alive,mapred,Red Maple,Acer,rubrum,p,fy,35,1,0,14,20,43.77127,-79.507604,out,529.8655874,4
+314,alive,mapred,Red Maple,Acer,rubrum,p,fy,23.5,1,0,14,20,43.771281,-79.507531,out,526.58177,4
+323,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,fy,4,1,0,2,2,43.771312,-79.507119,out,511.2634043,11
+324,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,fy,3,1,0,2,2,43.771307,-79.507066,out,510.2225013,10
+325,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,fy,4,1,0,2,2,43.771288,-79.507021,out,510.8648903,8
+326,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,fy,4,1,0,2,2,43.771337,-79.507122,out,508.7656833,10
+329,alive,mapred,Red Maple,Acer,rubrum,p,fy,4,1,0,2,4,43.771354,-79.507106,out,506.5368966,10
+353,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,sr,29.5,1,0,14,16,43.771272,-79.50624,out,489.555838,3
+354,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,sr,22.5,2,0,12,16,43.771266,-79.506315,out,492.3853293,3
+355,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,sr,21.5,4,0,12,16,43.771225,-79.506266,out,495.1817961,4
+365,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,sr,5,1,0,2.5,4,43.770997,-79.506575,out,527.8532935,5
+369,alive,mapred,Red Maple,Acer,rubrum,p,sr,6,1,0,4.5,4.5,43.770842,-79.506588,out,544.2681016,6
+420,alive,mapred,Red Maple,Acer,rubrum,p,sr,4.936306,1,0,1,3.5,43.770487,-79.506607,out,581.530281,3
+421,alive,mapred,Red Maple,Acer,rubrum,p,sr,4.458599,1,0,1,3.5,43.77041,-79.506529,out,587.1770321,4
+423,alive,mapred,Red Maple,Acer,rubrum,p,sr,5.414013,1,0,1,4,43.770322,-79.506481,out,594.8484965,3
+424,alive,mapred,Red Maple,Acer,rubrum,p,sr,5.095541,1,0,1,3.5,43.77,-79.507065,out,645.3846598,9
+425,alive,mapred,Red Maple,Acer,rubrum,p,sr,11.305732,1,0,1,8,43.769786,-79.50682,out,660.2664316,6
+453,alive,mapred,Red Maple,Acer,rubrum,p,sr,5.732484,1,0,9,5,43.76984,-79.506245,out,637.6385466,3
+454,alive,mapred,Red Maple,Acer,rubrum,p,sr,5.254777,1,0,9,4.5,43.769902,-79.506295,out,632.7298486,8
+455,alive,mapred,Red Maple,Acer,rubrum,p,sr,7.006369,1,0,6,5,43.769961,-79.506227,out,624.6132811,4
+471,alive,mapred,Red Maple,Acer,rubrum,p,by,9,1,0,7,8,43.769593,-79.506086,out,658.3922711,5
+483,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,by,4,2,0,3,3.5,43.769952,-79.506973,out,647.6441977,6
+484,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,by,6,2,0,3,3.5,43.769966,-79.506989,out,646.6672111,8
+485,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,by,5,2,0,3,3.5,43.769984,-79.507018,out,645.6579129,9
+501,alive,mapred,Red Maple,Acer,rubrum,p,by,9,1,0,3.5,9,43.770785,-79.507932,out,589.6748171,3
+502,alive,mapred,Red Maple,Acer,rubrum,p,by,11.5,1,0,10,14,43.770844,-79.508005,out,585.7180378,6
+503,alive,mapred,Red Maple,Acer,rubrum,p,by,10,1,0,7.5,10,43.770883,-79.50806,out,583.300841,7
+505,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,by,5,1,0,2,3,43.770669,-79.507712,out,595.2060548,1
+506,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,by,5,1,0,4,3,43.770796,-79.507672,out,580.8936718,3
+507,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,by,5,1,0,5,3,43.770888,-79.507727,out,572.9943454,5
+508,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,by,5,1,0,4,3,43.770927,-79.507825,out,571.8412543,7
+509,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,by,5,1,0,4,3,43.770969,-79.507864,out,568.6433999,5
+886,alive,mapred,Red Maple,Acer,rubrum,p,by,8.5,1,0,2,10,43.77039,-79.503609,out,502.7057281,6
+1208,alive,mapred,Red Maple,Acer,rubrum,p,sr,49.5,1,0,60,20,43.768955,-79.503313,out,642.8293553,2
+1229,alive,mapred,Red Maple,Acer,rubrum,p,sr,18.5,1,0,15,15,43.768372,-79.503908,out,720.5212038,1
+1245,alive,mapred,Red Maple,Acer,rubrum,p,by,43.5,1,0,12,17,43.767903,-79.504132,out,775.6287455,3
+1246,alive,mapred,Red Maple,Acer,rubrum,p,by,32.7,1,0,11,16,43.767919,-79.50419,out,775.654287,3
+1281,alive,mapred,Red Maple,Acer,rubrum,p,by,18.5,1,0,3.5,11,43.768178,-79.505261,out,780.0636425,2
+1289,alive,mapred,Red Maple,Acer,rubrum,p,sl,20.5,1,0,10,9,43.768365,-79.505322,out,762.5396547,2
+1341,alive,mapred,Red Maple,Acer,rubrum,p,sl,13.853503,1,0,0,7.5,43.771211,-79.503111,out,403.1650652,3
+1347,alive,olirus,Russian Olive,Elaeagnus,angustifolia,p,fy,20.700637,2,0,6.3,11,43.768414,-79.50779,out,830.7445936,2
+144,alive,mapred,Red Maple,Acer,rubrum,p,pl,25.8,1,0,14,13,43.769361,-79.500654,out,524.3122209,2
+147,alive,mapred,Red Maple,Acer,rubrum,p,pl,24.5,1,0,8,12,43.769247,-79.501181,out,551.2427174,2
+148,alive,mapred,Red Maple,Acer,rubrum,p,pl,34.8,1,0,9,12.5,43.769242,-79.501271,out,554.3473939,2
+433,alive,mapred,Red Maple,Acer,rubrum,p,fy,17.5,1,15,12,9,43.773895,-79.501228,within,70.34857588,3
+550,alive,mapred,Red Maple,Acer,rubrum,p,fy,17.8,1,0,9,9,43.773444,-79.500891,within,107.3045584,3
+555,alive,mapred,Red Maple,Acer,rubrum,p,fy,25,1,10,4,14,43.773361,-79.501201,within,124.9053506,4
+561,alive,mapred,Red Maple,Acer,rubrum,p,fy,24.3,1,0,7,17,43.773337,-79.50154,within,137.233512,5
+569,alive,mapred,Red Maple,Acer,rubrum,p,fy,25.5,1,0,4,17,43.773241,-79.501971,within,159.6939066,3
+573,alive,mapred,Red Maple,Acer,rubrum,p,fy,28,1,0,9,14,43.773577,-79.502059,within,127.4345695,5
+576,alive,mapred,Red Maple,Acer,rubrum,p,fy,27,1,0,11,16,43.7736,-79.501955,within,122.0247049,4
+577,alive,mapred,Red Maple,Acer,rubrum,p,fy,28,1,0,12,17,43.773568,-79.501817,within,121.3350361,4
+581,alive,mapred,Red Maple,Acer,rubrum,p,fy,22.5,1,0,9,15,43.773674,-79.50163,within,104.9214032,4
+585,alive,mapred,Red Maple,Acer,rubrum,p,fy,25.3,1,25,9,16,43.773724,-79.501424,within,93.75971633,3
+587,alive,mapred,Red Maple,Acer,rubrum,p,fy,26.8,1,0,9,17,43.773762,-79.501299,within,86.19297714,2
+774,alive,mapred,Red Maple,Acer,rubrum,p,fy,11.3,1,0,5,8.5,43.771238,-79.496329,out,203.7706562,1
+775,alive,mapred,Red Maple,Acer,rubrum,p,fy,9.5,1,0,2,6,43.771296,-79.496077,within,190.0890887,1
+777,alive,mapred,Red Maple,Acer,rubrum,p,fy,11.7,1,0,4,7,43.771353,-79.495815,within,174.1767353,1
+786,alive,mapred,Red Maple,Acer,rubrum,p,fy,10.3,1,0,1,6,43.771568,-79.494531,within,91.20229567,1
+787,alive,mapred,Red Maple,Acer,rubrum,p,fy,10.5,1,0,2,6,43.771639,-79.494322,within,73.23324325,2
+788,alive,mapred,Red Maple,Acer,rubrum,p,fy,10.5,1,0,1.5,6,43.771665,-79.494213,within,64.64792075,3
+808,alive,mapred,Red Maple,Acer,rubrum,c,sr,45,8,0,25,20,43.771125,-79.494096,within,85.23474518,1
+870,alive,mapred,Red Maple,Acer,rubrum,p,by,10.5,1,0,2,5,43.770864,-79.497837,out,286.0975112,1
+871,alive,mapred,Red Maple,Acer,rubrum,p,by,14,1,0,4,10,43.77083,-79.498016,out,294.8311682,1
+883,alive,mapred,Red Maple,Acer,rubrum,p,fy,15.8,1,0,12,8,43.770641,-79.49901,out,344.3361706,2
+884,alive,mapred,Red Maple,Acer,rubrum,p,fy,10,1,0,2,5,43.770595,-79.499198,out,354.4930904,1
+885,alive,mapred,Red Maple,Acer,rubrum,p,fy,9,1,0,3,7,43.770559,-79.499384,out,363.5542163,2
+886,alive,mapred,Red Maple,Acer,rubrum,p,fy,10,1,0,4,9,43.770538,-79.499459,out,502.7057281,6
+887,alive,mapred,Red Maple,Acer,rubrum,p,fy,11,1,0,8,8,43.770514,-79.499577,out,373.7503073,1
+888,alive,mapred,Red Maple,Acer,rubrum,p,fy,11,1,0,4,9,43.770486,-79.499704,out,380.2922878,1
+1218,alive,mapred,Red Maple,Acer,rubrum,p,sl,13,1,0,6,7.5,43.772052,-79.497393,within,150.1907318,13
+1219,alive,mapred,Red Maple,Acer,rubrum,p,sl,14.5,1,0,6,7.5,43.772041,-79.497394,within,151.3503626,14
+1220,alive,mapred,Red Maple,Acer,rubrum,p,sr,14.8,1,0,6,7.5,43.772026,-79.497393,within,152.8587033,14
+1221,alive,mapred,Red Maple,Acer,rubrum,p,sr,15.2,1,0,6,7.5,43.772014,-79.497397,within,154.2135694,15
+1227,alive,mapred,Red Maple,Acer,rubrum,p,sr,14.5,1,0,10,10,43.771967,-79.497371,within,158.2476704,17
+1228,alive,mapred,Red Maple,Acer,rubrum,p,sr,12.8,1,0,10,10,43.771956,-79.497375,within,159.5021599,16
+1229,alive,mapred,Red Maple,Acer,rubrum,p,sr,23.8,1,0,12,12.5,43.771947,-79.497379,within,720.5212038,1
+1259,alive,mapred,Red Maple,Acer,rubrum,p,by,20.6,1,0,12,12,43.771022,-79.498089,out,277.3716338,1
+1260,alive,mapred,Red Maple,Acer,rubrum,p,by,21.8,1,0,12,12,43.771045,-79.497969,out,271.306669,2
+1261,alive,mapred,Red Maple,Acer,rubrum,p,by,22.5,1,0,12,12,43.771072,-79.497865,out,265.3482924,3
+1262,alive,mapred,Red Maple,Acer,rubrum,p,by,23,1,0,11,11,43.771098,-79.497748,out,259.254363,1
+1263,alive,mapred,Red Maple,Acer,rubrum,p,by,18.5,1,0,10,11,43.771123,-79.497619,out,252.9483995,1
+1264,alive,mapred,Red Maple,Acer,rubrum,p,by,18.4,1,0,10,11,43.771145,-79.497496,out,247.1263738,2
+1265,alive,mapred,Red Maple,Acer,rubrum,p,by,16.5,1,0,10,10,43.771176,-79.497373,out,240.3704015,1
+1266,alive,mapred,Red Maple,Acer,rubrum,p,by,19.3,1,0,10,10,43.771204,-79.497242,out,233.6955454,1
+1816,alive,peapea,Flowering Pear,Pyrus,spp,p,sl,8,1,0,7,2,43.775992,-79.500181,within,177.3650317,3
+1527,alive,peapea,Flowering Pear,Pyrus,spp,p,s,9,2,5,4,25,43.7744553,-79.50481186,within,118.3073793,8
+375,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,13.4,1,80,5,6,43.77385,-79.502165,within,102.3526952,10
+376,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,13.5,1,80,6,5,43.773883,-79.50218,within,99.38544869,10
+377,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,17.5,1,80,7,8,43.773894,-79.502129,within,96.74128901,10
+379,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,16.1,1,80,7,8,43.773905,-79.50207,within,93.86068737,9
+380,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,13.7,1,80,6.5,8,43.773873,-79.502059,within,96.84280039,10
+381,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,15.4,1,80,6,8,43.773915,-79.502017,within,91.26076419,10
+382,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,16.8,1,80,6,8,43.773887,-79.502006,within,93.82947373,9
+383,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,4.6,1,80,9,3,43.773924,-79.50196,within,88.64596908,10
+384,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,17.4,1,80,1,8,43.773896,-79.501952,within,91.30334274,10
+385,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,14.2,1,80,6,7.5,43.773937,-79.501906,within,85.70643503,10
+386,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,14.7,1,80,9,7.5,43.773911,-79.5019,within,88.21621697,10
+388,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,15.6,1,80,6,8,43.77395,-79.501855,within,82.85556463,8
+389,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,18.4,1,80,9,7.5,43.773929,-79.501788,within,83.08121799,10
+390,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,16.7,1,80,5,9,43.77396,-79.501803,within,80.3039844,9
+391,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,17.6,1,80,5,8,43.773971,-79.501739,within,77.30617217,10
+392,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,18,1,80,6,8,43.77394,-79.501731,within,80.28660508,8
+393,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,19.3,1,80,7,8,43.773978,-79.501685,within,75.01318138,7
+394,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,18.8,1,80,9,8,43.773953,-79.501675,within,77.31375011,8
+395,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,18.1,1,80,8,8,43.773996,-79.501633,within,71.63826939,9
+396,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,18.4,1,80,9,8,43.773968,-79.501622,within,74.22071098,10
+397,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,18.1,1,80,6,8,43.774009,-79.501569,within,68.43318093,9
+398,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,23.6,1,80,10,8,43.773971,-79.50156,within,72.11002074,9
+399,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,17.4,1,80,5,8,43.774016,-79.501523,within,66.37241441,10
+400,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,19.5,1,80,8,7,43.773986,-79.501512,within,69.16212188,9
+511,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,17.5,1,40,4,9,43.773073,-79.501688,within,168.8892609,10
+545,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,8.8,1,0,3,5.5,43.773259,-79.500835,within,124.8821367,3
+657,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,19.5,1,85,8,14,43.772948,-79.50151,within,162.0351174,16
+658,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,21.8,1,85,8,15,43.77296,-79.501452,within,163.9736505,13
+659,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,23.5,1,57,8,15,43.772972,-79.501392,within,166.400974,10
+660,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,27,1,57,14,16,43.772984,-79.501353,within,167.5609345,10
+661,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,24.2,1,70,12,16,43.772997,-79.501302,within,169.2175247,9
+662,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,27,1,70,13,14,43.773008,-79.501253,within,170.3696493,10
+663,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,25.5,1,80,12,14,43.773018,-79.501211,within,172.4735199,9
+664,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,11.2,1,50,4.5,9,43.773029,-79.501148,within,173.8622458,11
+665,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,25.5,1,75,10,13,43.773047,-79.501062,within,178.1485571,6
+667,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,18,1,65,8,11,43.773064,-79.500961,within,182.8838185,8
+668,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,25.2,1,70,12,12,43.773077,-79.500912,within,185.1869964,9
+670,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,6,1,5,3,4,43.77309,-79.500852,within,189.6399743,9
+1054,alive,peapea,Flowering Pear,Pyrus,spp,p,by,7.8,1,0,3,7,43.772468,-79.499385,within,165.3254656,3
+1059,alive,peapea,Flowering Pear,Pyrus,spp,p,by,6.8,1,0,3,5,43.772354,-79.499907,within,192.1545024,2
+1093,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,19.2,1,0,2,10,43.773243,-79.5001,within,105.4271184,5
+1094,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,12.2,1,0,4,10,43.773287,-79.500052,within,339.7317956,3
+1095,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,16.3,1,0,2,10,43.773295,-79.500003,within,97.2431338,5
+1096,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,18.2,1,0,2,10,43.773309,-79.499952,within,94.32483535,5
+1097,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,16.3,1,0,4,11,43.773319,-79.499895,within,91.64933191,5
+1098,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,22,1,0,4,11,43.773329,-79.49984,within,89.03128485,5
+1099,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,20.6,1,0,4,11,43.773341,-79.499778,within,86.00454323,4
+349,alive,ginkgo,Ginkgo,Ginkgo,biloba,P,fy,10.828025,1,0,0,7.5,43.775946,-79.50124,within,141.608032,3
+1140,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,sr,15.5,1,0,6,11,43.774953,-79.501259,within,38.39635023,5
+1141,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,sr,12,1,0,4,10,43.77497,-79.501273,within,39.75172832,7
+1150,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,14,1,0,5,9,43.77505,-79.50147,within,42.20857816,6
+1151,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,13.5,1,0,4,8,43.775079,-79.501504,within,44.20086786,5
+1152,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,15,1,0,6,10,43.77509,-79.501548,within,44.0373043,5
+1153,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,13,1,0,6,10,43.775066,-79.501627,within,39.22205968,5
+1154,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,11.5,1,0,5,9,43.775037,-79.501646,within,35.66335625,5
+1155,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,14.5,1,0,5,10,43.774992,-79.501656,within,30.71703997,5
+1156,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,12.5,1,0,6,11,43.774978,-79.501695,within,28.1174951,5
+1157,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,12,1,0,7,11,43.774967,-79.501736,within,25.76889277,5
+1158,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,14,1,0,7,12,43.774955,-79.501774,within,23.40560538,5
+1159,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,8,1,0,3,6,43.774941,-79.501831,within,20.27407782,4
+1160,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,14,1,0,6,12,43.774931,-79.501875,within,17.94016544,3
+1161,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,13.5,1,0,7,11,43.774895,-79.502034,within,9.520359027,3
+1162,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,14,1,0,5,10,43.774885,-79.502093,within,6.74313475,4
+1163,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,14,1,0,7,12,43.774872,-79.502135,within,4.158287373,4
+1164,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,14.5,1,0,5,11,43.774858,-79.5022,within,0.790338033,4
+1165,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,12.5,1,0,5,12,43.774845,-79.502279,within,2.88801905,3
+2018,alive,ginkgo,Ginkgo,Ginkgo,biloba,c,st,4,1,0,1,4,43.7781232,-79.50829391,within,158.9413967,1
+2020,alive,ginkgo,Ginkgo,Ginkgo,biloba,c,st,5,1,0,0.5,3,43.77806813,-79.5085468,within,145.8468356,2
+2033,alive,ginkgo,Ginkgo,Ginkgo,biloba,c,st,4,1,0,0.5,4,43.77763953,-79.5105525,within,42.63972198,3
+2173,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,w,4.5,1,0,2.5,7,43.7760433,-79.50436675,within,59.03347524,6
+2174,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,w,5.2,1,0,2.5,6.5,43.77594551,-79.50432184,within,50.23880283,5
+2175,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,w,4,1,0,2.5,5,43.77586326,-79.50428555,within,42.79810862,5
+2176,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,w,3.7,1,0,2.5,5,43.77575429,-79.50423315,within,33.06723446,8
+2177,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,w,4.3,1,0,3,5,43.77567157,-79.50419881,within,25.52060909,7
+585,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,5,1,0,2,5,43.773602,-79.50452,within,93.75971633,3
+586,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,4.5,1,0,2,4,43.773612,-79.504476,within,195.5550092,4
+587,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,5,1,0,2,4,43.773621,-79.504428,within,86.19297714,2
+588,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,6,1,0,2,5,43.773629,-79.504391,within,191.2820446,3
+544,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,15,1,0,7,12,43.773237,-79.500958,within,130.701763,4
+685,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sr,19.5,1,10,5,7,43.778135,-79.496587,out,212.3092756,6
+686,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sr,18,1,10,5,6,43.778175,-79.496606,out,214.1718159,4
+687,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sr,20,1,20,6,7,43.778215,-79.496623,out,510.5219245,7
+688,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sr,16,1,0,5,7,43.778261,-79.496641,out,514.779204,4
+898,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sr,14,5,0,5,6,43.779014,-79.501095,out,462.7395581,4
+946,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sl,13,2,0,6,8,43.778265,-79.503587,out,311.7582702,2
+1755,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sr,10,4,0,4,5,43.775997,-79.498189,out,235.3202774,6
+1759,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sr,7,6,0,4,6,43.776062,-79.497878,out,251.0017285,3
+1761,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,by,7,5,0,4,7,43.775915,-79.498585,out,215.4324277,1
+1763,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,by,9,6,0,4,7,43.775852,-79.498833,out,201.768649,1
+266,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,fy,9.235669,1,0,3.5,3.5,43.771458,-79.508471,out,535.9414173,2
+378,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sr,13,4,0,6,5,43.771066,-79.506161,out,508.5017602,5
+379,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sr,14,4,0,6,5,43.771087,-79.506131,out,93.86068737,9
+380,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sr,12,4,0,6,5,43.771112,-79.506165,out,96.84280039,10
+736,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,fy,5,1,0,2,4.5,43.771389,-79.50465,out,430.2166045,4
+849,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sr,5,10,0,8,9,43.771462,-79.503499,out,388.5810272,2
+922,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sl,3,1,0,1.5,2,43.770509,-79.505177,out,536.7528375,4
+923,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sl,3,1,0,1.5,2,43.770525,-79.50515,out,534.2965761,4
+924,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sl,3,1,0,1.5,1.8,43.770503,-79.505143,out,536.3585659,4
+1363,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p, ,6.687898,7,0,4.2,5.5,43.768361,-79.509075,out,874.0078965,1
+46,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sl,4,3,0,2.5,5,43.771413,-79.501911,out,347.3975662,8
+47,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sl,3,4,0,2.5,5,43.771387,-79.501896,out,349.665185,6
+48,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sl,4,4,0,3,5,43.771368,-79.501894,out,351.579816,6
+49,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sl,4,4,0,2.5,5,43.771357,-79.50192,out,353.4684912,8
+50,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sl,4,3,0,2.5,5,43.771382,-79.501948,out,351.6825016,10
+54,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sl,4,1,0,2.5,4,43.771695,-79.502103,out,323.7445321,4
+55,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sl,4,1,0,2,3,43.771656,-79.502062,out,326.5960646,4
+646,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,fy,5,1,0,2.5,4.5,43.772704,-79.502571,out,142.6427984,20
+648,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,fy,4,1,0,2.5,4,43.77272,-79.502513,out,137.5449608,23
+649,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,fy,6,1,0,4.5,5,43.772734,-79.502466,out,144.5028012,15
+1257,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,sr,4,5,0,10,5,43.771102,-79.498305,out,275.8311156,3
+1270,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,by,4,3,0,2.5,5,43.771558,-79.497363,out,200.4422965,16
+1272,alive,sersmo,Smooth Serviceberry,Amelanchier,laevis,p,by,4,2,0,2.5,5,43.771553,-79.497349,out,200.5583289,16
+376,alive,pinaus,Austrian Pine,Pinus,nigra,p,n,28.8,1,0,11,12,43.774643,-79.51047093,out,99.38544869,10
+996,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,33,1,0,14,13,43.778004,-79.502077,out,329.261377,8
+2,alive,pinaus,Austrian Pine,Pinus,nigra,p,sl,37.5,1,25,14,14,43.771225,-79.502744,out,391.0605528,5
+575,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,41,1,0,8,11,43.77703,-79.498412,out,336.1312797,6
+1411,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,34,1,0,10,15,43.772022,-79.502655,out,305.8801182,4
+11,alive,pinaus,Austrian Pine,Pinus,nigra,p,sl,33.757962,1,0,14,11,43.770711,-79.502525,out,437.9713427,3
+1846,alive,pinaus,Austrian Pine,Pinus,nigra,p,e,30.5,1,10,9,16,43.77858505,-79.50442344,out,320.2636255,10
+1333,alive,pinaus,Austrian Pine,Pinus,nigra,p,sl,34.5,1,0,1,13,43.771229,-79.50308,out,400.3997445,4
+1910,alive,pinaus,Austrian Pine,Pinus,nigra,p,n,20.063694,1,3,7,13,43.77839561,-79.50650918,out,239.0839539,15
+436,alive,pinaus,Austrian Pine,Pinus,nigra,p,w,40.5,1,0,14,13,43.77446282,-79.50840568,out,223.4266154,5
+1535,alive,pinaus,Austrian Pine,Pinus,nigra,p,n,19.426752,1,0,12,15,43.77836387,-79.50671997,out,229.6615297,9
+1118,alive,pinaus,Austrian Pine,Pinus,nigra,P,fy,32.165605,1,0,11,20,43.777369,-79.500568,out,308.5359356,2
+1066,alive,pinaus,Austrian Pine,Pinus,nigra,p,sr,41.082803,1,0,10,12,43.776947,-79.499263,out,302.9837933,3
+619,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,38,1,30,8,10,43.778854,-79.499541,out,492.3629414,3
+939,alive,pinaus,Austrian Pine,Pinus,nigra,p,sl,40.5,1,0,8,11,43.778495,-79.503679,out,332.8437482,6
+992,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,47,1,0,12,11,43.778051,-79.502167,out,331.4530212,7
+576,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,37,1,0,10,10,43.777046,-79.497843,out,122.0247049,4
+1205,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,30,1,0,10,11,43.768438,-79.503558,out,703.5209315,2
+257,alive,pinaus,Austrian Pine,Pinus,nigra,p,fy,43.312102,1,0,14,10,43.771307,-79.508576,out,554.6502549,4
+943,alive,pinaus,Austrian Pine,Pinus,nigra,p,sl,34,1,0,10,10,43.778417,-79.503612,out,326.7454481,4
+1426,alive,pinaus,Austrian Pine,Pinus,nigra,p,cy,41.8,1,0,10,13,43.772773,-79.501721,out,200.937499,1
+1048,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,40,1,0,11,15,43.776822,-79.499712,out,276.9954695,3
+993,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,46,1,0,12,13,43.777906,-79.502021,out,320.793732,3
+1911,alive,pinaus,Austrian Pine,Pinus,nigra,p,n,27.707006,2,10,8,15,43.77842972,-79.50649603,out,242.9990108,13
+240,alive,pinaus,Austrian Pine,Pinus,nigra,p,n,29.7,1,0,9,14,43.77489752,-79.50920245,out,194.7683428,6
+1875,alive,pinaus,Austrian Pine,Pinus,nigra,p,n,43.2,1,0,12,25,43.77874568,-79.50527469,out,311.7256369,5
+1871,alive,pinaus,Austrian Pine,Pinus,nigra,p,n,30,1,0,5,19,43.77864782,-79.50554148,out,293.7314761,3
+434,alive,pinaus,Austrian Pine,Pinus,nigra,p,w,31,1,0,14,13.5,43.77452348,-79.50831793,out,214.5651353,5
+1979,alive,pinaus,Austrian Pine,Pinus,nigra,p,s,37,1,0,8,24,43.77763851,-79.50433724,out,224.9020579,4
+165,alive,pinaus,Austrian Pine,Pinus,nigra,p,fy,52,1,0,15,19,43.771621,-79.509305,out,543.7245548,4
+286,alive,pinaus,Austrian Pine,Pinus,nigra,p,fy,29,1,0,7,10,43.777478,-79.502186,out,271.6870619,4
+586,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,36.5,1,0,6,11,43.777105,-79.497931,out,195.5550092,4
+298,alive,pinaus,Austrian Pine,Pinus,nigra,p,fy,48,1,30,10,13,43.777374,-79.50269,out,246.0203024,7
+846,alive,pinaus,Austrian Pine,Pinus,nigra,p,sr,48,1,0,14,14,43.771536,-79.503333,out,376.0269095,3
+828,alive,pinaus,Austrian Pine,Pinus,nigra,p,sr,26.8,1,0,10,30,43.771525,-79.503732,out,388.9561677,4
+830,alive,pinaus,Austrian Pine,Pinus,nigra,p,sl,31,1,20,5,9,43.778748,-79.503869,out,353.4273399,4
+1056,alive,pinaus,Austrian Pine,Pinus,nigra,p,n,25.7,1,5,14,18,43.77296743,-79.51044507,out,437.7795273,5
+291,alive,pinaus,Austrian Pine,Pinus,nigra,p,fy,40,1,0,10,11,43.777434,-79.502465,out,258.8808446,8
+323,alive,pinaus,Austrian Pine,Pinus,nigra,p,sr,36.2,1,0,20,20,43.771359,-79.501446,out,511.2634043,11
+835,alive,pinaus,Austrian Pine,Pinus,nigra,p,sl,41,1,0,7,14,43.778863,-79.503898,out,364.4698641,7
+554,alive,pinaus,Austrian Pine,Pinus,nigra,p,sl,30,1,10,7,11,43.777416,-79.499079,out,356.9291383,3
+1818,alive,pinaus,Austrian Pine,Pinus,nigra,p,e,41,1,40,11,18,43.77775501,-79.50405485,out,245.2537805,4
+977,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,38,1,0,10,12,43.777987,-79.502663,out,310.1672523,11
+818,alive,pinaus,Austrian Pine,Pinus,nigra,p,fy,29,1,0,7,10,43.779703,-79.50131,out,527.512576,5
+971,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,31,1,0,3,11,43.777899,-79.502815,out,296.5964345,10
+935,alive,pinaus,Austrian Pine,Pinus,nigra,p,sl,49,1,40,14,13,43.77859,-79.503801,out,339.0836029,5
+1493,alive,pinaus,Austrian Pine,Pinus,nigra,p,st,37.898089,1,0,8,10,43.780833,-79.494992,out,829.106423,9
+1117,alive,pinaus,Austrian Pine,Pinus,nigra,P,fy,38.535032,1,0,10,18,43.77736,-79.500582,out,307.192021,2
+1409,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,35.5,1,0,10,15,43.77194,-79.502675,out,314.9587393,5
+1225,alive,pinaus,Austrian Pine,Pinus,nigra,p,sr,34.872611,1,0,4,16,43.775346,-79.499778,within,122.1007113,12
+143,alive,pinaus,Austrian Pine,Pinus,nigra,p,fy,36,1,20,8,21,43.775996,-79.50385,within,69.33253027,3
+572,alive,pinaus,Austrian Pine,Pinus,nigra,c,w,19.745223,1,0,12,16,43.77772636,-79.50848232,within,112.3476903,18
+1677,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,35.5,1,30,9,14,43.774738,-79.503178,within,40.68184035,8
+763,alive,pinaus,Austrian Pine,Pinus,nigra,c,e,24.840764,1,0,6,14,43.77693404,-79.50620403,within,97.02548668,14
+426,alive,pinaus,Austrian Pine,Pinus,nigra,p,w,42,1,0,16,14.5,43.77459018,-79.50787014,within,194.4462337,3
+533,alive,pinaus,Austrian Pine,Pinus,nigra,c,w,22.6,1,15,5,14,43.77683948,-79.50815587,within,29.96286157,15
+795,alive,pinaus,Austrian Pine,Pinus,nigra,c,n,32.802548,1,0,8,18,43.77809543,-79.5073926,within,182.2837326,9
+433,alive,pinaus,Austrian Pine,Pinus,nigra,p,sr,31,1,30,8,14,43.775784,-79.501909,within,70.34857588,3
+1957,alive,pinaus,Austrian Pine,Pinus,nigra,p,s,42,1,0,11,28,43.77744394,-79.50512636,within,181.5572816,7
+537,alive,pinaus,Austrian Pine,Pinus,nigra,c,w,29.617834,1,0,6,13,43.77692247,-79.50821791,within,36.75589616,19
+478,alive,pinaus,Austrian Pine,Pinus,nigra,p,s,35.5,1,0,15,15,43.77547058,-79.5082813,within,115.5048101,4
+1682,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,34.076433,1,0,7,13,43.774701,-79.503428,within,51.95306274,12
+1546,alive,pinaus,Austrian Pine,Pinus,nigra,p,n,35.5,1,35,12,35,43.77440898,-79.50462878,within,117.7162395,8
+714,alive,pinaus,Austrian Pine,Pinus,nigra,c,e,19.5,1,0,7,14.5,43.77733747,-79.50603091,within,143.8374468,22
+442,alive,pinaus,Austrian Pine,Pinus,nigra,p,sr,39,1,30,11,16,43.775431,-79.50181,within,71.53645978,9
+476,alive,pinaus,Austrian Pine,Pinus,nigra,p,s,34.5,1,0,9,15.5,43.77548497,-79.50838648,within,117.0737954,4
+486,alive,pinaus,Austrian Pine,Pinus,nigra,c,w,37.5,1,35,14,15,43.77620829,-79.50792606,within,28.74336442,5
+1232,alive,pinaus,Austrian Pine,Pinus,nigra,p,sr,36.942675,1,0,10,13,43.775417,-79.499758,within,130.044595,12
+1192,alive,pinaus,Austrian Pine,Pinus,nigra,p,sr,32,1,0,2,12,43.774745,-79.499572,within,65.63917061,11
+459,alive,pinaus,Austrian Pine,Pinus,nigra,p,by,34,1,0,10,14,43.775164,-79.501779,within,44.85807698,13
+440,alive,pinaus,Austrian Pine,Pinus,nigra,p,sr,36,1,20,10,16,43.77547,-79.501828,within,75.03514775,8
+340,alive,pinaus,Austrian Pine,Pinus,nigra,p,sl,29.5,1,40,7,9,43.775939,-79.502026,within,117.6152667,10
+798,alive,pinaus,Austrian Pine,Pinus,nigra,c,n,22.929936,1,0,4,14,43.7781035,-79.50746553,within,180.9982078,10
+376,alive,pinaus,Austrian Pine,Pinus,nigra,p,sr,45.5,1,0,9,14,43.776368,-79.500949,within,99.38544869,10
+58,alive,pinaus,Austrian Pine,Pinus,nigra,p,fy,37,1,10,9,13,43.776367,-79.503379,within,121.5765789,4
+71,alive,pinaus,Austrian Pine,Pinus,nigra,p,fy,45,1,10,11,13,43.776421,-79.504271,within,100.9158392,3
+1499,alive,pinaus,Austrian Pine,Pinus,nigra,p,s,45,1,0,14,34,43.7750789,-79.50443032,within,42.58839276,4
+1523,alive,pinaus,Austrian Pine,Pinus,nigra,p,s,33.8,1,0,9,20,43.77455462,-79.50424514,within,91.32590905,12
+1958,alive,pinaus,Austrian Pine,Pinus,nigra,p,s,45.5,1,0,16,29,43.77739605,-79.50510783,within,177.1545988,13
+636,alive,pinaus,Austrian Pine,Pinus,nigra,c,w,28.7,1,0,0,13.5,43.77789727,-79.50843533,within,131.4210177,26
+2128,alive,pinaus,Austrian Pine,Pinus,nigra,p,n,30.6,1,35,12,21,43.77457025,-79.50394038,within,80.68843119,4
+562,alive,pinaus,Austrian Pine,Pinus,nigra,c,w,29.299363,1,0,10,15,43.77748952,-79.50840601,within,90.03075454,6
+1226,alive,pinaus,Austrian Pine,Pinus,nigra,p,sr,37.101911,1,0,8,16,43.775382,-79.499736,within,127.0438616,11
+641,alive,pinaus,Austrian Pine,Pinus,nigra,c,w,16.1,1,0,7,9.5,43.77796795,-79.50852136,within,136.2395106,20
+70,alive,pinaus,Austrian Pine,Pinus,nigra,p,fy,47,1,10,10,13,43.776545,-79.504037,within,120.6209313,3
+872,alive,pinaus,Austrian Pine,Pinus,nigra,p,n,21.33758,1,0,10,12,43.77789611,-79.50816171,within,139.2604265,18
+488,alive,pinaus,Austrian Pine,Pinus,nigra,c,w,28.5,1,0,11,14.5,43.77622806,-79.50790099,within,25.96587072,6
+1941,alive,pinaus,Austrian Pine,Pinus,nigra,p,s,42.6,1,0,15,28,43.77723263,-79.50543595,within,150.5725464,6
+61,alive,pinaus,Austrian Pine,Pinus,nigra,p,fy,54,1,0,11,15,43.776346,-79.503665,within,110.973506,3
+1983,alive,pinaus,Austrian Pine,Pinus,nigra,p,e,39.5,1,20,16,24,43.77464989,-79.50392069,within,71.87686472,4
+504,alive,pinaus,Austrian Pine,Pinus,nigra,c,w,31,1,0,6,13.5,43.7765151,-79.50797194,within,1.707590433,9
+1184,alive,pinaus,Austrian Pine,Pinus,nigra,p,sr,28.5,1,20,6,11,43.774646,-79.499494,within,57.60452373,10
+549,alive,pinaus,Austrian Pine,Pinus,nigra,c,w,14.33121,1,1,10,14,43.77714474,-79.50838782,within,54.84046574,14
+427,alive,pinaus,Austrian Pine,Pinus,nigra,p,w,41.5,1,0,14,15,43.77460573,-79.5079589,within,195.4603223,3
+514,alive,pinaus,Austrian Pine,Pinus,nigra,c,w,31,1,0,10,14,43.77652058,-79.5080427,within,0.216852047,8
+892,alive,pinaus,Austrian Pine,Pinus,nigra,C,n,22.5,1,0,9,32,43.777456,-79.5085322,within,82.88719476,7
+63,alive,pinaus,Austrian Pine,Pinus,nigra,p,fy,47.5,1,0,12,16,43.776327,-79.503746,within,106.6269668,3
+1324,alive,appcra,Crab Apple,Malus,spp,p,e,7.5,1,5,4,5,43.77284754,-79.50784142,out,373.7211537,5
+1353,alive,appcra,Crab Apple,Malus,spp,p,e,16.2,1,0,10,10,43.77362617,-79.50778903,out,291.6929679,7
+1317,alive,appcra,Crab Apple,Malus,spp,p,s,9,7,15,4,3,43.77265299,-79.50775269,out,391.209688,8
+1753,alive,appcra,Crab Apple,Malus,spp,p,sr,15,4,0,6,7,43.775996,-79.498283,out,232.5159052,4
+407,alive,appcra,Crab Apple,Malus,spp,p,n,4,4,0,2,3,43.77437394,-79.51044106,out,291.9462003,19
+553,alive,appcra,Crab Apple,Malus,spp,p,sl,9,1,10,5,4,43.773284,-79.50593,out,272.3329398,3
+1310,alive,appcra,Crab Apple,Malus,spp,p,s,13,1,15,7,6.5,43.77243933,-79.50759765,out,408.7271372,3
+255,alive,appcra,Crab Apple,Malus,spp,p,by,8,1,0,2.5,5,43.770518,-79.50235,out,452.9050694,5
+332,alive,appcra,Crab Apple,Malus,spp,p,fy,25,4,0,9,12,43.771696,-79.507147,out,472.366891,8
+1316,alive,appcra,Crab Apple,Malus,spp,p,s,8,1,5,4,3,43.77263775,-79.50775307,out,392.7961501,9
+1304,alive,appcra,Crab Apple,Malus,spp,p,s,13,1,30,6,9,43.77255194,-79.50719537,out,385.2533047,4
+1346,alive,appcra,Crab Apple,Malus,spp,p,s,16.3,1,5,7,10,43.77316359,-79.50733963,out,326.2335398,6
+260,alive,appcra,Crab Apple,Malus,spp,p,by,6.5,1,0,2.5,6,43.770423,-79.502393,out,157.2568837,3
+408,alive,appcra,Crab Apple,Malus,spp,p,n,4,4,0,2,3,43.77435792,-79.51045461,out,294.0000819,19
+259,alive,appcra,Crab Apple,Malus,spp,p,by,6.4,1,0,3,5,43.770448,-79.502403,out,163.7185442,4
+1748,alive,appcra,Crab Apple,Malus,spp,p,sr,10,1,0,8,9,43.776438,-79.497941,out,288.217654,4
+409,alive,appcra,Crab Apple,Malus,spp,p,n,4,4,0,2,3,43.7743604,-79.51042562,out,292.899821,17
+1325,alive,appcra,Crab Apple,Malus,spp,p,e,8,1,5,4,5,43.77286099,-79.50784838,out,372.53649,4
+333,alive,appcra,Crab Apple,Malus,spp,p,fy,30.5,1,0,9,13,43.77168,-79.507143,out,473.904286,10
+16,alive,appcra,Crab Apple,Malus,spp,p,sl,20.59448,3,0,17,10,43.770606,-79.502352,out,443.8309683,5
+1307,alive,appcra,Crab Apple,Malus,spp,p,s,12.5,1,5,7,9,43.77254472,-79.50735959,out,390.827705,4
+1676,alive,appcra,Crab Apple,Malus,spp,p,s,8,1,0,2,2,43.77258274,-79.51205333,out,524.6679484,3
+1271,alive,appcra,Crab Apple,Malus,spp,p,e,9.5,1,35,5,17,43.77323191,-79.50642614,out,292.3063133,3
+1314,alive,appcra,Crab Apple,Malus,spp,p,s,8,1,15,4,2,43.77261468,-79.50773786,out,394.7314969,8
+403,alive,appcra,Crab Apple,Malus,spp,p,n,4,4,0,2,3,43.77440016,-79.51047855,out,290.3352517,19
+1284,alive,appcra,Crab Apple,Malus,spp,p,by,15.5,1,0,5,6,43.768262,-79.505116,out,767.0965977,4
+670,alive,appcra,Crab Apple,Malus,spp,p,sr,10.8,3,30,9,6,43.771705,-79.503814,out,189.6399743,9
+404,alive,appcra,Crab Apple,Malus,spp,p,n,4,4,0,2,3,43.77439024,-79.51044855,out,290.4769197,19
+1347,alive,appcra,Crab Apple,Malus,spp,p,s,16.5,1,5,8,10,43.77316185,-79.50738899,out,830.7445936,2
+311,alive,appcra,Crab Apple,Malus,spp,p,s,8,1,0,4,6,43.77407756,-79.5094523,out,293.8883354,5
+405,alive,appcra,Crab Apple,Malus,spp,p,n,4,4,0,2,3,43.77438596,-79.51048548,out,292.0077005,19
+1323,alive,appcra,Crab Apple,Malus,spp,p,e,7.5,1,5,4,5,43.7727986,-79.50781377,out,377.9630783,6
+1275,alive,appcra,Crab Apple,Malus,spp,p,e,7,1,0,9,7,43.7731685,-79.50649479,out,300.8833462,9
+1308,alive,appcra,Crab Apple,Malus,spp,p,s,12,1,0,8,9.5,43.7725264,-79.50739562,out,393.7818393,3
+960,alive,appcra,Crab Apple,Malus,spp,p,fy,17.038217,1,0,0,10,43.770148,-79.505504,out,583.7602147,13
+14,alive,appcra,Crab Apple,Malus,spp,p,sl,22.850318,2,0,12,10,43.770615,-79.502417,out,444.7850616,5
+127,alive,appcra,Crab Apple,Malus,spp,p,fy,14.649682,2,0,15,17,43.769641,-79.499778,out,470.1665695,4
+1677,alive,appcra,Crab Apple,Malus,spp,p,s,9,1,0,3,3.5,43.77253836,-79.51195252,out,40.68184035,8
+335,alive,appcra,Crab Apple,Malus,spp,p,fy,38,1,0,10,9,43.771701,-79.507114,out,470.8795865,8
+1402,alive,appcra,Crab Apple,Malus,spp,p,s,8.3,1,10,4,5.5,43.773258,-79.506092,out,279.7847315,9
+1312,alive,appcra,Crab Apple,Malus,spp,p,s,12,1,20,7,6.5,43.77245711,-79.50766085,out,408.7459082,3
+1276,alive,appcra,Crab Apple,Malus,spp,p,e,8.5,1,0,6,8,43.77313522,-79.50650055,out,304.495036,8
+1376,alive,appcra,Crab Apple,Pyrus,spp,p,e,19.2,1,20,5,14,43.77369717,-79.50737875,out,272.2370452,2
+1272,alive,appcra,Crab Apple,Malus,spp,p,e,9,2,35,6,17,43.77321497,-79.50658733,out,200.5583289,16
+1284,alive,appcra,Crab Apple,Malus,spp,p,e,14.5,1,0,9,11,43.77270723,-79.50657983,out,767.0965977,4
+1286,alive,appcra,Crab Apple,Malus,spp,p,by,20.2,1,0,8,6,43.768365,-79.505003,out,753.1116232,3
+1283,alive,appcra,Crab Apple,Malus,spp,p,e,12.5,1,0,8,10,43.77271664,-79.50650312,out,347.8669556,3
+1045,alive,appcra,Crab Apple,Malus,spp,p,by,28,1,0,14,22,43.767448,-79.505757,out,870.1699595,5
+256,alive,appcra,Crab Apple,Malus,spp,p,by,8,1,0,2.7,6,43.770502,-79.502456,out,457.6279252,7
+313,alive,appcra,Crab Apple,Malus,spp,p,s,9.8,1,0,4,6,43.77410791,-79.50935146,out,529.8655874,4
+2086,alive,appcra,Crab Apple,Malus,spp,p,w,14,1,0,12,8,43.77413239,-79.50387934,within,124.0941812,5
+1568,alive,crabapp,Crab Apple,Malus,spp,p,s,19.8,1,45,8,18,43.77397631,-79.50461127,within,161.9180655,2
+1323,alive,appcra,Crab Apple,Malus,spp,p,by,16,1,0,6,10,43.773028,-79.498559,within,377.9630783,6
+1342,alive,appcra,Crab Apple,Malus,spp,p,by,13,1,0,6,10,43.772895,-79.498632,within,99.4333531,10
+1575,alive,crabapp,Crab Apple,Malus,spp,p,s,28,1,0,15,23,43.774055,-79.50425771,within,143.3203001,5
+513,alive,appcra,Crab Apple,Malus,spp,p,fy,17.8,1,5,12,7,43.773138,-79.501683,within,162.0078896,8
+1341,alive,appcra,Crab Apple,Malus,spp,p,by,15,1,0,8,9,43.772933,-79.498643,within,403.1650652,3
+1334,alive,appcra,Crab Apple,Malus,spp,p,by,12,1,0,6,10,43.772802,-79.498533,within,106.258908,15
+1339,alive,appcra,Crab Apple,Malus,spp,p,by,13,2,0,6,10,43.773006,-79.49868,within,89.2790817,3
+1345,alive,appcra,Crab Apple,Malus,spp,p,by,13,1,0,6,10,43.772792,-79.498591,within,108.9570895,11
+1567,alive,crabapp,Crab Apple,Malus,spp,p,s,22.2,1,45,8,19,43.77385206,-79.50456282,within,173.3215962,3
+547,alive,appcra,Crab Apple,Malus,spp,p,fy,9.3,1,0,10,6,43.773285,-79.500767,within,120.2299613,3
+2084,alive,appcra,Crab Apple,Malus,spp,p,w,7.5,1,0,2.5,4,43.77412776,-79.50396231,within,127.0453352,3
+1331,alive,appcra,Crab Apple,Malus,spp,p,by,12,1,0,6,10,43.772745,-79.49844,within,109.5174033,6
+1329,alive,appcra,Crab Apple,Malus,spp,p,by,14,1,0,6,10,43.772822,-79.498474,within,102.493573,9
+1573,alive,crabapp,Crab Apple,Malus,spp,p,s,29.3,1,40,16,22,43.77401684,-79.5043446,within,149.8355266,5
+1347,alive,appcra,Crab Apple,Malus,spp,p,by,14,1,0,8,9,43.772726,-79.498569,within,830.7445936,2
+430,alive,appcra,Crab Apple,Malus,spp,p,fy,17.5,1,5,10,7,43.773964,-79.501128,within,60.29490682,4
+1571,alive,crabapp,Crab Apple,Malus,spp,p,s,23,1,25,10,25,43.77398705,-79.50442508,within,155.2961646,5
+463,alive,appcra,Crab Apple,Malus,spp,p,fy,22,1,60,14,7,43.773639,-79.50217,within,124.3074521,3
+1340,alive,appcra,Crab Apple,Malus,spp,p,by,13,1,0,6,10,43.772969,-79.49866,within,92.54938208,6
+429,alive,appcra,Crab Apple,Malus,spp,p,fy,19,1,25,15,7,43.77396,-79.501074,within,59.14186164,3
+1343,alive,appcra,Crab Apple,Malus,spp,p,by,12,1,0,6,10,43.772861,-79.498613,within,102.420704,11
+2087,alive,appcra,Crab Apple,Malus,spp,p,w,17.5,1,25,15,11,43.77413497,-79.50383319,within,122.4521898,5
+1325,alive,appcra,Crab Apple,Malus,spp,p,by,19,1,0,6,10,43.772955,-79.498531,within,372.53649,4
+2089,alive,appcra,Crab Apple,Malus,spp,p,w,12.5,1,5,9,13,43.77417094,-79.50365494,within,113.4261313,5
+1335,alive,appcra,Crab Apple,Malus,spp,p,by,14,1,0,8,9,43.772838,-79.498545,within,102.863551,15
+1574,alive,crabapp,Crab Apple,Malus,spp,p,s,26.7,1,0,16,25,43.77401325,-79.50429042,within,148.6024325,7
+1324,alive,appcra,Crab Apple,Malus,spp,p,by,15,1,0,8,9,43.772991,-79.498545,within,373.7211537,5
+1569,alive,crabapp,Crab Apple,Malus,spp,p,s,24.5,1,45,8,20,43.77400535,-79.5046231,within,159.2677892,2
+1577,alive,crabapp,Crab Apple,Malus,spp,p,s,7,1,10,7,5,43.77405074,-79.50415129,within,140.6098341,4
+1333,alive,appcra,Crab Apple,Malus,spp,p,by,13,1,0,8,9,43.772766,-79.498521,within,400.3997445,4
+2090,alive,appcra,Crab Apple,Malus,spp,p,w,15.5,1,5,12,14,43.77418173,-79.50362077,within,111.2938879,4
+1570,alive,crabapp,Crab Apple,Malus,spp,p,s,28.8,1,30,10,25,43.77397619,-79.50446819,within,157.6945408,4
+1326,alive,appcra,Crab Apple,Malus,spp,p,by,20,1,0,8,9,43.772921,-79.498516,within,93.41387521,10
+1336,alive,appcra,Crab Apple,Malus,spp,p,by,14,1,0,6,10,43.772872,-79.498559,within,99.73312993,15
+1330,alive,appcra,Crab Apple,Malus,spp,p,by,12,1,0,8,9,43.772786,-79.498458,within,105.7744692,8
+462,alive,appcra,Crab Apple,Malus,spp,p,fy,20.3,1,45,10,6,43.773716,-79.502245,within,118.5660786,6
+1572,alive,crabapp,Crab Apple,Malus,spp,p,s,32,1,0,16,25,43.77402748,-79.5043945,within,150.213479,5
+1344,alive,appcra,Crab Apple,Malus,spp,p,by,11,1,0,8,9,43.77283,-79.498608,within,105.4970961,9
+2085,alive,appcra,Crab Apple,Malus,spp,p,w,14.5,1,5,8,7,43.77411413,-79.50390763,within,126.8221278,6
+450,alive,appcra,Crab Apple,Malus,spp,p,fy,16,1,10,12,10,43.773826,-79.501723,within,91.86868206,5
+454,alive,appcra,Crab Apple,Malus,spp,p,fy,25.5,1,50,14,6.5,43.773762,-79.50188,within,632.7298486,8
+1346,alive,appcra,Crab Apple,Malus,spp,p,by,10,1,0,6,10,43.77276,-79.498582,within,326.2335398,6
+514,alive,appcra,Crab Apple,Malus,spp,p,fy,17.8,1,5,11,7,43.773168,-79.501616,within,0.216852047,8
+1337,alive,appcra,Crab Apple,Malus,spp,p,by,13,1,0,6,10,43.772909,-79.498571,within,96.23391814,14
+1578,alive,crabapp,Crab Apple,Malus,spp,p,s,17,1,0,12,16,43.77407832,-79.50412891,within,137.0976133,3
+1576,alive,appcra,Crab Apple,Malus,spp,p,s,3,1,0,0.5,3.5,43.77406776,-79.50419525,within,140.1527377,5
+2088,alive,appcra,Crab Apple,Malus,spp,p,w,20.5,1,0,16,11,43.77415122,-79.50378617,within,119.3733649,3
+439,alive,appcra,Crab Apple,Malus,spp,p,fy,23,1,65,9,12,43.77386,-79.501465,within,80.85566518,15
+1266,alive,peapea,Flowering Pear,Pyrus,spp,p,n,5.5,1,95,2.5,9,43.77312906,-79.50723891,out,233.6955454,1
+1362,alive,peapea,Flowering Pear,Pyrus,spp,p,e,22.8,1,5,10,18,43.7734831,-79.50772056,out,304.4588054,7
+1303,alive,peapea,Flowering Pear,Pyrus,spp,p,sr,22,1,0,5,10,43.768766,-79.504354,out,646.4438616,4
+1368,alive,peapea,Flowering Pear,Pyrus,spp,p,e,4,4,1,8,5,43.77355339,-79.50750927,out,290.9532333,6
+1104,alive,peapea,Flowering Pear,Pyrus,spp,p,n,9,1,15,7,9,43.77284053,-79.51006807,out,439.9594116,4
+1019,alive,peapea,Flowering Pear,Pyrus,spp,p,by,4.5,1,0,2,3,43.769516,-79.505317,out,643.4336277,4
+300,alive,peapea,Flowering Pear,Pyrus,spp,p,s,6,1,0,1.8,3.5,43.77396015,-79.5094303,out,305.4121454,4
+1268,alive,peapea,Flowering Pear,Pyrus,spp,p,n,6.5,1,95,2.5,9.5,43.77315861,-79.50709418,out,319.526726,4
+1121,alive,peapea,Flowering Pear,Pyrus,spp,p,cy,34,1,0,14,10,43.769176,-79.504536,out,655.4910627,6
+1355,alive,peapea,Flowering Pear,Malus,spp,p,e,22.292994,1,10,9,11,43.77353935,-79.50778419,out,300.5239282,8
+696,alive,peapea,Flowering Pear,Pyrus,spp,p,sr,15,1,60,4,6,43.778578,-79.496745,out,544.6932861,3
+1122,alive,peapea,Flowering Pear,Pyrus,spp,p,cy,25,1,0,12,10,43.76919,-79.50449,out,652.6846025,4
+690,alive,peapea,Flowering Pear,Pyrus,spp,p,sr,13,3,0,6,8,43.778141,-79.496674,out,501.376109,6
+302,alive,peapea,Flowering Pear,Pyrus,spp,p,s,5,1,0,2,3.5,43.77400084,-79.50930847,out,297.6524791,2
+691,alive,peapea,Flowering Pear,Pyrus,spp,p,sr,12,4,0,6,7,43.77818,-79.496691,out,504.9355775,7
+640,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,6.5,1,35,8,5.5,43.772669,-79.502833,out,244.1526759,6
+1119,alive,peapea,Flowering Pear,Pyrus,spp,p,cy,14,1,0,10,10,43.769161,-79.504611,out,659.2579707,5
+1298,alive,peapea,Flowering Pear,Pyrus,spp,p,sr,19.3,1,0,2.5,8,43.768652,-79.504806,out,717.6272757,2
+140,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,55,1,0,25,22.5,43.770353,-79.499957,out,401.3443811,1
+1177,alive,peapea,Flowering Pear,Pyrus,spp,p,sr,43,1,0,20,14,43.768743,-79.502304,out,635.8183841,4
+301,alive,peapea,Flowering Pear,Pyrus,spp,p,s,6,1,0,1.5,3.5,43.77397872,-79.50936959,out,301.7221688,4
+1366,alive,peapea,Flowering Pear,Pyrus,spp,p,e,16,1,25,9,9,43.77357611,-79.50740968,out,285.66354,5
+1117,alive,peapea,Flowering Pear,Pyrus,spp,p,cy,22.8,1,0,13,9,43.769089,-79.504675,out,307.192021,2
+1299,alive,peapea,Flowering Pear,Pyrus,spp,p,sr,19.5,1,0,9,9.5,43.768673,-79.504713,out,712.7085577,3
+1124,alive,peapea,Flowering Pear,Pyrus,spp,p,cy,34.8,1,0,18,15,43.769115,-79.50434,out,656.0607027,1
+304,alive,peapea,Flowering Pear,Pyrus,spp,p,s,5,1,0,0,2.5,43.77402546,-79.50911791,out,289.5582459,3
+1375,alive,peapea,Flowering Pear,Pyrus,spp,p,e,26,1,40,11,28,43.77357432,-79.50733614,out,283.6766095,3
+1302,alive,peapea,Flowering Pear,Pyrus,spp,p,sr,21,1,0,4,10,43.768737,-79.504448,out,698.3700139,3
+1109,alive,peapea,Flowering Pear,Pyrus,spp,p,n,16.56051,1,0,4,10,43.77284229,-79.51019337,out,443.4221395,5
+1106,alive,peapea,Flowering Pear,Pyrus,spp,p,n,12.2,1,10,5,8,43.77292402,-79.51010324,out,432.3328514,5
+308,alive,peapea,Flowering Pear,Pyrus,spp,p,s,5,1,10,2,3.5,43.77410255,-79.50884157,out,273.5326012,2
+1107,alive,peapea,Flowering Pear,Pyrus,spp,p,n,11.5,1,0,9,11,43.77291416,-79.51015082,out,434.738496,5
+1070,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,12,4,0,4,12,43.769224,-79.505812,out,688.309663,3
+1071,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,17,5,0,4,12,43.76926,-79.505741,out,682.4775059,3
+1352,alive,peapea,Flowering Pear,Pyrus,spp,p,e,22.5,1,40,9,23,43.77365995,-79.50783128,out,289.4491969,6
+307,alive,peapea,Flowering Pear,Pyrus,spp,p,s,5,1,0,2,3.5,43.77409601,-79.50897981,out,278.2317195,3
+694,alive,peapea,Flowering Pear,Pyrus,spp,p,sr,16,1,60,4,5,43.778453,-79.496699,out,533.0408843,3
+1069,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,16.5,5,0,4,10,43.769273,-79.505823,out,683.580179,3
+1287,alive,peapea,Flowering Pear,Pyrus,spp,p,sl,55,3,0,7,9,43.780094,-79.497978,out,666.419066,2
+1363,alive,peapea,Flowering Pear,Pyrus,spp,p,e,22,1,3,9,19,43.77349369,-79.50765455,out,874.0078965,1
+693,alive,peapea,Flowering Pear,Pyrus,spp,p,sr,13,3,0,7,7,43.778395,-79.496687,out,527.3657209,3
+1123,alive,peapea,Flowering Pear,Pyrus,spp,p,cy,18.5,1,0,10,9,43.769199,-79.504449,out,650.5426752,3
+293,alive,peapea,Flowering Pear,Pyrus,spp,p,n,20.5,1,0,3,18,43.77499281,-79.50997882,out,214.3838947,3
+692,alive,peapea,Flowering Pear,Pyrus,spp,p,sr,15,3,0,7,7,43.77822,-79.49671,out,508.541379,6
+1125,alive,peapea,Flowering Pear,Pyrus,spp,p,cy,19.426752,1,0,20,8,43.769043,-79.504657,out,672.8130112,2
+641,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,5.5,1,25,8,4,43.772676,-79.5028,out,136.2395106,20
+1301,alive,peapea,Flowering Pear,Pyrus,spp,p,sr,20,1,0,7,10,43.768717,-79.50454,out,703.1133679,3
+1118,alive,peapea,Flowering Pear,Pyrus,spp,p,cy,23.4,1,0,13,9,43.769155,-79.504645,out,308.5359356,2
+1359,alive,peapea,Flowering Pear,Pyrus,spp,p,fy,25.796178,1,0,5.5,14,43.768473,-79.508765,out,853.3096481,2
+294,alive,peapea,Flowering Pear,Pyrus,spp,p,n,16.8,1,0,5,17,43.77492433,-79.50984244,out,217.5112366,5
+303,alive,peapea,Flowering Pear,Pyrus,spp,p,s,5,1,0,1.8,4,43.77401202,-79.50918334,out,292.8540691,2
+937,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5,1,0,3,4.5,43.77374297,-79.50782752,out,280.75702,9
+896,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,by,18.5,1,0,14,15,43.770144,-79.503557,out,526.6904651,8
+929,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5.5,1,0,2,5.25,43.77379309,-79.50765203,out,270.3936184,12
+1445,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5.3,1,10,1.5,3,43.77340236,-79.50568989,out,253.0315019,5
+1359,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,e,11.5,1,95,8,27,43.77359873,-79.50768657,out,853.3096481,2
+464,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,by,5,1,0,1,4.5,43.769506,-79.505696,out,655.7458735,5
+934,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5,1,0,1.5,5,43.77371971,-79.50777878,out,281.721748,11
+651,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,22.5,1,0,7.5,19,43.772062,-79.50498,out,148.5092058,11
+338,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5,1,0,2.5,5,43.77421732,-79.5099107,out,292.7441069,3
+1356,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,e,8.3,1,95,3,19,43.7735331,-79.50773839,out,299.8172885,10
+1360,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,e,9.2,1,95,6,26,43.77355214,-79.50766432,out,295.6616925,11
+935,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,4.5,1,0,3,5.5,43.77378362,-79.50774761,out,339.0836029,5
+462,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,sr,4,1,0,2,4,43.769566,-79.505632,out,118.5660786,6
+919,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5,1,0,2,5.25,43.77380943,-79.50753491,out,265.2456673,11
+923,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5,1,0,1.5,5.5,43.77368161,-79.50768932,out,534.2965761,4
+653,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,4,1,0,1,4,43.77199,-79.505118,out,382.1373146,6
+1357,alive,ginkgo,Ginkgo,Ginkgo,biloba,c,st,3.503185,1,0,6,4,43.779958,-79.500229,out,585.9847637,4
+341,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5.5,1,0,3,6,43.77415702,-79.51007411,out,303.7448979,6
+320,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,10,1,0,4,9,43.77413181,-79.50951108,out,289.9779245,4
+936,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5,1,0,2.5,7,43.77376398,-79.50779412,out,277.5989526,10
+924,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,4,1,0,1.5,5,43.77373468,-79.50764855,out,536.3585659,4
+1358,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,e,20.5,1,95,10,28,43.77361429,-79.50770877,out,290.5505207,8
+652,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,17,1,0,4.5,19,43.772016,-79.504956,out,149.1464474,10
+647,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,20.700637,1,0,2.5,14,43.771964,-79.505364,out,135.7161137,21
+340,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,7,1,0,4,7,43.7741921,-79.51003132,out,117.6152667,10
+650,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,22,1,0,10,19,43.772038,-79.505079,out,146.5829736,13
+938,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5,1,0,2,6,43.77378282,-79.50784684,out,277.2086279,7
+648,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,16.401274,1,0,2,13,43.771931,-79.505327,out,137.5449608,23
+1379,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,e,5,1,95,3,5,43.77375892,-79.50750017,out,269.4404728,9
+925,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5.5,1,0,2,5,43.77377474,-79.50761468,out,271.1872216,13
+1449,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,9.2,1,80,4,8,43.7735603,-79.50509849,out,219.3086911,4
+928,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5.5,1,0,2,5,43.77383323,-79.50762473,out,265.4383882,8
+927,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,4.5,1,0,1,5,43.77386455,-79.50755984,out,260.2846319,6
+1450,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,10,1,80,6,9,43.77358157,-79.5049944,out,214.0465185,5
+1361,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,e,9.4,1,95,5.5,10,43.77351961,-79.50770052,out,300.0931928,9
+931,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5.5,1,0,1.5,5.25,43.77372344,-79.50769979,out,279.0033288,13
+892,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,by,11,1,0,3,9,43.770083,-79.503522,out,82.88719476,7
+932,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5.5,1,0,3,4.75,43.77370244,-79.50773319,out,282.1603651,14
+939,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5,1,0,1.5,7,43.77377084,-79.50788025,out,332.8437482,6
+1447,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,13.3,1,80,7,9,43.77352307,-79.50525722,out,227.8260223,3
+922,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5.5,1,0,2,6,43.77369043,-79.50763486,out,536.7528375,4
+460,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,sr,5,1,0,2,4.5,43.769685,-79.505686,out,636.9728088,3
+918,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,4.8,1,50,2,5.25,43.77386384,-79.50750562,out,258.7566877,7
+461,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,sr,5,1,0,2,4,43.769612,-79.50566,out,643.7322298,3
+930,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,4,1,0,0.75,5.25,43.77376741,-79.50769212,out,274.2319709,14
+339,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,6,1,0,3,6,43.77420903,-79.5099594,out,295.0196562,4
+1378,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,e,5,1,95,3,5,43.77379789,-79.50747454,out,264.6554968,7
+920,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5,1,50,2,5,43.77376217,-79.50756403,out,270.9905881,13
+649,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,fy,23.5,1,0,9,22,43.772021,-79.505149,out,144.5028012,15
+1154,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,sr,3.5,1,0,1.5,4,43.768574,-79.50211,out,35.66335625,5
+933,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5.5,1,0,3,6,43.77374545,-79.50774362,out,278.0227967,12
+387,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,n,4.5,1,0,1.7,4,43.77474075,-79.51057987,out,258.1093739,5
+1446,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,7.7,1,80,2.5,6,43.77351525,-79.50529687,out,229.8005363,2
+1380,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,e,5,1,95,1.5,4.5,43.77371978,-79.50752953,out,274.3531827,11
+1998,alive,ginkgo,Ginkgo,Ginkgo,biloba,c,st,5,1,0,0.4,4,43.77877243,-79.50542535,out,310.0410245,1
+1377,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,e,5.3,1,95,3,6,43.77382945,-79.50744777,out,260.6027649,6
+1439,alive,ginkgo,Ginkgo,Ginkgo,biloba,c,st,3,1,0,0.8,3,43.779243,-79.503437,out,417.3272618,2
+1448,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,11.4,1,80,6,9,43.77355354,-79.50512825,out,220.8828164,4
+1270,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,e,9,1,25,8,10,43.77319294,-79.50693158,out,200.4422965,16
+1381,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,e,5,1,95,2,5,43.77367732,-79.50756182,out,279.6955897,9
+876,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,by,18,1,0,6,10,43.770102,-79.503623,out,532.9590456,6
+1357,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,e,11.8,1,95,8,18,43.77356532,-79.50771877,out,585.9847637,4
+337,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5.8,1,0,4,4.5,43.77422563,-79.50986282,out,290.4903378,6
+1444,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,3.5,1,5,1.5,3,43.77334399,-79.50595544,out,266.8756946,4
+1451,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,9,1,80,7,9,43.77358952,-79.50496462,out,212.3434585,3
+921,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,s,5,1,0,2,6,43.77372447,-79.5075962,out,275.8374466,12
+385,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,n,4.8,1,0,1.5,2.5,43.77473045,-79.51042366,out,85.70643503,10
+386,alive,ginkgo,Ginkgo,Ginkgo,biloba,p,n,5,1,0,1.5,4,43.7747341,-79.51052667,out,88.21621697,10
+1668,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,s,22,1,0,11,18,43.77239197,-79.51263495,out,10.801081,2
+171,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,8,1,0,5,8,43.770692,-79.501131,out,399.8242936,10
+950,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,fy,18.152866,1,0,8,11.5,43.77192,-79.501138,out,272.5666867,3
+1118,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,nw,5.2,1,0,3,6,43.77327975,-79.51113861,out,308.5359356,2
+1730,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,fy,23.5,1,0,8,14,43.776498,-79.49842,out,280.6838179,3
+1425,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,n,40.5,1,0,24,19,43.77396648,-79.50638634,out,215.1551193,4
+900,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,10.8,1,0,4,6,43.770895,-79.500978,out,374.3585602,7
+896,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,8,1,0,4,5,43.770742,-79.50095,out,526.6904651,8
+1667,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,s,26.5,1,0,10,22,43.77228707,-79.51288197,out,579.6684779,1
+1120,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,nw,4.6,1,0,2.5,6.5,43.7730803,-79.51126191,out,449.8911983,1
+959,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,11.783439,2,90,10,9.5,43.771748,-79.500584,out,274.5032221,2
+402,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,22,1,0,7,10,43.770669,-79.505917,out,542.2975961,6
+467,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,by,6.5,1,0,3,4,43.769555,-79.505854,out,655.39846,5
+306,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,39,1,50,12,16,43.776918,-79.502288,out,210.8481254,5
+620,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,by,39.5,1,30,11,12,43.778921,-79.499619,out,496.9820778,6
+909,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,9.076433,1,0,6,5.5,43.771069,-79.501077,out,359.1426739,10
+1229,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,cy,31.847134,1,100,17,18.5,43.77256469,-79.50893437,out,720.5212038,1
+954,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,fy,20.382166,1,40,10,10.5,43.771969,-79.50091,out,260.9305878,5
+60,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,s,13,1,95,5,23,43.77416078,-79.51391901,out,412.7517797,8
+314,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,9.55414,1,0,5,6.6,43.771217,-79.501266,out,526.58177,4
+344,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,by,7.006369,1,0,7,7,43.771698,-79.501709,out,312.0130082,3
+1735,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,n,14,1,0,6,9,43.7739317,-79.51261466,out,401.4803382,3
+309,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,9.5,1,0,3,5,43.771176,-79.501331,out,355.3339602,20
+637,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,by,5,3,0,2,3,43.779622,-79.499716,out,566.5632804,2
+330,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,28.5,1,0,3,6,43.771373,-79.501345,out,335.2887809,11
+1258,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,n,14.5,1,90,9,20,43.77276422,-79.50895357,out,415.1792183,4
+172,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,8.5,1,0,6,7,43.770696,-79.501109,out,398.7770699,10
+948,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,10.509554,1,90,8,5.5,43.771767,-79.501386,out,295.5718855,6
+1136,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,n,44.8,1,50,15,19,43.77303984,-79.50917481,out,393.2242576,4
+329,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,14.012739,1,0,4,7,43.771353,-79.501394,out,506.5368966,10
+1342,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,fy,7.802548,1,0,2,5.5,43.76862,-79.507654,out,99.4333531,10
+1134,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,n,17,1,10,12,6,43.773164,-79.50948046,out,389.3533751,2
+1422,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,n,46,1,15,16,18,43.77393588,-79.50655136,out,223.1713827,4
+1421,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,n,38.4,1,30,18,17,43.77387854,-79.50655543,out,229.2220688,5
+936,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,7.643312,1,0,7,5,43.771551,-79.501294,out,277.5989526,10
+1790,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,cy,11.5,1,0,1,4,43.776088,-79.499305,out,212.70375,6
+311,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,9.872611,1,0,3,5,43.771193,-79.501322,out,293.8883354,5
+1020,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,12.8,1,0,7,5.5,43.769615,-79.507425,out,695.7911945,2
+1257,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,n,14.3,1,90,6,18,43.77276877,-79.50891963,out,275.8311156,3
+1216,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,cy,16,1,100,7,14,43.77251459,-79.50830263,out,421.7570335,7
+180,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,8.5,1,0,5,6,43.770797,-79.501151,out,389.5005407,17
+912,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,7.484076,1,0,6,7,43.771131,-79.50107,out,352.5063587,10
+572,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,fy,5.5,1,90,2.5,3.5,43.773489,-79.505061,out,112.3476903,18
+1178,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,s,14,1,90,9,6.5,43.77283142,-79.50908034,out,411.9771571,4
+929,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,8.917197,1,0,4,5,43.771433,-79.501212,out,270.3936184,12
+61,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,s,9,1,95,4,18,43.77415265,-79.5139534,out,110.973506,3
+1135,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,n,24.3,1,10,14,7,43.77315189,-79.50954975,out,392.6237083,2
+290,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,10,1,0,3,7,43.771002,-79.501233,out,154.1157844,9
+1720,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,n,8,1,0,4,7,43.77390345,-79.51319116,out,420.318586,4
+297,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,9.5,1,0,3,6.5,43.771073,-79.501292,out,364.9042883,16
+1172,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,14,1,30,7,11,43.774645,-79.502533,within,31.06496575,7
+414,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,by,13,1,10,7,8,43.7751,-79.502529,within,16.02713018,6
+2180,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,w,6,1,85,3.5,7,43.77544805,-79.50409471,within,5.461149768,7
+1273,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,pl,24.5,1,10,6,8,43.775,-79.497596,within,148.8227659,1
+50,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,18,1,60,8,11,43.774107,-79.502555,within,351.6825016,10
+18,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,20,1,30,7,12,43.774718,-79.502702,within,28.55650399,5
+1641,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,fy,21,1,0,12,13,43.775274,-79.503319,within,10.43609261,4
+1174,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,15,1,20,7,11,43.774573,-79.502521,within,38.1515733,4
+48,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,14.5,1,60,7,11,43.774075,-79.502541,within,351.579816,6
+412,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,by,31.5,1,40,14,14,43.775177,-79.502595,within,22.00688117,4
+311,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,32.5,1,60,10,13,43.776806,-79.50255,within,293.8883354,5
+1434,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,n,44.267516,1,0,3,19,43.77411996,-79.50578946,within,181.7330132,3
+1751,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,e,16.5,1,0,6,8.5,43.77570209,-79.50903752,within,113.5191789,2
+1,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,24,1,30,7,11,43.774222,-79.50284,within,83.86284186,2
+1709,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,by,21.5,1,30,5,9,43.774806,-79.502568,within,15.47939288,5
+1171,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,14,1,30,6,12,43.774679,-79.50252,within,27.16683282,7
+411,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,by,26.5,1,30,8,15,43.775206,-79.502576,within,25.5663814,4
+1307,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,13.322718,3,0,8,12,43.773139,-79.497954,within,390.827705,4
+1311,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,10.562633,3,0,10,11,43.77311,-79.497876,within,55.47209568,9
+309,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,42,1,40,11,15,43.77679,-79.502321,within,355.3339602,20
+1176,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,16.5,1,30,8,13,43.774487,-79.502375,within,42.72480084,1
+590,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,fy,35,1,90,15,16,43.773602,-79.504184,within,187.9181855,3
+13,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,15,1,30,6,9,43.774602,-79.502791,within,43.18205461,6
+593,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,fy,28,1,90,12,18,43.773461,-79.504001,within,197.0158425,2
+47,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,16,1,60,7,8,43.774053,-79.50247,within,349.665185,6
+19,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,19,1,30,6,10,43.774662,-79.502677,within,33.59104702,5
+180,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,28,1,90,7,11,43.775592,-79.502679,within,389.5005407,17
+15,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,16,1,40,6,10,43.774681,-79.50287,within,37.38340445,6
+42,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,11,1,60,4,6,43.773947,-79.502487,within,101.8443218,4
+1352,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,17.7,1,0,9,24,43.772729,-79.498995,within,289.4491969,6
+1173,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,14,1,20,6,11,43.774611,-79.502534,within,34.60844787,6
+168,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,by,33.5,1,20,9,15,43.775522,-79.503634,within,26.71956836,5
+1646,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,fy,33,1,50,11,12,43.775435,-79.503204,within,30.48114075,4
+1167,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,19.426752,1,10,6,11,43.774661,-79.502439,within,26.63325035,7
+763,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,st,6.5,1,0,2,7,43.771344,-79.496551,within,97.02548668,14
+744,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,st,7.5,1,0,2,12,43.771911,-79.493944,within,30.49964576,1
+595,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,fy,36,1,90,10,18,43.773576,-79.504038,within,186.2494951,2
+1248,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,18.2,1,60,12,12.5,43.771944,-79.49865,within,198.7132896,3
+52,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,18,1,60,8,10,43.774156,-79.502516,within,81.1010882,6
+1314,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,8.333333,3,0,8,6,43.773062,-79.497848,within,394.7314969,8
+598,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,fy,16.5,1,50,12,12,43.773764,-79.503499,within,150.7783258,3
+1354,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,19.5,1,0,9,24,43.772879,-79.499055,within,113.1988492,6
+312,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,35,1,40,9,14,43.776826,-79.502548,within,530.746417,4
+14,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,18.5,1,30,8,9,43.774622,-79.50284,within,444.7850616,5
+1310,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,12.845011,3,0,8,14,43.773131,-79.497801,within,408.7271372,3
+1647,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,fy,49.5,1,20,16,18,43.775386,-79.503114,within,28.10665529,12
+821,alive,lochon,Honey Locust,Gleditsia,triacanthos,p,s,20.5,1,0,12,7.5,43.77602274,-79.50746395,within,34.37769058,3
+268,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sl,24,1,10,6,10,43.77609,-79.503013,within,103.7918049,3
+2,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,14,1,40,6,7,43.774285,-79.502774,within,391.0605528,5
+45,alive,lochon,Honey Locust,Gleditsia,tricanthos,p,sr,11,1,60,5,7,43.774006,-79.502451,within,94.68265923,7
+1525,alive,mapnor,Norway Maple,Acer,platanoides,c,st,45,1,40,14,10,43.777452,-79.494828,out,483.1133678,1
+1457,alive,mapnor,Norway Maple,Acer,platanoides,c,st,46,1,0,10,12,43.780215,-79.49462,out,775.5707812,2
+2007,alive,mapnor,Norway Maple,Acer,platanoides,c,st,48,1,30,11,27,43.77849404,-79.50669979,out,243.7341834,3
+1514,alive,mapnor,Norway Maple,Acer,platanoides,c,st,46.5,1,0,12,13,43.778511,-79.494987,out,588.1053223,2
+1533,alive,mapnor,Norway Maple,Acer,platanoides,c,st,45,1,0,11,10,43.777025,-79.49476,out,441.3969807,2
+947,alive,mapnor,Norway Maple,Acer,platanoides,p,sl,26,1,20,8,11,43.778525,-79.503884,out,329.9203505,4
+81,alive,mapnor,Norway Maple,Acer,platanoides,p,by,22.5,1,20,12,10,43.769671,-79.502108,out,533.8664274,3
+726,alive,mapnor,Norway Maple,Acer,platanoides,p,by,20.5,1,30,8,12.5,43.772442,-79.502944,out,270.8939429,3
+110,alive,mapnor,Norway Maple,Acer,platanoides,p,by,28,1,20,10,12,43.76848,-79.501603,out,642.9766866,3
+1744,alive,mapnor,Norway Maple,Acer,platanoides,p,sr,19,1,0,8,9,43.776249,-79.498373,out,256.1897549,1
+109,alive,mapnor,Norway Maple,Acer,platanoides,p,by,28,1,20,10,12,43.768568,-79.501641,out,634.9345642,4
+93,alive,mapnor,Norway Maple,Acer,platanoides,p,by,25.5,1,20,10,12,43.769197,-79.501923,out,577.7499262,3
+656,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,25.3,1,0,10,18,43.771918,-79.505253,out,159.1972379,15
+1522,alive,mapnor,Norway Maple,Acer,platanoides,c,st,52,1,0,11,13,43.778073,-79.494993,out,542.4464241,2
+1347,alive,mapnor,Norway Maple,Acer,platanoides,c,st,37.5,1,40,11,11,43.780235,-79.498946,out,830.7445936,2
+1452,alive,mapnor,Norway Maple,Acer,platanoides,c,st,30,1,30,7,10,43.780553,-79.49452,out,813.5341835,2
+1529,alive,mapnor,Norway Maple,Acer,platanoides,c,st,48.5,1,0,11,11,43.777237,-79.494821,out,461.2676715,2
+1061,alive,mapnor,Norway Maple,Acer,platanoides,p,by,24.363057,2,0,7,8,43.776856,-79.499088,out,298.6333622,6
+1133,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,25.5,1,0,12,11,43.769716,-79.502631,out,544.220866,3
+1148,alive,mapnor,Norway Maple,Acer,platanoides,p,sr,26.2,1,0,12,11,43.768552,-79.502118,out,650.2993941,4
+1993,alive,mapnor,Norway Maple,Acer,platanoides,c,st,40,1,20,12,17,43.77893835,-79.50467026,out,349.4913097,1
+1151,alive,mapnor,Norway Maple,Acer,platanoides,p,by,46.8,1,0,18,12.5,43.774849,-79.49475,out,44.20086786,5
+657,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,34.8,1,0,10,18,43.771921,-79.505176,out,162.0351174,16
+29,alive,mapnor,Norway Maple,Acer,platanoides,p,sl,30,1,0,16,11,43.771126,-79.502354,out,389.9989479,4
+1139,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,27,1,0,12,11,43.769331,-79.502499,out,580.3895123,3
+1464,alive,mapnor,Norway Maple,Acer,platanoides,c,st,35,1,10,12,12,43.779891,-79.494615,out,742.0658311,2
+1349,alive,mapnor,Norway Maple,Acer,platanoides,c,st,44,1,30,11,11,43.78017,-79.499233,out,637.4735433,1
+993,alive,mapnor,Norway Maple,Acer,platanoides,p,e,19.3,1,0,10,23,43.77216755,-79.50896102,out,320.793732,3
+154,alive,mapnor,Norway Maple,Acer,platanoides,p,pl,26.3,1,20,14,11,43.769941,-79.502159,out,507.3071752,2
+1443,alive,mapnor,Norway Maple,Acer,platanoides,c,st,46,1,0,11,14,43.781066,-79.494793,out,858.9985348,2
+1513,alive,mapnor,Norway Maple,Acer,platanoides,c,st,35,1,20,11,11,43.77862,-79.495004,out,598.9387429,2
+1334,alive,mapnor,Norway Maple,Acer,platanoides,c,st,44,1,35,12,14,43.780656,-79.497079,out,106.258908,15
+1445,alive,mapnor,Norway Maple,Acer,platanoides,c,st,42,1,0,12,10,43.780962,-79.494758,out,253.0315019,5
+1062,alive,mapnor,Norway Maple,Acer,platanoides,p,by,22.611465,2,0,6,11,43.776794,-79.499104,out,291.7436374,5
+236,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,39.5,1,30,11,11,43.777068,-79.502896,out,208.3049765,6
+697,alive,mapnor,Norway Maple,Acer,platanoides,p,sr,19,1,30,7,9,43.778611,-79.496796,out,546.6532023,3
+1537,alive,mapnor,Norway Maple,Acer,platanoides,c,st,40,1,0,12,12,43.77682,-79.494703,out,422.1211038,2
+994,alive,mapnor,Norway Maple,Acer,platanoides,p,e,19,1,10,6,20,43.77211281,-79.50904408,out,485.1838115,5
+1160,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,12.5,1,0,8,9,43.769048,-79.50225,out,17.94016544,3
+1554,alive,mapnor,Norway Maple,Acer,platanoides,c,st,38,1,30,12,10,43.775759,-79.494483,out,318.3621455,2
+1471,alive,mapnor,Norway Maple,Acer,platanoides,c,st,50.5,1,0,13,12,43.779464,-79.494804,out,692.3128493,2
+647,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,23.5,1,0,6,8,43.778807,-79.497065,out,135.7161137,21
+1341,alive,mapnor,Norway Maple,Acer,platanoides,c,st,44,1,40,11,12,43.780432,-79.498079,out,403.1650652,3
+1103,alive,mapnor,Norway Maple,Acer,platanoides,p,n,14.490446,1,10,9,9,43.77297081,-79.50993478,out,422.5847131,1
+1526,alive,mapnor,Norway Maple,Acer,platanoides,c,st,42,1,0,14,10,43.77736,-79.494782,out,475.0931336,2
+680,alive,mapnor,Norway Maple,Acer,platanoides,p,sr,23.5,1,0,8,8,43.777896,-79.496484,out,204.9093973,9
+683,alive,mapnor,Norway Maple,Acer,platanoides,c,st,36.5,1,0,10,9,43.774901,-79.494313,out,208.6909246,10
+1726,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,39.808917,1,15,10,15,43.777352,-79.503355,out,224.1425212,3
+1466,alive,mapnor,Norway Maple,Acer,platanoides,c,st,41,1,15,12,12,43.779784,-79.494635,out,730.3813795,2
+1476,alive,mapnor,Norway Maple,Acer,platanoides,c,st,42,1,20,12,12,43.779244,-79.494771,out,670.4097014,2
+2045,alive,mapnor,Norway Maple,Acer,platanoides,c,st,32,1,15,10,24,43.77699051,-79.51339763,within,102.1919462,1
+422,alive,mapnor,Norway Maple,Acer,platanoides,p,sr,26,1,40,12,13,43.775861,-79.502198,within,104.4375077,5
+813,alive,mapnor,Norway Maple,Acer,platanoides,c,sr,26,1,0,10,9,43.770803,-79.493237,within,22.22873822,2
+807,alive,mapnor,Norway Maple,Acer,platanoides,c,sr,21,1,0,12,8.5,43.77114,-79.493327,within,23.77120622,2
+1584,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,37.261146,1,0,11,10,43.774817,-79.49653,within,160.3211716,2
+2050,alive,mapnor,Norway Maple,Acer,platanoides,c,st,41,1,15,11,26,43.77683268,-79.51411846,within,137.9603436,1
+168,alive,mapnor,Norway Maple,Acer,platanoides,p,e,19,1,0,6,18,43.77638942,-79.51080216,within,26.71956836,5
+735,alive,mapnor,Norway Maple,Acer,platanoides,c,st,38.375796,1,30,15,12,43.772427,-79.493561,within,30.36950816,3
+800,alive,mapnor,Norway Maple,Acer,platanoides,c,sr,16.719745,1,0,12,7,43.771481,-79.493341,within,17.5529205,2
+2029,alive,mapnor,Norway Maple,Acer,platanoides,c,st,37,1,25,12,25,43.77776368,-79.50999429,within,71.71928995,1
+2044,alive,mapnor,Norway Maple,Acer,platanoides,c,st,37.5,1,25,12,28,43.77702358,-79.51324407,within,94.63003789,1
+559,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,23.6,7,5,5,12,43.773313,-79.50142,within,136.2372222,4
+262,alive,mapnor,Norway Maple,Acer,platanoides,p,sl,36.5,1,40,10,10,43.776495,-79.503071,within,143.920286,4
+797,alive,mapnor,Norway Maple,Acer,platanoides,c,sr,16.5,1,0,12,8.5,43.771675,-79.49346,within,14.35743745,2
+1155,alive,mapnor,Norway Maple,Acer,platanoides,p,by,21.8,1,0,16,12.5,43.774689,-79.49539,within,30.71703997,5
+1580,alive,mapnor,Norway Maple,Acer,platanoides,p,s,31.8,1,95,8,16,43.77394778,-79.50418681,within,152.2995594,4
+2053,alive,mapnor,Norway Maple,Acer,platanoides,c,st,37,1,5,8,23,43.7767364,-79.51456057,within,159.8433672,1
+1805,alive,mapnor,Norway Maple,Acer,platanoides,p,sl,23.8,1,0,15,12.5,43.775684,-79.499863,within,154.677252,3
+710,alive,mapnor,Norway Maple,Acer,platanoides,c,st,45.2,1,0,12,14,43.773684,-79.493918,within,126.4896674,2
+175,alive,mapnor,Norway Maple,Acer,platanoides,p,e,22.3,1,0,9,22,43.77680711,-79.51098831,within,56.27771237,3
+2022,alive,mapnor,Norway Maple,Acer,platanoides,c,st,41.5,1,20,13,28,43.77797737,-79.5089861,within,123.5109364,1
+1608,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,33,1,20,11,11,43.774483,-79.498372,within,72.92094478,7
+582,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,35.5,1,0,24,14,43.773622,-79.501607,within,109.6427163,4
+697,alive,mapnor,Norway Maple,Acer,platanoides,c,st,26.8,1,0,12,10,43.774391,-79.494041,within,546.6532023,3
+805,alive,mapnor,Norway Maple,Acer,platanoides,c,sr,25,1,0,12,8.5,43.771231,-79.493352,within,24.24321249,3
+162,alive,mapnor,Norway Maple,Acer,platanoides,p,cy,11,1,50,6,10,43.776044,-79.503714,within,78.29561203,9
+1580,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,40.605096,1,0,9,10,43.774913,-79.496091,within,152.2995594,4
+816,alive,mapnor,Norway Maple,Acer,platanoides,c,sr,28,1,0,10,9,43.7707,-79.493131,within,15.50913169,2
+548,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,27.2,1,0,10,11,43.773406,-79.50078,within,108.0444065,2
+731,alive,mapnor,Norway Maple,Acer,platanoides,c,st,34.55414,1,30,17,12,43.772584,-79.49359,within,40.81225851,3
+2032,alive,mapnor,Norway Maple,Acer,platanoides,c,st,37.5,1,25,15,30,43.77766945,-79.51042282,within,49.507022,1
+2046,alive,mapnor,Norway Maple,Acer,platanoides,c,st,32.5,1,15,9,24,43.77696004,-79.513535,within,109.0495274,1
+1158,alive,mapnor,Norway Maple,Acer,platanoides,p,by,45,1,0,20,11.5,43.77462,-79.495718,within,23.40560538,5
+564,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,22.9,1,0,16,8.5,43.773287,-79.501764,within,148.9177404,4
+806,alive,mapnor,Norway Maple,Acer,platanoides,c,sr,23,1,0,12,8.5,43.771163,-79.493252,within,17.41744035,2
+1159,alive,mapnor,Norway Maple,Acer,platanoides,p,by,41,1,0,18,12.5,43.774594,-79.495837,within,20.27407782,4
+2056,alive,mapnor,Norway Maple,Acer,platanoides,c,st,41,1,30,14,29,43.77663142,-79.51498486,within,182.1631392,1
+796,alive,mapnor,Norway Maple,Acer,platanoides,c,sr,16.5,1,0,12,8.5,43.771683,-79.493399,within,9.713392659,2
+711,alive,mapnor,Norway Maple,Acer,platanoides,c,st,32.484076,1,0,10,12,43.773698,-79.49385,within,130.5858467,2
+172,alive,mapnor,Norway Maple,Acer,platanoides,p,e,22,1,0,7,22,43.77665795,-79.51091832,within,398.7770699,10
+1154,alive,mapnor,Norway Maple,Acer,platanoides,p,by,47,1,0,20,11.5,43.774769,-79.495064,within,35.66335625,5
+2027,alive,mapnor,Norway Maple,Acer,platanoides,c,st,27.5,1,15,8,17,43.77782428,-79.50970329,within,86.53778948,2
+580,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,29.8,1,15,12,13,43.773652,-79.501733,within,110.1913332,4
+1774,alive,mapnor,Norway Maple,Acer,platanoides,p,by,5,1,0,2,5,43.775886,-79.499411,within,188.6923421,3
+814,alive,mapnor,Norway Maple,Acer,platanoides,c,sr,25,1,0,10,9,43.770806,-79.493158,within,15.89016051,2
+578,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,26,1,40,16,13,43.773622,-79.501839,within,116.3774166,4
+1578,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,32.961783,1,0,7,9,43.774961,-79.495874,within,137.0976133,3
+1588,alive,mapnor,Norway Maple,Acer,platanoides,p,fy,35.5,1,0,7,12,43.774687,-79.49714,within,129.3650242,2
+2040,alive,mapnor,Norway Maple,Acer,platanoides,c,st,45,1,20,12,30,43.77715006,-79.51267378,within,66.16232148,1
+178,alive,mapnor,Norway Maple,Acer,platanoides,p,e,21,1,0,7,12,43.77694342,-79.51106627,within,44.4173252,5
+186,alive,oakred,Red Oak,Quercus,rubra,p,fy,24,1,0,14,14,43.771893,-79.509,out,506.6021411,5
+1405,alive,oakred,Red Oak,Quercus,rubra,p,nw,8.7,1,0,3.5,6.5,43.77203,-79.511072,out,553.1364811,4
+1326,alive,oakred,Red Oak,Quercus,rubra,p,w,7.484076,1,5,6,6.5,43.77358945,-79.50832571,out,93.41387521,10
+504,alive,oakred,Red Oak,Quercus,rubra,p,by,8,1,0,4,4.5,43.77091,-79.508161,out,1.707590433,9
+535,alive,oakred,Red Oak,Quercus,rubra,p,sl,8.5,1,0,6,7,43.773052,-79.506243,out,305.5316418,4
+590,alive,oakred,Red Oak,Quercus,rubra,p,by,60,1,0,14,18,43.77723,-79.497979,out,187.9181855,3
+319,alive,oakred,Red Oak,Quercus,rubra,p,s-cr,12,1,30,7,13,43.77415218,-79.50926852,out,280.8113169,3
+912,alive,oakred,Red Oak,Quercus,rubra,p,w,8,1,0,4,10,43.77401827,-79.50852037,out,352.5063587,10
+371,alive,oakred,Red Oak,Quercus,rubra,p,n,15,1,0,9,10,43.77469304,-79.510326,out,255.5568852,5
+767,alive,oakred,Red Oak,Quercus,rubra,p,fy,6.2,1,0,2,6,43.771838,-79.504846,out,389.7173102,4
+188,alive,oakred,Red Oak,Quercus,rubra,p,fy,20.5,1,0,13,12,43.771827,-79.509003,out,513.512683,4
+224,alive,oakred,Red Oak,Quercus,rubra,p,fy,31,1,0,11,23,43.772098,-79.507879,out,452.305154,6
+293,alive,oakred,Red Oak,Quercus,rubra,p,fy,29.936306,1,0,13,12,43.771102,-79.50821,out,214.3838947,3
+1885,alive,oakred,Red Oak,Quercus,rubra,p,pl,24.2,1,10,8,10,43.77783322,-79.5049,out,228.4790101,3
+271,alive,oakred,Red Oak,Quercus,rubra,p,sr,12,1,0,7,7.5,43.770189,-79.502111,out,480.187229,3
+273,alive,oakred,Red Oak,Quercus,rubra,p,sr,11.5,1,0,10,7,43.770216,-79.501966,out,473.2190973,3
+1341,alive,oakred,Red Oak,Quercus,rubra,p,w,20.541401,1,0,11,13,43.77343271,-79.5082229,out,403.1650652,3
+274,alive,oakred,Red Oak,Quercus,rubra,p,sr,38,1,10,12,10,43.777043,-79.501978,out,232.9904071,6
+1191,alive,oakred,Red Oak,Quercus,rubra,p,e,15.923567,1,0,11,9,43.77317929,-79.50811865,out,347.6184266,7
+264,alive,oakred,Red Oak,Quercus,rubra,p,fy,34.076433,1,0,12,10,43.771616,-79.508542,out,521.7070729,2
+210,alive,oakred,Red Oak,Quercus,rubra,p,fy,30.5,1,30,7,10,43.777335,-79.502786,out,239.148628,6
+666,alive,oakred,Red Oak,Quercus,rubra,p,by,45,3,0,15,14,43.777332,-79.497014,out,180.1121451,6
+1338,alive,oakred,Red Oak,Quercus,rubra,p,w,14.968153,1,0,5,10,43.77332653,-79.50816953,out,333.9020297,5
+1680,alive,oakred,Red Oak,Quercus,rubra,p,s,18,1,0,10,15,43.77254923,-79.51177734,out,519.9952418,5
+973,alive,oakred,Red Oak,Quercus,rubra,p,by,42,1,10,10,11,43.77796,-79.502805,out,303.199929,8
+1011,alive,oakred,Red Oak,Quercus,rubra,p,by,24,1,50,4,6,43.777729,-79.501977,out,303.8225414,2
+1344,alive,oakred,Red Oak,Quercus,rubra,c,st,4.5,1,0,12,4,43.780332,-79.498511,out,105.4970961,9
+1340,alive,oakred,Red Oak,Quercus,rubra,p,w,24.840764,1,10,11,13,43.77348264,-79.5082351,out,92.54938208,6
+877,alive,oakred,Red Oak,Quercus,rubra,p,by,10,1,0,2.5,8,43.770161,-79.503659,out,527.8896109,7
+1318,alive,oakred,Red Oak,Quercus,rubra,p,sl,35.5,1,0,10,10,43.770747,-79.502829,out,443.0654361,3
+1743,alive,oakred,Red Oak,Quercus,rubra,p,fy,17,1,0,6,10,43.776552,-79.49827,out,290.597996,2
+755,alive,oakred,Red Oak,Quercus,rubra,p,fy,13.5,1,0,10,13.5,43.77176,-79.504501,out,387.4834102,1
+916,alive,oakred,Red Oak,Quercus,rubra,p,w,8,1,0,5,8.5,43.77373105,-79.50839018,out,298.6064199,2
+194,alive,oakred,Red Oak,Quercus,rubra,p,fy,16,1,0,8,12,43.772014,-79.508841,out,489.3994039,3
+275,alive,oakred,Red Oak,Quercus,rubra,p,sr,10,1,0,4,5,43.770247,-79.501822,out,465.8645031,3
+1299,alive,oakred,Red Oak,Quercus,rubra,p,sr,18,2,0,9,11,43.779977,-79.49686,out,712.7085577,3
+1407,alive,oakred,Red Oak,Quercus,rubra,p,nw,8.8,1,0,3.5,6,43.771907,-79.510934,out,561.8650388,2
+1103,alive,oakred,Red Oak,Quercus,rubra,p,sr,31,1,20,9,9,43.778314,-79.500015,out,422.5847131,1
+1034,alive,oakred,Red Oak,Quercus,rubra,p,sl,39.5,1,0,8,10,43.776485,-79.500494,out,219.3617097,4
+270,alive,oakred,Red Oak,Quercus,rubra,p,sr,14,1,0,7,7.5,43.770173,-79.50218,out,483.830224,3
+189,alive,oakred,Red Oak,Quercus,rubra,p,fy,32,1,0,15,13,43.772005,-79.508946,out,493.4307006,3
+399,alive,oakred,Red Oak,Quercus,rubra,p,sr,11.5,1,0,9,10,43.770762,-79.505828,out,66.37241441,10
+1080,alive,oakred,Red Oak,Quercus,rubra,p,sr,50.159236,1,0,14,15,43.777409,-79.499334,out,348.801228,3
+187,alive,oakred,Red Oak,Quercus,rubra,p,sr,49,1,40,14,12,43.776827,-79.501822,out,215.3473068,4
+991,alive,oakred,Red Oak,Quercus,rubra,p,by,36,1,40,11,10,43.778107,-79.502281,out,333.8640488,2
+1061,alive,oakred,Red Oak,Quercus,rubra,p,by,8.3,1,0,4,5,43.772314,-79.500119,out,298.6333622,6
+764,alive,oakred,Red Oak,Quercus,rubra,p,fy,4,1,0,1.8,7,43.771847,-79.504521,out,379.1002063,3
+1317,alive,oakred,Red Oak,Quercus,rubra,p,sl,39.8,1,0,17,8.5,43.770465,-79.502687,out,391.209688,8
+272,alive,oakred,Red Oak,Quercus,rubra,p,sr,11.4,1,0,10,6,43.7702,-79.502041,out,477.0344727,3
+358,alive,oakred,Red Oak,Quercus,rubra,p,n,13.5,1,0,7,9,43.77494659,-79.51028399,out,228.1040197,5
+1770,alive,oakred,Red Oak,Quercus,rubra,p,e,12,1,0,6,12,43.77648498,-79.51009634,within,63.51912488,5
+154,alive,oakred,Red Oak,Quercus,rubra,p,fy,5,1,0,2,9,43.776018,-79.503645,within,507.3071752,2
+2194,alive,oakred,Red Oak,Quercus,rubra,p,e,0,0,0,0,0,43.77495856,-79.50458615,within,59.61695208,5
+1191,alive,oakred,Red Oak,Quercus,rubra,p,fy,17.2,1,0,10,13,43.772527,-79.498469,within,347.6184266,7
+1316,alive,oakred,Red Oak,Quercus,rubra,p,sr,12.3,1,0,3,9.5,43.773065,-79.4977,within,392.7961501,9
+91,alive,oakred,Red Oak,Quercus,rubra,p,fy,24.5,1,20,9,12,43.776562,-79.504318,within,114.1185162,5
+1237,alive,oakred,Red Oak,Quercus,rubra,p,sr,34.5,1,0,12,11,43.775433,-79.499828,within,129.6813077,9
+1318,alive,oakred,Red Oak,Quercus,rubra,p,sr,12.5,1,0,3,12,43.77291,-79.497631,within,443.0654361,3
+1060,alive,oakred,Red Oak,Quercus,rubra,p,by,13,1,0,6,9,43.772339,-79.499984,within,195.9235922,2
+1773,alive,oakred,Red Oak,Quercus,rubra,p,e,18.5,1,0,12,17,43.77642673,-79.51009376,within,69.46544956,4
+1317,alive,oakred,Red Oak,Quercus,rubra,p,sr,13,1,0,2,9,43.772961,-79.497656,within,391.209688,8
+1513,alive,oakred,Red Oak,Quercus,rubra,p,s,44.5,1,0,17,31,43.77474571,-79.50426602,within,598.9387429,2
+1058,alive,oakred,Red Oak,Quercus,rubra,p,by,11.3,1,0,6,8,43.772378,-79.499781,within,186.043506,2
+1501,alive,oakred,Red Oak,Quercus,rubra,p,s,34.5,1,0,26,28,43.77497871,-79.50434769,within,50.52238081,6
+1305,alive,oakred,Red Oak,Quercus,rubra,p,sr,15,1,0,6,9.5,43.773505,-79.497657,within,8.18334624,2
+76,alive,oakred,Red Oak,Quercus,rubra,p,fy,35.5,1,0,11,13,43.776656,-79.504024,within,132.4844084,2
+1543,alive,oakred,Red Oak,Quercus,rubra,p,n,41.8,1,40,26,20,43.77440146,-79.50474234,within,121.8325683,12
+1540,alive,oakred,Red Oak,Quercus,rubra,p,n,51,1,50,17,18,43.77438644,-79.50479899,within,125.0515906,10
+1056,alive,oakred,Red Oak,Quercus,rubra,p,by,8.2,1,0,3,8,43.772425,-79.499598,within,437.7795273,5
+1285,alive,oakred,Red Oak,Quercus,rubra,p,sr,10,1,0,3,10,43.773952,-79.49767,within,37.86706773,2
+1258,alive,oakred,Red Oak,Quercus,rubra,p,pl,45,1,40,12,9,43.775354,-79.49948,within,415.1792183,4
+1264,alive,oakred,Red Oak,Quercus,rubra,p,pl,26,1,10,9,7,43.774836,-79.498096,within,247.1263738,2
+282,alive,oakred,Red Oak,Quercus,rubra,p,n,15.5,1,0,10,11.5,43.77511468,-79.50917189,within,178.2843052,1
+1238,alive,oakred,Red Oak,Quercus,rubra,p,sr,31.5,1,0,10,8,43.775442,-79.499752,within,132.8117947,9
+186,alive,oakred,Red Oak,Quercus,rubra,p,sr,37.5,1,10,11,13,43.775534,-79.503088,within,506.6021411,5
+1259,alive,oakred,Red Oak,Quercus,rubra,p,pl,28.5,1,20,10,9,43.775439,-79.498954,within,277.3716338,1
+761,alive,oakred,Red Oak,Quercus,rubra,p,st,12.5,1,0,5,10,43.771385,-79.496342,within,189.0169238,2
+1260,alive,oakred,Red Oak,Quercus,rubra,p,pl,19.5,1,20,5,6,43.775386,-79.498918,within,271.306669,2
+1319,alive,oakred,Red Oak,Quercus,rubra,p,sr,14,1,0,2,10.5,43.772847,-79.497617,within,75.37416913,4
+1284,alive,oakred,Red Oak,Quercus,rubra,p,sr,9.3,1,0,1,10,43.774008,-79.497695,within,767.0965977,4
+171,alive,oakred,Red Oak,Quercus,rubra,p,by,46.5,1,40,16,12,43.77552,-79.503458,within,399.8242936,10
+2135,alive,oakred,Red Oak,Quercus,rubra,p,n,15,1,5,14,24,43.77717764,-79.50473051,within,165.6707485,1
+1266,alive,oakred,Red Oak,Quercus,rubra,p,pl,17,1,20,10,9,43.775113,-79.498217,within,233.6955454,1
+1348,alive,oakred,Red Oak,Quercus,rubra,p,by,14.5,1,0,8,10,43.772628,-79.498602,within,126.3038546,2
+1233,alive,oakred,Red Oak,Quercus,rubra,p,sr,18,1,0,6,12,43.771895,-79.497364,within,165.5003705,10
+2133,alive,oakred,Red Oak,Quercus,rubra,p,n,16.8,1,15,12,16,43.77698952,-79.50465164,within,148.5310205,1
+1193,alive,oakred,Red Oak,Quercus,rubra,p,fy,15.8,1,0,8,12.5,43.772573,-79.498242,within,121.71448,3
+1195,alive,oakred,Red Oak,Quercus,rubra,p,fy,16.5,1,0,12,11.5,43.772617,-79.498025,within,110.9354617,3
+1490,alive,oakred,Red Oak,Quercus,rubra,p,w,37.5,1,0,14,31,43.77496237,-79.50453089,within,57.59831048,5
+1519,alive,oakred,Red Oak,Quercus,rubra,p,s,40.7,1,0,14,17,43.77463833,-79.50419769,within,81.27196947,6
+1263,alive,oakred,Red Oak,Quercus,rubra,p,pl,24,1,20,7,9,43.774794,-79.498659,within,252.9483995,1
+229,alive,oakred,Red Oak,Quercus,rubra,p,fy,43.5,1,40,7,10,43.777042,-79.50328,within,194.2826045,7
+550,alive,oakred,Red Oak,Quercus,rubra,p,fy,24.5,1,30,7,9,43.776108,-79.500405,within,107.3045584,3
+242,alive,oakred,Red Oak,Quercus,rubra,p,n,43,1,0,12,15,43.77490271,-79.50909025,within,197.8696513,7
+1055,alive,oakred,Red Oak,Quercus,rubra,p,by,11,1,0,5,8,43.772441,-79.4995,within,171.4314107,3
+896,alive,oakred,Red Oak,Quercus,rubra,C,n,15.3,1,0,10,23,43.77791242,-79.50872945,within,526.6904651,8
+551,alive,oakred,Red Oak,Quercus,rubra,p,fy,11.6,1,0,7,8,43.773388,-79.50098,within,115.6916984,4
+1265,alive,oakred,Red Oak,Quercus,rubra,p,pl,18,1,20,9,8,43.775058,-79.498194,within,240.3704015,1
+1283,alive,oakred,Red Oak,Quercus,rubra,p,sr,10.5,1,0,1,10,43.774057,-79.497713,within,347.8669556,3
+1350,alive,oakred,Red Oak,Quercus,rubra,p,by,17.2,1,0,8,10,43.772584,-79.498813,within,136.9110837,2
