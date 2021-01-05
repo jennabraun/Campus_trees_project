@@ -1,0 +1,80 @@
+---
+title: ""
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+```
+
+<br>
+![](./trees.jpg)  
+
+## Campus tree dynamics
+An exploration of tree health, consumer pressure, and disturbance. A long-term tree census [dataset](https://search.dataone.org/view/doi%3A10.5063%2FF13F4MZC) is reused here to examine change through time and explore potential key drivers.  
+
+### Data
+```{r}
+library(tidyverse)
+library(lubridate)
+
+#historical
+data <- read_csv("data/historical.csv") %>% 
+  mutate(date = mdy(Date)) %>% 
+  mutate(year = year(date)) 
+
+df <-  data %>% 
+  select(7, 9:11, DBH, 18, 32, 30, 28, year) %>% 
+  rename(TreeID = Tree_Tag_N, species = 2, common = 3, genus = 4, crown_width = 6, conks = 7, scars = 8,
+  branch_health = 9) 
+
+#contemporary sampling
+current <- read_csv("data/contemporary.csv") %>% 
+  select(1, 3:9)
+
+current <- current %>% 
+  rename(species = 2, DBH = 3, crown_width = 4, conks = 5, scars = 6,
+  branch_health = 8) %>% 
+  mutate(year = 2020)
+
+#commensalism
+commensalism <- read_csv("data/commensalism.csv") %>% 
+  select(1, 3:8) %>% 
+  mutate(year = 2020)
+
+#disturbance
+disturbance <- read_csv("data/disturbance.csv") %>% 
+  select(1, 3, 16:18) %>% 
+  rename(TreeID = 1, species = 2)
+
+
+#joins
+df_all <- left_join(df, current, by = c("TreeID", "species"))
+df_all <- left_join(df_all, disturbance, by = c("TreeID", "species"))
+#df_all <- left_join(df_all, commensalism, by = c("TreeID", "species"))
+
+df_growth <- df_all %>% 
+  filter(!is.na(DBH.y)) %>% 
+  filter(!is.na(crown_width.y)) %>%
+  mutate(DBH_change = DBH.y - DBH.x, crown_change = crown_width.y - crown_width.x)
+
+```
+
+
+### Viz
+```{r}
+ggplot(df_growth, aes(subway_dist, DBH_change, color = subway)) +
+  geom_point() +
+  geom_smooth(method = lm) +
+  scale_color_brewer(palette = "Dark2")
+
+ggplot(df_growth, aes(subway_dist, crown_change, color = subway)) +
+  geom_point() +
+  geom_smooth(method = lm)  +
+  scale_color_brewer(palette = "Dark2")
+
+
+```
+
+
+
